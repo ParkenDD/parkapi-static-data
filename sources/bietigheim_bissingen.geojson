@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkplatz Mühlwiesenstr.",
+        "name": "Parkplatz Mühlwiesenstr.",
+        "address": "",
+        "capacity": 106,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkhaus Kronenzentrum",
+        "name": "Parkhaus Kronenzentrum",
+        "address": "",
+        "capacity": 56,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkplatz Kronenzentrum",
+        "name": "Parkplatz Kronenzentrum",
+        "address": "",
+        "capacity": 52,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkplatz Farbstr.",
+        "name": "Parkplatz Farbstr.",
+        "address": "",
+        "capacity": 137,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "virtuelles Parkhaus am Standort KI_1-2",
+        "name": "virtuelles Parkhaus am Standort KI_1-2",
+        "address": "",
+        "capacity": 100,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkhaus Turmstr.",
+        "name": "Parkhaus Turmstr.",
+        "address": "",
+        "capacity": 98,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkhaus Farbstr.",
+        "name": "Parkhaus Farbstr.",
+        "address": "",
+        "capacity": 84,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkplatz Löchgauer Str.",
+        "name": "Parkplatz Löchgauer Str.",
+        "address": "",
+        "capacity": 32,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkplatz Holzgartenstr. 1",
+        "name": "Parkplatz Holzgartenstr. 1",
+        "address": "",
+        "capacity": 50,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkhaus Kaufland",
+        "name": "Parkhaus Kaufland",
+        "address": "",
+        "capacity": 572,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkplatz Am Japangarten",
+        "name": "Parkplatz Am Japangarten",
+        "address": "",
+        "capacity": 71,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkplatz Holzgartenstr. 3",
+        "name": "Parkplatz Holzgartenstr. 3",
+        "address": "",
+        "capacity": 51,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkhaus Löchgauer Str.",
+        "name": "Parkhaus Löchgauer Str.",
+        "address": "",
+        "capacity": 67,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "Parkplatz Holzgartenstr. 2",
+        "name": "Parkplatz Holzgartenstr. 2",
+        "address": "",
+        "capacity": 64,
+        "has_realtime_data": true,
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.140980,
+          48.956940
+        ]
+      }
+    },
+  ]
+}

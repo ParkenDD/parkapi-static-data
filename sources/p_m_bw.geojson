@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "fcde2f18-c277-11ed-b3ce-0050563bb33b",
+        "name": "A81 Ergenzingen",
+        "type": "OFF_STREET_PARKING_GROUND",
+        "description": "A81 Ausfahrt 29-Rottenburg, über die B 28a und Mercedesstraße im Gewerbegebiet Ergenzingen Ost"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.8279900,
+          48.5057100
+        ]
+      }
+    }
+    {
+      "type": "Feature",
+      "properties": {
+        "uid": "ff57e1d7-32c4-11ee-8f99-0050563bb33b",
+        "name": "A81 Mundelsheim",
+        "type": "OFF_STREET_PARKING_GROUND",
+        "description": "A81 Ausfahrt 13-Mundelsheim, über die L 1115 zwischen Mundelsheim und Großbottwar"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2372623,
+          49.0055564
+        ]
+      }
+    }
+  ]
+}

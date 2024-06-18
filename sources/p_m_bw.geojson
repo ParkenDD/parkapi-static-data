@@ -7,7 +7,10 @@
         "uid": "fcde2f18-c277-11ed-b3ce-0050563bb33b",
         "name": "A81 Ergenzingen",
         "type": "OFF_STREET_PARKING_GROUND",
-        "description": "A81 Ausfahrt 29-Rottenburg, über die B 28a und Mercedesstraße im Gewerbegebiet Ergenzingen Ost"
+        "description": "A81 Ausfahrt 29-Rottenburg, über die B 28a und Mercedesstraße im Gewerbegebiet Ergenzingen Ost",
+        "address": "Mercedesstraße 51, 72108 Rottenburg am Neckar",
+        "has_realtime_data": false,
+        "capacity": 111
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +26,10 @@
         "uid": "ff57e1d7-32c4-11ee-8f99-0050563bb33b",
         "name": "A81 Mundelsheim",
         "type": "OFF_STREET_PARKING_GROUND",
-        "description": "A81 Ausfahrt 13-Mundelsheim, über die L 1115 zwischen Mundelsheim und Großbottwar"
+        "description": "A81 Ausfahrt 13-Mundelsheim, über die L 1115 zwischen Mundelsheim und Großbottwar",
+        "address": "74395 Mundelsheim",
+        "has_realtime_data": false,
+        "capacity": 134
       },
       "geometry": {
         "type": "Point",

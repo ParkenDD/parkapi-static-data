@@ -72,23 +72,6 @@
     {
       "type": "Feature",
       "properties": {
-        "uid": "virtuelles Parkhaus am Standort KI_1-2",
-        "name": "virtuelles Parkhaus am Standort KI_1-2",
-        "address": "",
-        "capacity": 100,
-        "has_realtime_data": true
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.12256,
-          48.95013
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "uid": "Parkhaus Turmstr.",
         "name": "Parkhaus Turmstr.",
         "address": "",

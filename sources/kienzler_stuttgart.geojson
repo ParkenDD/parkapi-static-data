@@ -1,0 +1,195 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit329",
+                "address": "Tübinger Straße 37, 70178 Stuttgart",
+                "type": "TWO_TIER",
+                "park_and_ride_type": [
+                    "NO"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.17301,
+                    48.7708245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit406",
+                "address": "Arnulf-Klett-Platz, 70173 Stuttgart",
+                "type": "TWO_TIER",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": {
+                    "type": "DHID",
+                    "value": "de:08111:6112_Parent"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1807622,
+                    48.7830737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit407",
+                "address": "Arnulf-Klett-Platz, 70173 Stuttgart",
+                "type": "TWO_TIER",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": {
+                    "type": "DHID",
+                    "value": "de:08111:6112_Parent"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1808213,
+                    48.7830498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit408",
+                "address": "Arnulf-Klett-Platz, 70173 Stuttgart",
+                "type": "TWO_TIER",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": {
+                    "type": "DHID",
+                    "value": "de:08111:6112_Parent"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.180842,
+                    48.7830781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit409",
+                "address": "Arnulf-Klett-Platz, 70173 Stuttgart",
+                "type": "TWO_TIER",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": {
+                    "type": "DHID",
+                    "value": "de:08111:6112_Parent"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1807891,
+                    48.7831019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit411",
+                "address": "Am Schlossgarten (ehem. ZOB), 70173 Stuttgart",
+                "type": "TWO_TIER",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": {
+                    "type": "DHID",
+                    "value": "de:08111:6115_Parent"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1854776,
+                    48.7844809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit412",
+                "address": "Am Schlossgarten (ehem. ZOB), 70173 Stuttgart",
+                "type": "TWO_TIER",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": {
+                    "type": "DHID",
+                    "value": "de:08111:6115_Parent"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1855728,
+                    48.7845776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit413",
+                "address": "Am Schlossgarten (ehem. ZOB), 70173 Stuttgart",
+                "type": "TWO_TIER",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": {
+                    "type": "DHID",
+                    "value": "de:08111:6115_Parent"
+                }
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1856291,
+                    48.7846055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit612",
+                "address": "Hasenbergstraße/Breitscheidstraße, 70176 Stuttgart",
+                "type": "TWO_TIER",
+                "park_and_ride_type": [
+                    "NO"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1577455,
+                    48.7764545
+                ]
+            }
+        }
+    ]
+}

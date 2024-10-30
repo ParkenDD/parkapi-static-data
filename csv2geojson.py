@@ -29,7 +29,7 @@ with csvfile.open('r') as file:
         if row.get('park_and_ride_type'):
             properties['park_and_ride_type'] = [row['park_and_ride_type']]
         if row.get('DHID'):
-            properties['external_identifiers'] = { 'type': 'DHID', 'value': row['DHID'] }
+            properties['external_identifiers'] = [{ 'type': 'DHID', 'value': row['DHID'] }]
         features.append({ 'type': 'Feature', 'properties': properties, 'geometry': { 'type': 'Point', 'coordinates': [float(row['lon']), float(row['lat'])] } })
 
 jsondata = { 'type': 'FeatureCollection', 'features': features }

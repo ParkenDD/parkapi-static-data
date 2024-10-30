@@ -28,10 +28,12 @@
                 "park_and_ride_type": [
                     "TRAIN"
                 ],
-                "external_identifiers": {
-                    "type": "DHID",
-                    "value": "de:08111:6112_Parent"
-                }
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08111:6112_Parent"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -50,10 +52,12 @@
                 "park_and_ride_type": [
                     "TRAIN"
                 ],
-                "external_identifiers": {
-                    "type": "DHID",
-                    "value": "de:08111:6112_Parent"
-                }
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08111:6112_Parent"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -72,10 +76,12 @@
                 "park_and_ride_type": [
                     "TRAIN"
                 ],
-                "external_identifiers": {
-                    "type": "DHID",
-                    "value": "de:08111:6112_Parent"
-                }
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08111:6112_Parent"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -94,10 +100,12 @@
                 "park_and_ride_type": [
                     "TRAIN"
                 ],
-                "external_identifiers": {
-                    "type": "DHID",
-                    "value": "de:08111:6112_Parent"
-                }
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08111:6112_Parent"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -116,10 +124,12 @@
                 "park_and_ride_type": [
                     "TRAIN"
                 ],
-                "external_identifiers": {
-                    "type": "DHID",
-                    "value": "de:08111:6115_Parent"
-                }
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08111:6115_Parent"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -138,10 +148,12 @@
                 "park_and_ride_type": [
                     "TRAIN"
                 ],
-                "external_identifiers": {
-                    "type": "DHID",
-                    "value": "de:08111:6115_Parent"
-                }
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08111:6115_Parent"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",
@@ -160,10 +172,12 @@
                 "park_and_ride_type": [
                     "TRAIN"
                 ],
-                "external_identifiers": {
-                    "type": "DHID",
-                    "value": "de:08111:6115_Parent"
-                }
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08111:6115_Parent"
+                    }
+                ]
             },
             "geometry": {
                 "type": "Point",

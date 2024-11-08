@@ -1,4 +1,4 @@
-uid,lat,lon,address,type,park_and_ride_type,DHID,
+uid,lat,lon,address,type,park_and_ride_type,DHID
 unit329,48.7708245,9.1730100,"Tübinger Straße 37, 70178 Stuttgart",TWO_TIER,NO,
 unit406,48.7830737,9.1807622,"Arnulf-Klett-Platz, 70173 Stuttgart",TWO_TIER,TRAIN,de:08111:6112_Parent
 unit407,48.7830498,9.1808213,"Arnulf-Klett-Platz, 70173 Stuttgart",TWO_TIER,TRAIN,de:08111:6112_Parent

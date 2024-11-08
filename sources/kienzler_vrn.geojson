@@ -1,0 +1,329 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit441",
+                "address": "Luzenbergstraße, 68305 Mannheim",
+                "type": "LOCKERS",
+                "max_height": 1250,
+                "max_width": 800,
+                "max_depth": 1970,
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08222:2615:2:RiS"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4823,
+                    49.52584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit442",
+                "address": "Odenwaldstraße, 68259 Mannheim",
+                "type": "LOCKERS",
+                "max_height": 1270,
+                "max_width": 800,
+                "max_depth": 1990,
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08222:2315_Parent"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.538394,
+                    49.484177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit443",
+                "address": "Xaver-Fuhr-Straße, 68163 Mannheim",
+                "type": "TWO_TIER",
+                "max_height": 1250,
+                "max_width": 800,
+                "max_depth": 1970,
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08222:2641:1:1"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.515625,
+                    49.460159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit444",
+                "address": "Gebweilerstraße 13, 68229 Mannheim",
+                "type": "LOCKERS",
+                "max_height": 1250,
+                "max_width": 800,
+                "max_depth": 1970,
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08222:2334_Parent"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.571801,
+                    49.438087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit445",
+                "address": "Hochstättstraße 1-3, 68239 Mannheim",
+                "type": "TWO_TIER",
+                "max_height": 1170,
+                "max_width": 800,
+                "max_depth": 1990,
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08222:2586:1:1"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.538077,
+                    49.451715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit446",
+                "address": "Seckenheimer Hauptstraße, 68239 Mannheim",
+                "type": "LOCKERS",
+                "max_height": 1250,
+                "max_width": 800,
+                "max_depth": 1970,
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08222:2591:1:TrRiO"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.569226,
+                    49.462468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit447",
+                "address": "Spinnereistraße 10, 68307 Mannheim",
+                "type": "LOCKERS",
+                "max_height": 1250,
+                "max_width": 800,
+                "max_depth": 1970,
+                "park_and_ride_type": [
+                    "TRAM"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08222:2567:1:Tram"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.44997,
+                    49.541679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit465",
+                "address": "Eisenbahnstraße 2-4, 68766 Hockenheim",
+                "type": "TWO_TIER",
+                "max_height": 1170,
+                "max_width": 800,
+                "max_depth": 1990,
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08226:1620_Parent"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.537981,
+                    49.317282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit1665",
+                "address": "Am Bahnhof 2, 68809 Neulußheim",
+                "type": "LOCKERS",
+                "max_height": 1270,
+                "max_width": 800,
+                "max_depth": 1990,
+                "park_and_ride_type": [
+                    "BUS"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08226:3101:2:2"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.529403,
+                    49.29228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit2122",
+                "address": "Bahnhofsplatz, 9412 Eberbach",
+                "type": "LOCKERS",
+                "max_height": 1270,
+                "max_width": 800,
+                "max_depth": 1990,
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08226:534_Parent"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.983505,
+                    49.465697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit2620",
+                "address": "Bahnhofstraße, 68542 Heddesheim",
+                "type": "LOCKERS",
+                "max_height": 1270,
+                "max_width": 800,
+                "max_depth": 1990,
+                "park_and_ride_type": [
+                    "TRAM"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08226:5563:0:Tram"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.595539,
+                    49.504999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit2621",
+                "address": "Am Bundesbahnhof 12, 68542 Heddesheim",
+                "type": "LOCKERS",
+                "max_height": 1270,
+                "max_width": 800,
+                "max_depth": 1990,
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08226:1110_Parent"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.633236,
+                    49.509223
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+uid,lat,lon,address,type,park_and_ride_type,DHID
+unit553,49.250693,8.874392,"Ladestraße, 74889 Sinsheim",SHED,TRAIN,de:08226:3550_Parent
+unit555,49.250742,8.874204,"Ladestraße, 74889 Sinsheim",SHED,TRAIN,de:08226:3550_Parent
+unit1713,48.520906,9.949000,"Bahnhofsstraße, 89198 Westerstetten",SHED,TRAIN,de:08425:2470_Parent
+unit2048,47.810980,7.565034,"Beim Bahnhof/Pommernstraße, 79395 Neuenburg am Rhein",SHED,TRAM,de:08315:6740:1:1
+unit2360,48.618719,9.841620,"Bahnhofstraße, 73312 Geislingen an der Steige",SHED,TRAIN,de:08117:161_Parent

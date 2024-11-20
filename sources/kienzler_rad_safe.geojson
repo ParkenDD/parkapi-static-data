@@ -1,0 +1,125 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit553",
+                "address": "Ladestraße, 74889 Sinsheim",
+                "type": "SHED",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08226:3550_Parent"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.874392,
+                    49.250693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit555",
+                "address": "Ladestraße, 74889 Sinsheim",
+                "type": "SHED",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08226:3550_Parent"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.874204,
+                    49.250742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit1713",
+                "address": "Bahnhofsstraße, 89198 Westerstetten",
+                "type": "SHED",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08425:2470_Parent"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.949,
+                    48.520906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit2048",
+                "address": "Beim Bahnhof/Pommernstraße, 79395 Neuenburg am Rhein",
+                "type": "SHED",
+                "park_and_ride_type": [
+                    "TRAM"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08315:6740:1:1"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.565034,
+                    47.81098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "unit2360",
+                "address": "Bahnhofstraße, 73312 Geislingen an der Steige",
+                "type": "SHED",
+                "park_and_ride_type": [
+                    "TRAIN"
+                ],
+                "external_identifiers": [
+                    {
+                        "type": "DHID",
+                        "value": "de:08117:161_Parent"
+                    }
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.84162,
+                    48.618719
+                ]
+            }
+        }
+    ]
+}

@@ -5,10 +5,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-01_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -30,10 +30,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-02_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -55,10 +55,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-03_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -80,10 +80,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-04_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -105,10 +105,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-05_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -130,10 +130,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-06_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -155,10 +155,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-07_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -180,10 +180,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-08_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -205,10 +205,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-09_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -230,10 +230,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-10_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -255,10 +255,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-11_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -280,10 +280,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-12_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -305,10 +305,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-13_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -330,10 +330,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-14_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -355,10 +355,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-15_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -380,10 +380,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-16_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -405,10 +405,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-17_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -430,10 +430,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-18_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -455,10 +455,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-19_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -480,10 +480,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-20_C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
-                "name": "Parkhaus Salzstadel                                                                                                                                                                                                                                     ",
+                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
                 "restricted_to": [
@@ -505,10 +505,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-01_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -530,10 +530,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-02_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -555,10 +555,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-03_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -580,10 +580,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-04_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -605,10 +605,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-05_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -630,10 +630,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-06_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -655,10 +655,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-07_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -680,10 +680,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-08_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -705,10 +705,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-09_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -730,10 +730,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-10_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -755,10 +755,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-11_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -780,10 +780,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-12_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -805,10 +805,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-13_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -830,10 +830,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-14_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -855,10 +855,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-15_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -880,10 +880,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-16_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -905,10 +905,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-17_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -930,10 +930,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-18_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -955,10 +955,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-19_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -980,10 +980,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-20_132BECEE-D7C9-441E-A76E-3ADB216A76BA",
-                "name": "Parkhaus Fischerviertel                                                                                                                                                                                                                                        ",
+                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
                 "restricted_to": [
@@ -1005,10 +1005,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c01-19296d_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1030,10 +1030,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c02-1921b0_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1055,10 +1055,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c03-192985_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1080,10 +1080,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c04-192995_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1105,10 +1105,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c05-1921cd_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1130,10 +1130,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c06-1921dd_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1155,10 +1155,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c07-192968_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1180,10 +1180,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c08-1921da_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1205,10 +1205,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c09-192980_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1230,10 +1230,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c10-1921bc_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1255,10 +1255,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c11-192996_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1280,10 +1280,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c12-19298a_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1305,10 +1305,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c13-1921bb_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1330,10 +1330,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c14-1921d4_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1355,10 +1355,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c15-192987_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1380,10 +1380,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c16-19297d_057786EF-EF3E-4837-A0B9-F8D609E9ED34",
-                "name": "Congresscentrum Nord                                                                                                                                                                                                                                           ",
+                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
                 "restricted_to": [
@@ -1405,10 +1405,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r01-192851_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1430,10 +1430,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r02-19284f_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1455,10 +1455,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r03-192839_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1480,10 +1480,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r04-192835_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1505,10 +1505,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r05-192837_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1530,10 +1530,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r06-192838_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1555,10 +1555,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r07-192832_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1580,10 +1580,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r08-192834_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1605,10 +1605,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r09-192833_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1630,10 +1630,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r10-192836_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1655,10 +1655,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r11-192830_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1680,10 +1680,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r12-192831_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1705,10 +1705,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r13-19283c_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1730,10 +1730,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r14-19283d_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1755,10 +1755,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r15-19283b_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1780,10 +1780,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r16-19283a_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1805,10 +1805,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r17-192827_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1830,10 +1830,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r18-19283e_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1855,10 +1855,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r19-19283f_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1880,10 +1880,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r20-192840_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1905,10 +1905,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r21-19282f_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1930,10 +1930,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r22-19282e_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1955,10 +1955,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r23-192841_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -1980,10 +1980,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r24-19282c_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -2005,10 +2005,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r25-192842_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -2030,10 +2030,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r26-19282b_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -2055,10 +2055,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r27-19282d_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -2080,10 +2080,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r28-19282a_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -2105,10 +2105,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r29-192829_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -2130,10 +2130,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r30-192825_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -2155,10 +2155,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r31-192826_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -2179,10 +2179,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r32-192828_6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
-                "name": "Parkhaus am Rathaus                                                                                                                                                                                                                                            ",
+                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
                 "restricted_to": [
@@ -2203,10 +2203,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-006_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2228,10 +2228,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-007_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2253,10 +2253,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-008_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2278,10 +2278,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-009_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2303,10 +2303,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-010_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2328,10 +2328,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-011_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2353,10 +2353,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-012_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2378,10 +2378,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-013_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2403,10 +2403,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-014_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2428,10 +2428,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-015_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2453,10 +2453,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-016_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2478,10 +2478,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-017_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2503,10 +2503,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-018_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2528,10 +2528,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-019_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2553,10 +2553,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-020_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2578,10 +2578,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-021_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2603,10 +2603,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-054_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2628,10 +2628,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-055_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2653,10 +2653,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-056_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2678,10 +2678,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-057_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2703,10 +2703,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-058_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2728,10 +2728,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-059_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2753,10 +2753,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-060_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2778,10 +2778,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-061_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2803,10 +2803,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-062_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2828,10 +2828,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-063_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2853,10 +2853,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-064_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2878,10 +2878,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-065_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2903,10 +2903,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-066_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2928,10 +2928,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-067_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2953,10 +2953,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-068_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -2978,10 +2978,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-069_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3003,10 +3003,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-1-001_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3028,10 +3028,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-1-002_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3053,10 +3053,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-2-001_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3078,10 +3078,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-2-002_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3103,10 +3103,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-3-001_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3128,10 +3128,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-3-002_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3153,10 +3153,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-4-001_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3178,10 +3178,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-4-002_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3203,10 +3203,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-1-003_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3228,10 +3228,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-1-004_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3253,10 +3253,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-2-003_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3278,10 +3278,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-2-004_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3303,10 +3303,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-3-003_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3328,10 +3328,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-3-004_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3353,10 +3353,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-4-003_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3378,10 +3378,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-4-004_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3403,10 +3403,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-o-1-001_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3428,10 +3428,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-o-2-001_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3453,10 +3453,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-o-3-001_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3478,10 +3478,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-o-4-001_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3503,10 +3503,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-w-2-002_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3528,10 +3528,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-w-3-002_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [
@@ -3553,10 +3553,10 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-w-4-002_6173BA87-78EC-436C-85F0-B02C75C6B33B",
-                "name": "Parkhaus am Bahnhof                                                                                                                                                                                                                        ",
+                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "static_data_updated_at": "2025-04-10T14:16:53+00:00",
-                "has_realtime_data": "True",
+                "static_data_updated_at": "2025-04-11T14:01:56+00:00",
+                "has_realtime_data": true,
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
                 "restricted_to": [

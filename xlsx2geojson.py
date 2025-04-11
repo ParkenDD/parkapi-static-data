@@ -25,7 +25,7 @@ from parkapi_sources.converters.base_converter.push import (
     NormalizedXlsxConverter,
     XlsxConverter,
 )
-from parkapi_sources.models import SourceInfo, ExcelOpeningTimeInput, GeojsonInput
+from parkapi_sources.models import SourceInfo, ExcelOpeningTimeInput
 from parkapi_sources.util import ConfigHelper, RequestHelper
 from decimal import Decimal
 from validataclass.dataclasses import Default, validataclass
@@ -64,11 +64,13 @@ purpose_mapping: dict[str, str] = {
 
 
 def serialize(obj):
-    if isinstance(obj, Decimal):
+    if isinstance(obj, (bool, int, float)):
+        return obj
+    elif isinstance(obj, Decimal):
         return float(obj)
     elif isinstance(obj, datetime):
         return obj.isoformat()
-    elif hasattr(obj, "value"):  # for Enums
+    elif hasattr(obj, "value"):  # Check for Enums
         return obj.value
     elif isinstance(obj, list):
         return [
@@ -77,13 +79,22 @@ def serialize(obj):
             else {k: serialize(v) for k, v in item.items() if v is not None}
             for item in obj
         ]
-    elif obj.__class__.__name__ == "UnsetValueType":  # custom check for UnsetValue
+    elif obj.__class__.__name__ == "UnsetValueType":  # Check for UnsetValue
         return None
     return str(obj)
 
 
 def filter_none(data: dict) -> dict:
     return {key: serialize(value) for key, value in data.items() if value is not None}
+
+
+@validataclass
+class ExcelStaticParkingSpotInput(StaticParkingSpotInput):
+    uid: str = NumberCastingStringValidator(min_length=1, max_length=256)
+    max_stay: Optional[int] = (
+        ExcelNoneable(GermanDurationIntegerValidator()),
+        Default(None),
+    )
 
 
 class Xlsx2GeojsonParkingSites(NormalizedXlsxConverter, ParkingSiteBaseConverter):
@@ -127,7 +138,11 @@ class Xlsx2GeojsonParkingSites(NormalizedXlsxConverter, ParkingSiteBaseConverter
         parking_site_dict = super().map_row_to_parking_site_dict(mapping, row, **kwargs)
 
         for field in mapping.keys():
-            parking_site_dict[field] = row[mapping[field]].value
+            parking_site_dict[field] = (
+                row[mapping[field]].value.strip()
+                if isinstance(row[mapping[field]].value, str)
+                else row[mapping[field]].value
+            )
 
         parking_site_dict["max_height"] = (
             round(parking_site_dict.get("max_height"))
@@ -207,15 +222,6 @@ class Xlsx2GeojsonParkingSites(NormalizedXlsxConverter, ParkingSiteBaseConverter
                 continue
 
         return static_parking_site_inputs, static_parking_site_errors
-
-
-@validataclass
-class ExcelStaticParkingSpotInput(StaticParkingSpotInput):
-    uid: str = NumberCastingStringValidator(min_length=1, max_length=256)
-    max_stay: Optional[int] = (
-        ExcelNoneable(GermanDurationIntegerValidator()),
-        Default(None),
-    )
 
 
 class Xlsx2GeojsonParkingSpots(XlsxConverter, ParkingSpotBaseConverter):
@@ -317,7 +323,11 @@ class Xlsx2GeojsonParkingSpots(XlsxConverter, ParkingSpotBaseConverter):
     ) -> dict[str, Any]:
         parking_spot_raw_dict: dict[str, str] = {}
         for field in mapping.keys():
-            parking_spot_raw_dict[field] = row[mapping[field]].value
+            parking_spot_raw_dict[field] = (
+                row[mapping[field]].value.strip()
+                if isinstance(row[mapping[field]].value, str)
+                else row[mapping[field]].value
+            )
 
         parking_spot_dict = {
             key: value
@@ -364,7 +374,7 @@ elif source_group == "parking-spots":
     xlsx2geojson = Xlsx2GeojsonParkingSpots()
 
 static_parking_inputs, import_parking_exceptions = xlsx2geojson.handle_xlsx(workbook)
-static_geojson_parking_inputs: GeojsonInput = {
+static_geojson_parking_inputs: dict[str, Any] = {
     "type": "FeatureCollection",
     "features": static_parking_inputs,
 }

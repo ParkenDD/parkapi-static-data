@@ -11,6 +11,8 @@ from openpyxl.workbook.workbook import Workbook
 from openpyxl.reader.excel import load_workbook
 from validataclass.exceptions import ValidationError
 
+sys.path.append(str(Path(Path(__file__).parent.parent, "parkapi-sources-v3/src")))
+
 from parkapi_sources.exceptions import (
     ImportParkingSiteException,
     ImportParkingSpotException,

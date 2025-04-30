@@ -1,0 +1,248 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
+                "name": "Parkhaus Salzstadel",
+                "purpose": "CAR",
+                "operator_name": "Ulmer Parkbetriebs-GmbH",
+                "public_url": "https://parken-in-ulm.de/",
+                "address": "Salzstadelgasse 14, 89073 Ulm",
+                "type": "UNDERGROUND",
+                "max_stay": 259200,
+                "max_height": 2,
+                "has_lighting": true,
+                "fee_description": "ja",
+                "has_fee": true,
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-04-14T13:17:46+00:00",
+                "lat": 48.4011345561022,
+                "lon": 9.99015968899597,
+                "capacity": 525,
+                "capacity_disabled": 2,
+                "capacity_woman": 68,
+                "capacity_charging": 20,
+                "capacity_carsharing": 2,
+                "opening_hours": "24/7",
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.99015968899597,
+                    48.4011345561022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "FD12A50D-0722-4A0A-AC47-CD88EFF6862A",
+                "name": "Parkhaus Deutschhaus",
+                "purpose": "CAR",
+                "operator_name": "Ulmer Parkbetriebs-GmbH",
+                "public_url": "https://parken-in-ulm.de/",
+                "address": "Friedrich-Ebert-Straße 8, 89073 Ulm",
+                "type": "CAR_PARK",
+                "max_stay": 259200,
+                "max_height": 2,
+                "has_lighting": true,
+                "fee_description": "ja",
+                "has_fee": true,
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-04-14T13:17:46+00:00",
+                "lat": 48.398085833722,
+                "lon": 9.98472486865934,
+                "capacity": 600,
+                "capacity_disabled": 2,
+                "capacity_woman": 70,
+                "capacity_charging": 4,
+                "capacity_carsharing": 0,
+                "opening_hours": "24/7",
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.98472486865934,
+                    48.398085833722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "132BECEE-D7C9-441E-A76E-3ADB216A76BA",
+                "name": "Parkhaus Fischerviertel",
+                "purpose": "CAR",
+                "operator_name": "Ulmer Parkbetriebs-GmbH",
+                "public_url": "https://parken-in-ulm.de/",
+                "address": "Schwilmengasse 1-1, 89073 Ulm",
+                "type": "UNDERGROUND",
+                "max_stay": 604800,
+                "max_height": 2,
+                "has_lighting": true,
+                "fee_description": "ja",
+                "has_fee": true,
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-04-14T13:17:46+00:00",
+                "lat": 48.396582769184,
+                "lon": 9.98827611313367,
+                "capacity": 390,
+                "capacity_disabled": 1,
+                "capacity_woman": 54,
+                "capacity_charging": 20,
+                "capacity_carsharing": 2,
+                "opening_hours": "24/7",
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.98827611313367,
+                    48.396582769184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "057786EF-EF3E-4837-A0B9-F8D609E9ED34",
+                "name": "Congresscentrum Nord",
+                "purpose": "CAR",
+                "operator_name": "Ulmer Parkbetriebs-GmbH",
+                "public_url": "https://parken-in-ulm.de/",
+                "address": "Wichernstraße, 89073 Ulm",
+                "type": "UNDERGROUND",
+                "max_height": 2,
+                "has_lighting": true,
+                "fee_description": "ja",
+                "has_fee": true,
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-04-14T13:17:46+00:00",
+                "lat": 48.401631838231,
+                "lon": 10.0024305974947,
+                "capacity": 410,
+                "capacity_disabled": 1,
+                "capacity_woman": 58,
+                "capacity_charging": 16,
+                "capacity_carsharing": 0,
+                "opening_hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15",
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0024305974947,
+                    48.401631838231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
+                "name": "Parkhaus am Rathaus",
+                "purpose": "CAR",
+                "operator_name": "Ulmer Parkbetriebs-GmbH",
+                "public_url": "https://parken-in-ulm.de/",
+                "address": "Neue Str., 89073 Ulm",
+                "type": "UNDERGROUND",
+                "max_stay": 259200,
+                "max_height": 2,
+                "has_lighting": true,
+                "fee_description": "ja",
+                "has_fee": true,
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-04-14T13:17:46+00:00",
+                "lat": 48.3972484187254,
+                "lon": 9.99093039749452,
+                "capacity": 574,
+                "capacity_disabled": 4,
+                "capacity_woman": 64,
+                "capacity_charging": 4,
+                "capacity_carsharing": 0,
+                "opening_hours": "24/7",
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.99093039749452,
+                    48.3972484187254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "FD6B8240-B9D2-4F85-B877-3EAE4E9B1C87",
+                "name": "Parkhaus Theater",
+                "purpose": "CAR",
+                "operator_name": "Ulmer Parkbetriebs-GmbH",
+                "public_url": "https://parken-in-ulm.de/",
+                "address": "Herbert-von-Karajan-Platz 1, 89073 Ulm",
+                "type": "UNDERGROUND",
+                "max_height": 2,
+                "has_lighting": true,
+                "fee_description": "ja",
+                "has_fee": true,
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-04-14T13:17:46+00:00",
+                "lat": 48.4007540416262,
+                "lon": 9.9855004541601,
+                "capacity": 74,
+                "capacity_disabled": 1,
+                "capacity_woman": 0,
+                "capacity_charging": 0,
+                "capacity_carsharing": 0,
+                "opening_hours": "Mo-Fr 18:30-02:00; Sa 06:30-02:00; Su 06:30-02:00",
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9855004541601,
+                    48.4007540416262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "uid": "6173BA87-78EC-436C-85F0-B02C75C6B33B",
+                "name": "Parkhaus am Bahnhof",
+                "purpose": "CAR",
+                "operator_name": "Ulmer Parkbetriebs-GmbH",
+                "public_url": "https://parken-in-ulm.de/",
+                "address": "Bahnhofplatz 8, 89073 Ulm",
+                "type": "UNDERGROUND",
+                "max_stay": 604800,
+                "max_height": 2,
+                "has_lighting": true,
+                "fee_description": "ja",
+                "has_fee": true,
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-04-14T13:17:46+00:00",
+                "lat": 48.3982298029325,
+                "lon": 9.98426045923199,
+                "capacity": 547,
+                "capacity_disabled": 8,
+                "capacity_woman": 56,
+                "capacity_charging": 32,
+                "capacity_carsharing": 0,
+                "opening_hours": "24/7",
+                "tags": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.98426045923199,
+                    48.3982298029325
+                ]
+            }
+        }
+    ]
+}

@@ -4,7 +4,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uid": "C699C145-EB2E-4CF5-9A50-1A8A56FBF64D",
+                "uid": "c699c145-eb2e-4cf5-9a50-1a8a56fbf64d",
                 "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
                 "operator_name": "Ulmer Parkbetriebs-GmbH",
@@ -39,7 +39,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uid": "FD12A50D-0722-4A0A-AC47-CD88EFF6862A",
+                "uid": "fd12a50d-0722-4a0a-ac47-cd88eff6862a",
                 "name": "Parkhaus Deutschhaus",
                 "purpose": "CAR",
                 "operator_name": "Ulmer Parkbetriebs-GmbH",
@@ -74,7 +74,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uid": "132BECEE-D7C9-441E-A76E-3ADB216A76BA",
+                "uid": "132becee-d7c9-441e-a76e-3adb216a76ba",
                 "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
                 "operator_name": "Ulmer Parkbetriebs-GmbH",
@@ -109,7 +109,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uid": "057786EF-EF3E-4837-A0B9-F8D609E9ED34",
+                "uid": "057786ef-ef3e-4837-a0b9-f8d609e9ed34",
                 "name": "Congresscentrum Nord",
                 "purpose": "CAR",
                 "operator_name": "Ulmer Parkbetriebs-GmbH",
@@ -143,7 +143,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uid": "6C5A1B0B-D83C-4C25-A4AF-4DB29D7280A8",
+                "uid": "6c5a1b0b-d83c-4c25-a4af-4db29d7280a8",
                 "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
                 "operator_name": "Ulmer Parkbetriebs-GmbH",
@@ -178,7 +178,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uid": "FD6B8240-B9D2-4F85-B877-3EAE4E9B1C87",
+                "uid": "fd6b8240-b9d2-4f85-b877-3eae4e9b1c87",
                 "name": "Parkhaus Theater",
                 "purpose": "CAR",
                 "operator_name": "Ulmer Parkbetriebs-GmbH",
@@ -212,7 +212,7 @@
         {
             "type": "Feature",
             "properties": {
-                "uid": "6173BA87-78EC-436C-85F0-B02C75C6B33B",
+                "uid": "6173ba87-78ec-436c-85f0-b02c75c6b33b",
                 "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
                 "operator_name": "Ulmer Parkbetriebs-GmbH",

@@ -38,6 +38,9 @@ from parkapi_sources.validators import (
     NumberCastingStringValidator,
 )
 
+import warnings
+
+
 parser = argparse.ArgumentParser(
     prog="Xlsx2Geojson Conversion Script",
     description="This script helps to convert Excel Reference Table to ParkAPI Geojson",
@@ -55,7 +58,11 @@ if not source_group:
 if not source_group:
     sys.exit("Error: please add a source_group e.g. parking-spots, parking-sites")
 
-file_path: Path = Path(f"sources/{str(source_group)}/{str(source_uid)}.xlsx")
+if source_group == "parking-sites":
+    file_path: Path = Path(f"sources/{str(source_uid)}.xlsx")
+elif source_group == "parking-spots":
+    file_path: Path = Path(f"sources/parking-spots/{str(source_uid)}.xlsx")
+
 if not file_path.is_file():
     sys.exit(f"Error: please add an Excel file with name '{file_path}'")
 
@@ -90,6 +97,10 @@ def filter_none(data: dict) -> dict:
     return {key: serialize(value) for key, value in data.items() if value is not None}
 
 
+def to_single_line(text: str) -> str:
+    return " ".join(text.strip().splitlines())
+
+
 @validataclass
 class ExcelStaticParkingSpotInput(StaticParkingSpotInput):
     uid: str = NumberCastingStringValidator(min_length=1, max_length=256)
@@ -99,7 +110,42 @@ class ExcelStaticParkingSpotInput(StaticParkingSpotInput):
     )
 
 
-class Xlsx2GeojsonParkingSites(NormalizedXlsxConverter, ParkingSiteBaseConverter):
+class HeaderMappingMixin:
+    def get_mapping_by_header(
+        self, row: tuple[Cell, ...], expected_header_row: dict[str, str]
+    ) -> dict[str, int]:
+        row_values = [
+            str(cell.value).strip().replace("\n", "") if cell.value else ""
+            for cell in row
+        ]
+        normalized_headers = {
+            header.lower(): idx for idx, header in enumerate(row_values)
+        }
+
+        mapping: dict[str, int] = {}
+        for expected_header, target_field in expected_header_row.items():
+            expected_normalized = expected_header.lower().strip()
+            if expected_normalized in normalized_headers:
+                mapping[target_field] = normalized_headers[expected_normalized]
+            else:
+                warnings.warn(
+                    f"⚠️ Missing header: '{expected_header}' for field '{target_field}'",
+                    ImportWarning,
+                )
+        return mapping
+
+
+class TypeMappingMixin:
+    type_mapping: dict[str, str] = {
+        "Parkplatz": "OFF_STREET_PARKING_GROUND",
+        "Parkhaus": "CAR_PARK",
+        "Tiefgarage": "UNDERGROUND",
+    }
+
+
+class Xlsx2GeojsonParkingSites(
+    HeaderMappingMixin, NormalizedXlsxConverter, ParkingSiteBaseConverter
+):
     source_info = SourceInfo(
         uid=source_uid,
         name="Convert ParkingSites Reference Table to Geojson",
@@ -159,6 +205,9 @@ class Xlsx2GeojsonParkingSites(NormalizedXlsxConverter, ParkingSiteBaseConverter
         parking_site_dict["opening_hours"] = parking_site_dict["opening_hours"].replace(
             "00:00-00:00", "00:00-24:00"
         )
+        parking_site_dict["fee_description"] = to_single_line(
+            str(parking_site_dict["fee_description"])
+        )
         parking_site_dict["purpose"] = purpose_mapping.get(
             parking_site_dict.get("purpose")
         )
@@ -178,7 +227,9 @@ class Xlsx2GeojsonParkingSites(NormalizedXlsxConverter, ParkingSiteBaseConverter
         self, workbook: Workbook
     ) -> tuple[list[StaticParkingSiteInput], list[ImportParkingSiteException]]:
         worksheet = workbook.active
-        mapping: dict[str, int] = self.get_mapping_by_header(next(worksheet.rows))
+        mapping: dict[str, int] = self.get_mapping_by_header(
+            next(worksheet.rows), self.header_row
+        )
 
         static_parking_site_errors: list[ImportParkingSiteException] = []
         static_parking_site_inputs: list[StaticParkingSiteInput] = []
@@ -226,7 +277,9 @@ class Xlsx2GeojsonParkingSites(NormalizedXlsxConverter, ParkingSiteBaseConverter
         return static_parking_site_inputs, static_parking_site_errors
 
 
-class Xlsx2GeojsonParkingSpots(XlsxConverter, ParkingSpotBaseConverter):
+class Xlsx2GeojsonParkingSpots(
+    HeaderMappingMixin, TypeMappingMixin, XlsxConverter, ParkingSpotBaseConverter
+):
     source_info = SourceInfo(
         uid=source_uid,
         name="Convert ParkingSpots Reference Table to Geojson",
@@ -239,7 +292,8 @@ class Xlsx2GeojsonParkingSpots(XlsxConverter, ParkingSpotBaseConverter):
     header_row: dict[str, str] = {
         "ID": "uid",
         "Name": "name",
-        "Widmung": "type",
+        "Art der Anlage": "type",
+        "Widmung": "restricted_to_type",
         "Längengrad": "lon",
         "Breitengrad": "lat",
         "Zweck der Anlage": "purpose",
@@ -270,7 +324,9 @@ class Xlsx2GeojsonParkingSpots(XlsxConverter, ParkingSpotBaseConverter):
         self, workbook: Workbook
     ) -> tuple[list[StaticParkingSpotInput], list[ImportParkingSpotException]]:
         worksheet = workbook.active
-        mapping: dict[str, int] = self.get_mapping_by_header(next(worksheet.rows))
+        mapping: dict[str, int] = self.get_mapping_by_header(
+            next(worksheet.rows), self.header_row
+        )
 
         static_parking_spot_errors: list[ImportParkingSpotException] = []
         static_parking_spot_features: list[StaticParkingSpotInput] = []
@@ -344,17 +400,20 @@ class Xlsx2GeojsonParkingSpots(XlsxConverter, ParkingSpotBaseConverter):
             }
         )
 
+        restricted_to_raw = parking_spot_raw_dict.get("restricted_to_type", "")
         restricted_to_type = (
-            self.restricted_to_type_mapping.get(
-                parking_spot_raw_dict.get("type", "").strip()
-            )
-            if isinstance(parking_spot_raw_dict["type"], str)
+            self.restricted_to_type_mapping.get(restricted_to_raw.strip())
+            if isinstance(restricted_to_raw, str)
             else None
         )
         restricted_to = {
             "type": restricted_to_type,
             "hours": opening_hours_input.get_osm_opening_hours(),
         }
+
+        parking_spot_dict["type"] = self.type_mapping.get(
+            parking_spot_dict.get("type"), "OFF_STREET_PARKING_GROUND"
+        )
         parking_spot_dict["restricted_to"] = [restricted_to]
         parking_spot_dict["has_realtime_data"] = self.source_info.has_realtime_data
         parking_spot_dict["purpose"] = purpose_mapping.get(
@@ -385,6 +444,7 @@ geojson_file = file_path.with_suffix(".geojson")
 with geojson_file.open("w") as file:
     json.dump(static_geojson_parking_inputs, file, ensure_ascii=False, indent=4)
 
+print(import_parking_exceptions)
 print(
     f"Successful with {len(static_parking_inputs)} {source_group} and {len(import_parking_exceptions)} Errors"
 )

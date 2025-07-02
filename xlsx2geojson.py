@@ -411,9 +411,13 @@ class Xlsx2GeojsonParkingSpots(
             "hours": opening_hours_input.get_osm_opening_hours(),
         }
 
-        parking_spot_dict["type"] = self.type_mapping.get(
-            parking_spot_dict.get("type"), "OFF_STREET_PARKING_GROUND"
+        raw_type = parking_spot_dict.get("type")
+        parking_spot_dict["type"] = (
+            self.type_mapping[raw_type.strip()]
+            if isinstance(raw_type, str) and raw_type.strip() in self.type_mapping
+            else None
         )
+
         parking_spot_dict["restricted_to"] = [restricted_to]
         parking_spot_dict["has_realtime_data"] = self.source_info.has_realtime_data
         parking_spot_dict["purpose"] = purpose_mapping.get(
@@ -444,7 +448,8 @@ geojson_file = file_path.with_suffix(".geojson")
 with geojson_file.open("w") as file:
     json.dump(static_geojson_parking_inputs, file, ensure_ascii=False, indent=4)
 
-print(import_parking_exceptions)
+if len(import_parking_exceptions) > 0:
+    print(import_parking_exceptions)
 print(
     f"Successful with {len(static_parking_inputs)} {source_group} and {len(import_parking_exceptions)} Errors"
 )

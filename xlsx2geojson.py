@@ -66,11 +66,6 @@ elif source_group == "parking-spots":
 if not file_path.is_file():
     sys.exit(f"Error: please add an Excel file with name '{file_path}'")
 
-purpose_mapping: dict[str, str] = {
-    "Auto": "CAR",
-    "Fahrrad": "BIKE",
-}
-
 
 def serialize(obj):
     if isinstance(obj, (bool, int, float)):
@@ -101,6 +96,12 @@ def to_single_line(text: str) -> str:
     return " ".join(text.strip().splitlines())
 
 
+def normalize_text(text: str) -> str:
+    if isinstance(text, str):
+        return text.strip().lower()
+    return text
+
+
 @validataclass
 class ExcelStaticParkingSpotInput(StaticParkingSpotInput):
     uid: str = NumberCastingStringValidator(min_length=1, max_length=256)
@@ -111,6 +112,41 @@ class ExcelStaticParkingSpotInput(StaticParkingSpotInput):
 
 
 class HeaderMappingMixin:
+    # For additional attributes not in Generic Converter and if column names changes
+    additional_header_rows: dict[str, str] = {
+        "Einfahrtshöhe (cm)": "max_height",
+        "Zweck der Anlage": "purpose",
+        "Überwacht?": "supervision_type",
+        "Anzahl Stellplätze Carsharing": "capacity_carsharing",
+        "Anzahl Stellplätze Lademöglichkeit": "capacity_charging",
+        "Anzahl Stellplätze Frauen": "capacity_woman",
+        "Anzahl Stellplätze Behinderte": "capacity_disabled",
+        "Anzahl Stellplätze Familien": "capacity_family",
+        "Anzahl Stellplätze Bus": "capacity_bus",
+        "Anzahl Stellplätze Lastwagen": "capacity_truck",
+        "Park+Ride?": "park_and_ride_type",
+        "Einfahrtshöhe": "max_height",
+        "Überdacht?": "is_covered",
+        "ID": "uid",
+        "Name": "name",
+        "Art der Anlage": "type",
+        "Widmung": "restricted_to_type",
+        "Längengrad": "lon",
+        "Breitengrad": "lat",
+        "Geometry": "geojson",
+        "Maximale Parkdauer": "max_stay",
+        "24/7 geöffnet?": "opening_hours_is_24_7",
+        "Öffnungszeiten Mo-Fr Beginn": "opening_hours_weekday_begin",
+        "Öffnungszeiten Mo-Fr Ende": "opening_hours_weekday_end",
+        "Öffnungszeiten Sa Beginn": "opening_hours_saturday_begin",
+        "Öffnungszeiten Sa Ende": "opening_hours_saturday_end",
+        "Öffnungszeiten So Beginn": "opening_hours_sunday_begin",
+        "Öffnungszeiten So Ende": "opening_hours_sunday_end",
+        "Gebührenpflichtig?": "has_fee",
+        "Adresse - Straße und Nummer": "street_number",
+        "Adresse - PLZ und Stadt": "postcode_city",
+    }
+
     def get_mapping_by_header(
         self, row: tuple[Cell, ...], expected_header_row: dict[str, str]
     ) -> dict[str, int]:
@@ -135,16 +171,48 @@ class HeaderMappingMixin:
         return mapping
 
 
-class TypeMappingMixin:
+class EnumTypeMappingMixin:
     type_mapping: dict[str, str] = {
-        "Parkplatz": "OFF_STREET_PARKING_GROUND",
-        "Parkhaus": "CAR_PARK",
-        "Tiefgarage": "UNDERGROUND",
+        "parkplatz": "OFF_STREET_PARKING_GROUND",
+        "parkhaus": "CAR_PARK",
+        "tiefgarage": "UNDERGROUND",
+    }
+
+    purpose_type_mapping: dict[str, str] = {
+        "auto": "CAR",
+        "fahrrad": "BIKE",
+    }
+
+    supervision_type_mapping: dict[str, str] = {
+        True: "YES",
+        False: "NO",
+        "video": "VIDEO",
+        "ja": "YES",
+        "nein": "NO",
+        "bewacht": "ATTENDED",
+    }
+
+    restricted_to_type_mapping: dict[str, str] = {
+        "ladesäule": "CHARGING",
+        "familie": "FAMILY",
+        "handicap": "DISABLED",
+    }
+
+    park_and_ride_type_mapping: dict[str, str] = {
+        "fahrgemeinschaft": "CARPOOL",
+        "bahn": "TRAIN",
+        "bus": "BUS",
+        "straßenbahn": "TRAM",
+        "ja": "YES",
+        "nein": "NO",
     }
 
 
 class Xlsx2GeojsonParkingSites(
-    HeaderMappingMixin, NormalizedXlsxConverter, ParkingSiteBaseConverter
+    HeaderMappingMixin,
+    EnumTypeMappingMixin,
+    NormalizedXlsxConverter,
+    ParkingSiteBaseConverter,
 ):
     source_info = SourceInfo(
         uid=source_uid,
@@ -152,29 +220,19 @@ class Xlsx2GeojsonParkingSites(
         has_realtime_data=True,
     )
 
-    supervision_type_mapping: dict[str, str] = {
-        True: "YES",
-        False: "NO",
-    }
-
     def __init__(self, config: Optional[dict] = None):
         self.config = config or {}
         self.config_helper = ConfigHelper(config=self.config)
         self.request_helper = RequestHelper(config_helper=self.config_helper)
         super().__init__(self.config_helper, self.request_helper)
 
-        # For additional attributes not in Generic Converter and if column names changes
-        additional_header_rows: dict[str, str] = {
-            "Einfahrtshöhe (cm)": "max_height",
-            "Zweck der Anlage": "purpose",
-        }
         self.header_row = {
             **{
                 key: value
                 for key, value in super().header_row.items()
-                if value not in additional_header_rows.values()
+                if value not in self.additional_header_rows.values()
             },
-            **additional_header_rows,
+            **self.additional_header_rows,
         }
 
     def map_row_to_parking_site_dict(
@@ -208,15 +266,26 @@ class Xlsx2GeojsonParkingSites(
         parking_site_dict["fee_description"] = to_single_line(
             str(parking_site_dict["fee_description"])
         )
-        parking_site_dict["purpose"] = purpose_mapping.get(
-            parking_site_dict.get("purpose")
+        parking_site_dict["purpose"] = self.purpose_type_mapping.get(
+            normalize_text(parking_site_dict.get("purpose"))
         )
         parking_site_dict["type"] = self.type_mapping.get(
-            parking_site_dict.get("type"), "OFF_STREET_PARKING_GROUND"
+            normalize_text(parking_site_dict.get("type")), "OFF_STREET_PARKING_GROUND"
         )
         parking_site_dict["supervision_type"] = self.supervision_type_mapping.get(
-            parking_site_dict.get("supervision_type"),
+            normalize_text(parking_site_dict.get("supervision_type")),
         )
+        parking_site_dict["park_and_ride_type"] = self.park_and_ride_type_mapping.get(
+            normalize_text(parking_site_dict.get("park_and_ride_type")),
+        )
+        if (
+            "street_number" in parking_site_dict
+            and "postcode_city" in parking_site_dict
+        ):
+            parking_site_dict["address"] = (
+                f"""{parking_site_dict["street_number"]}, {parking_site_dict["postcode_city"]}"""
+            )
+
         parking_site_dict["static_data_updated_at"] = datetime.now(
             tz=timezone.utc
         ).isoformat()
@@ -278,7 +347,7 @@ class Xlsx2GeojsonParkingSites(
 
 
 class Xlsx2GeojsonParkingSpots(
-    HeaderMappingMixin, TypeMappingMixin, XlsxConverter, ParkingSpotBaseConverter
+    HeaderMappingMixin, EnumTypeMappingMixin, XlsxConverter, ParkingSpotBaseConverter
 ):
     source_info = SourceInfo(
         uid=source_uid,
@@ -288,31 +357,6 @@ class Xlsx2GeojsonParkingSpots(
 
     static_parking_spot_validator = DataclassValidator(ExcelStaticParkingSpotInput)
     excel_opening_time_validator = DataclassValidator(ExcelOpeningTimeInput)
-
-    header_row: dict[str, str] = {
-        "ID": "uid",
-        "Name": "name",
-        "Art der Anlage": "type",
-        "Widmung": "restricted_to_type",
-        "Längengrad": "lon",
-        "Breitengrad": "lat",
-        "Zweck der Anlage": "purpose",
-        "Geometry": "geojson",
-        "Maximale Parkdauer": "max_stay",
-        "24/7 geöffnet?": "opening_hours_is_24_7",
-        "Öffnungszeiten Mo-Fr Beginn": "opening_hours_weekday_begin",
-        "Öffnungszeiten Mo-Fr Ende": "opening_hours_weekday_end",
-        "Öffnungszeiten Sa Beginn": "opening_hours_saturday_begin",
-        "Öffnungszeiten Sa Ende": "opening_hours_saturday_end",
-        "Öffnungszeiten So Beginn": "opening_hours_sunday_begin",
-        "Öffnungszeiten So Ende": "opening_hours_sunday_end",
-    }
-
-    restricted_to_type_mapping: dict[str, str] = {
-        "Ladesäule": "CHARGING",
-        "Familie": "FAMILY",
-        "Handicap": "DISABLED",
-    }
 
     def __init__(self, config: Optional[dict] = None):
         self.config = config or {}
@@ -325,7 +369,7 @@ class Xlsx2GeojsonParkingSpots(
     ) -> tuple[list[StaticParkingSpotInput], list[ImportParkingSpotException]]:
         worksheet = workbook.active
         mapping: dict[str, int] = self.get_mapping_by_header(
-            next(worksheet.rows), self.header_row
+            next(worksheet.rows), self.additional_header_rows
         )
 
         static_parking_spot_errors: list[ImportParkingSpotException] = []
@@ -411,7 +455,7 @@ class Xlsx2GeojsonParkingSpots(
             "hours": opening_hours_input.get_osm_opening_hours(),
         }
 
-        raw_type = parking_spot_dict.get("type")
+        raw_type = normalize_text(parking_spot_dict.get("type"))
         parking_spot_dict["type"] = (
             self.type_mapping[raw_type.strip()]
             if isinstance(raw_type, str) and raw_type.strip() in self.type_mapping
@@ -420,8 +464,8 @@ class Xlsx2GeojsonParkingSpots(
 
         parking_spot_dict["restricted_to"] = [restricted_to]
         parking_spot_dict["has_realtime_data"] = self.source_info.has_realtime_data
-        parking_spot_dict["purpose"] = purpose_mapping.get(
-            parking_spot_dict.get("purpose")
+        parking_spot_dict["purpose"] = self.purpose_type_mapping.get(
+            normalize_text(parking_spot_dict.get("purpose"))
         )
         parking_spot_dict["static_data_updated_at"] = datetime.now(
             tz=timezone.utc

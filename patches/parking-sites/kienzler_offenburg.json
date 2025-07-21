@@ -1,0 +1,23 @@
+{
+  "items": [
+    {
+      "uid": "unit460",
+      "type": "SHED",
+      "max_height": 125,
+      "max_width": 80,
+      "description": "Ladevorrichtungen: Die unteren Boxen (Nr. 2,4,6,8,10,12) verfügen über eine Steckdose zum Laden von E-Bikes und Pedelecs.",
+      "fee_description": "Fahrradbox mit Ladesteckdose: 1 Tag: 2,00 €, 1 Woche: 6,00 €, 1 Monat: 10,00 €, 1 Jahr: 90,00 €, Fahrradbox ohne Ladesteckdose: 1 Tag: 1,00 €, 1 Woche: 5,00 €, 1 Monat: 8,00 €, 1 Jahr: 80,00 €",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.4752083",
+      "lon": "7.9471256",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08317:14500_Parent"
+        }
+      ]
+    }
+  ]
+}

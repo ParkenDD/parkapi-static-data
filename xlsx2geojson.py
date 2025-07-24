@@ -263,8 +263,10 @@ class Xlsx2GeojsonParkingSites(
         parking_site_dict["opening_hours"] = parking_site_dict["opening_hours"].replace(
             "00:00-00:00", "00:00-24:00"
         )
-        parking_site_dict["fee_description"] = to_single_line(
-            str(parking_site_dict["fee_description"])
+        parking_site_dict["fee_description"] = (
+            to_single_line(str(parking_site_dict["fee_description"]))
+            if parking_site_dict["fee_description"]
+            else None
         )
         parking_site_dict["purpose"] = self.purpose_type_mapping.get(
             normalize_text(parking_site_dict.get("purpose"))

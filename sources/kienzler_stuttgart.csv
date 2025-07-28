@@ -1,0 +1,10 @@
+uid,lat,lon,address,type,park_and_ride_type,DHID
+unit329,48.7708245,9.1730100,"Tübinger Straße 37, 70178 Stuttgart",TWO_TIER,NO,
+unit406,48.7830737,9.1807622,"Arnulf-Klett-Platz, 70173 Stuttgart",TWO_TIER,TRAIN,de:08111:6112_Parent
+unit407,48.7830498,9.1808213,"Arnulf-Klett-Platz, 70173 Stuttgart",TWO_TIER,TRAIN,de:08111:6112_Parent
+unit408,48.7830781,9.1808420,"Arnulf-Klett-Platz, 70173 Stuttgart",TWO_TIER,TRAIN,de:08111:6112_Parent
+unit409,48.7831019,9.1807891,"Arnulf-Klett-Platz, 70173 Stuttgart",TWO_TIER,TRAIN,de:08111:6112_Parent
+unit411,48.7844809,9.1854776,"Am Schlossgarten (ehem. ZOB), 70173 Stuttgart",TWO_TIER,TRAIN,de:08111:6115_Parent
+unit412,48.7845776,9.1855728,"Am Schlossgarten (ehem. ZOB), 70173 Stuttgart",TWO_TIER,TRAIN,de:08111:6115_Parent
+unit413,48.7846055,9.1856291,"Am Schlossgarten (ehem. ZOB), 70173 Stuttgart",TWO_TIER,TRAIN,de:08111:6115_Parent
+unit612,48.7764545,9.1577455,"Hasenbergstraße/Breitscheidstraße, 70176 Stuttgart",TWO_TIER,NO,

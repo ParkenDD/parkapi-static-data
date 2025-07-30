@@ -292,6 +292,9 @@ class Xlsx2GeojsonParkingSites(
             tz=timezone.utc
         ).isoformat()
 
+        parking_site_dict["lat"] = f'{parking_site_dict["lat"]}'
+        parking_site_dict["lon"] = f'{parking_site_dict["lon"]}'
+
         return parking_site_dict
 
     def handle_xlsx(
@@ -472,6 +475,9 @@ class Xlsx2GeojsonParkingSpots(
         parking_spot_dict["static_data_updated_at"] = datetime.now(
             tz=timezone.utc
         ).isoformat()
+
+        parking_spot_dict["lat"] = f'{parking_spot_dict["lat"]}'
+        parking_spot_dict["lon"] = f'{parking_spot_dict["lon"]}'
 
         return parking_spot_dict
 

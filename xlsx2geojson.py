@@ -292,8 +292,9 @@ class Xlsx2GeojsonParkingSites(
             tz=timezone.utc
         ).isoformat()
 
-        parking_site_dict["lat"] = f'{parking_site_dict["lat"]}'
-        parking_site_dict["lon"] = f'{parking_site_dict["lon"]}'
+        parking_site_dict["lat"] = f"{parking_site_dict['lat']}"
+        parking_site_dict["lon"] = f"{parking_site_dict['lon']}"
+        parking_site_dict["has_realtime_data"] = self.source_info.has_realtime_data
 
         return parking_site_dict
 
@@ -476,8 +477,8 @@ class Xlsx2GeojsonParkingSpots(
             tz=timezone.utc
         ).isoformat()
 
-        parking_spot_dict["lat"] = f'{parking_spot_dict["lat"]}'
-        parking_spot_dict["lon"] = f'{parking_spot_dict["lon"]}'
+        parking_spot_dict["lat"] = f"{parking_spot_dict['lat']}"
+        parking_spot_dict["lon"] = f"{parking_spot_dict['lon']}"
 
         return parking_spot_dict
 

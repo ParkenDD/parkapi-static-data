@@ -16,13 +16,16 @@
                 "is_covered": true,
                 "has_fee": true,
                 "supervision_type": "VIDEO",
-                "static_data_updated_at": "2025-07-30T13:03:17+00:00",
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-08-07T09:27:41+00:00",
                 "lat": 48.8363099178679,
                 "lon": 10.0931956686424,
                 "capacity": 251,
                 "capacity_charging": 6,
                 "opening_hours": "24/7",
-                "tags": []
+                "external_identifiers": [],
+                "tags": [],
+                "restricted_to": []
             },
             "geometry": {
                 "type": "Point",
@@ -47,12 +50,15 @@
                 "is_covered": true,
                 "has_fee": true,
                 "supervision_type": "VIDEO",
-                "static_data_updated_at": "2025-07-30T13:03:17+00:00",
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-08-07T09:27:41+00:00",
                 "lat": 48.8376463326277,
                 "lon": 10.0907913471389,
                 "capacity": 310,
                 "opening_hours": "Mo-Fr 07:00-20:30; Sa 07:00-21:00",
-                "tags": []
+                "external_identifiers": [],
+                "tags": [],
+                "restricted_to": []
             },
             "geometry": {
                 "type": "Point",
@@ -77,12 +83,15 @@
                 "is_covered": true,
                 "has_fee": true,
                 "supervision_type": "VIDEO",
-                "static_data_updated_at": "2025-07-30T13:03:17+00:00",
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-08-07T09:27:41+00:00",
                 "lat": 48.8398838373726,
                 "lon": 10.0941506704377,
                 "capacity": 151,
                 "opening_hours": "Mo-Fr 07:00-20:30; Sa 07:00-21:00",
-                "tags": []
+                "external_identifiers": [],
+                "tags": [],
+                "restricted_to": []
             },
             "geometry": {
                 "type": "Point",
@@ -107,13 +116,16 @@
                 "is_covered": true,
                 "has_fee": true,
                 "supervision_type": "VIDEO",
-                "static_data_updated_at": "2025-07-30T13:03:17+00:00",
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-08-07T09:27:41+00:00",
                 "lat": 48.8390549337159,
                 "lon": 10.0911023931614,
                 "capacity": 190,
                 "capacity_charging": 4,
                 "opening_hours": "24/7",
-                "tags": []
+                "external_identifiers": [],
+                "tags": [],
+                "restricted_to": []
             },
             "geometry": {
                 "type": "Point",
@@ -138,13 +150,16 @@
                 "is_covered": true,
                 "has_fee": true,
                 "supervision_type": "VIDEO",
-                "static_data_updated_at": "2025-07-30T13:03:17+00:00",
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-08-07T09:27:41+00:00",
                 "lat": 48.8417589332262,
                 "lon": 10.0959794698663,
                 "capacity": 390,
                 "capacity_charging": 6,
                 "opening_hours": "24/7",
-                "tags": []
+                "external_identifiers": [],
+                "tags": [],
+                "restricted_to": []
             },
             "geometry": {
                 "type": "Point",
@@ -168,12 +183,15 @@
                 "is_covered": false,
                 "has_fee": true,
                 "supervision_type": "NO",
-                "static_data_updated_at": "2025-07-30T13:03:17+00:00",
+                "has_realtime_data": true,
+                "static_data_updated_at": "2025-08-07T09:27:41+00:00",
                 "lat": 48.8361099378405,
                 "lon": 10.0920329218743,
                 "capacity": 30,
                 "opening_hours": "24/7",
-                "tags": []
+                "external_identifiers": [],
+                "tags": [],
+                "restricted_to": []
             },
             "geometry": {
                 "type": "Point",

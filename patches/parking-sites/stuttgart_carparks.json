@@ -1,0 +1,211 @@
+{
+  "items": [
+    {
+      "uid": "12717426",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/sophienstrasse"
+    },
+    {
+      "uid": "12717372",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/koenigsbau-passagen"
+    },
+    {
+      "uid": "79151418",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-stadtmitte"
+    },
+    {
+      "uid": "12717432",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.klinikum-stuttgart.de/patienten-besucher/ihr-aufenthalt/vor-dem-aufenthalt/anfahrt/katharinenhospital"
+    },
+    {
+      "uid": "12717435",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/stephangarage/"
+    },
+    {
+      "uid": "12717450",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/tuebinger-carre/"
+    },
+    {
+      "uid": "79151317",
+      "name": "Rathausgarage",
+      "type": "UNDERGROUND"
+    },
+    {
+      "uid": "12717229",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.e-breuninger.de/de/medienportal/start-fuer-innovativen-mobilitaets-hub-1/"
+    },
+    {
+      "uid": "79151717",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=70563#!",
+      "park_and_ride_type": [
+        "TRAM"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08111:6027:1:1"
+        }
+      ]
+    },
+    {
+      "uid": "79151656",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.dorotheen-quartier.de/anfahrt-parken"
+    },
+    {
+      "uid": "79151353",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/neue-bruecke-/-koenigstrasse"
+    },
+    {
+      "uid": "12717441",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.mein-contipark.de/de/parken/stuttgart/tiefgarage-hauptbahnhof-lbbw-p1/"
+    },
+    {
+      "uid": "12717363",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/liederhalle-bosch-areal"
+    },
+    {
+      "uid": "12717384",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*243%2070173%20Stuttgart%20Parkgarage%20Landtag&anchor=results"
+    },
+    {
+      "uid": "79151598",
+      "type": "OFF_STREET_PARKING_GROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*266%2070174%20Stuttgart%20Parkplatz%20Keplerstra%C3%9Fe%20P1"
+    },
+    {
+      "uid": "79151480",
+      "public_url": "https://www.marquardt-garage.de/"
+    },
+    {
+      "uid": "12717315",
+      "public_url": "https://www.ps-huefner.de/standort.php?ort=Stuttgart&id=151"
+    },
+    {
+      "uid": "12717414",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/schlossgarten/"
+    },
+    {
+      "uid": "12717253",
+      "public_url": "https://www.q-park.de/de-de/staedte/stuttgart/poi/k%C3%B6nigsstra%C3%9Fe/"
+    },
+    {
+      "uid": "12717447",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*247%2070174%20Stuttgart%20Parkgarage%20Tivoli&anchor=results"
+    },
+    {
+      "uid": "12717366",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/holzgartenstrasse"
+    },
+    {
+      "uid": "12717375",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-kronprinzstrasse"
+    },
+    {
+      "uid": "79151538",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/buelow-carre/"
+    },
+    {
+      "uid": "12717429",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*245%2070173%20Stuttgart%20Parkgarage%20Staatsgalerie&anchor=results"
+    },
+    {
+      "uid": "12717262",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/city-garage"
+    },
+    {
+      "uid": "12718779",
+      "type": "OFF_STREET_PARKING_GROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*284%2070178%20Stuttgart%20Parkplatz%20Roteb%C3%BChlhof&anchor=results"
+    },
+    {
+      "uid": "12717250",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*233%2070174%20Stuttgart%20Parkhaus%20Hofdiener&anchor=results"
+    },
+    {
+      "uid": "79151509",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/parken-im-abo/standorte/stuttgart/am-schlossplatz"
+    },
+    {
+      "uid": "12717256",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/schlossstrasse"
+    },
+    {
+      "uid": "79151390",
+      "type": "UNDERGROUND",
+      "public_url": "https://pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*244%2070173%20Stuttgart%20Parkgarage%20Landesbibliothek#!"
+    },
+    {
+      "uid": "12717345",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*288%2070174%20Stuttgart%20Parkgarage%20B%C3%B6rsenplatz&anchor=results"
+    },
+    {
+      "uid": "12717223",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*246%2070173%20Stuttgart%20Parkgarage%20Haus%20der%20Geschichte&anchor=results"
+    },
+    {
+      "uid": "12718764",
+      "public_url": "https://www.ps-huefner.de/standort.php?ort=Stuttgart&id=153"
+    },
+    {
+      "uid": "12717226",
+      "name": "Parkhaus Bohnenviertel"
+    },
+    {
+      "uid": "12717417",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/schwabenzentrum/"
+    },
+    {
+      "uid": "12717312",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/zeppelin-carre"
+    },
+    {
+      "uid": "12717411",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/schillerplatz"
+    },
+    {
+      "uid": "79151746",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*476%2070174%20Stuttgart%20Parkgarage%20Kriegsberg&anchor=results"
+    },
+    {
+      "uid": "79151627",
+      "type": "OFF_STREET_PARKING_GROUND",
+      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*277%2070174%20Stuttgart%20Parkplatz%20Haus%20der%20Wirtschaft&anchor=results"
+    },
+    {
+      "uid": "12717408",
+      "public_url": "https://www.ps-huefner.de/standort.php?ort=Stuttgart&id=130"
+    },
+    {
+      "uid": "12718752",
+      "type": "UNDERGROUND",
+      "public_url": "https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-kronprinzstrasse"
+    }
+  ]
+}

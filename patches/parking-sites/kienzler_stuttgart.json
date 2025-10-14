@@ -4,6 +4,9 @@
       "uid": "unit329",
       "type": "SHED",
       "address": "Tübinger Straße 37, 70178 Stuttgart",
+      "description": "Stellplätze nicht nummeriert. Reifenbreite bis 55mm. Obere Ebene max. 18kg. Öffnung mit polygoCard möglich.",
+      "fee_description": "1 Tag: 1€; 1 Woche: 4€; 1 Monat: 10€; 1 Jahr: 90€",
+      "is_covered": true,
       "lat": "48.770806",
       "lon": "9.173000"
     },
@@ -11,6 +14,10 @@
       "uid": "unit406",
       "type": "SHED",
       "address": "Arnulf-Klett-Platz, 70173 Stuttgart",
+      "description": "Stellplätze nicht nummeriert. Reifenbreite bis 55mm. Obere Ebene max. 18kg. Öffnung mit polygoCard möglich.",
+      "fee_description": "1 Tag: 1€; 1 Woche: 4€; 1 Monat: 10€; 1 Jahr: 90€",
+      "is_covered": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6115/e5123dde-0e32-4b67-a275-5a750b49def4.jpg",
       "park_and_ride_type": [
         "TRAIN"
       ],
@@ -27,6 +34,10 @@
       "uid": "unit407",
       "type": "SHED",
       "address": "Arnulf-Klett-Platz, 70173 Stuttgart",
+      "description": "Stellplätze nicht nummeriert. Reifenbreite bis 55mm. Obere Ebene max. 18kg. Öffnung mit polygoCard möglich.",
+      "fee_description": "1 Tag: 1€; 1 Woche: 4€; 1 Monat: 10€; 1 Jahr: 90€",
+      "is_covered": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6115/e5123dde-0e32-4b67-a275-5a750b49def4.jpg",
       "park_and_ride_type": [
         "TRAIN"
       ],
@@ -43,6 +54,10 @@
       "uid": "unit408",
       "type": "SHED",
       "address": "Arnulf-Klett-Platz, 70173 Stuttgart",
+      "description": "Stellplätze nicht nummeriert. Reifenbreite bis 55mm. Obere Ebene max. 18kg. Öffnung mit polygoCard möglich.",
+      "fee_description": "1 Tag: 1€; 1 Woche: 4€; 1 Monat: 10€; 1 Jahr: 90€",
+      "is_covered": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6115/e5123dde-0e32-4b67-a275-5a750b49def4.jpg",
       "park_and_ride_type": [
         "TRAIN"
       ],
@@ -59,6 +74,10 @@
       "uid": "unit409",
       "type": "SHED",
       "address": "Arnulf-Klett-Platz, 70173 Stuttgart",
+      "description": "Stellplätze nicht nummeriert. Reifenbreite bis 55mm. Obere Ebene max. 18kg. Öffnung mit polygoCard möglich.",
+      "fee_description": "1 Tag: 1€; 1 Woche: 4€; 1 Monat: 10€; 1 Jahr: 90€",
+      "is_covered": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6115/e5123dde-0e32-4b67-a275-5a750b49def4.jpg",
       "park_and_ride_type": [
         "TRAIN"
       ],
@@ -75,6 +94,10 @@
       "uid": "unit411",
       "type": "SHED",
       "address": "Am Schlossgarten (ehem. ZOB), 70173 Stuttgart",
+      "description": "Stellplätze nicht nummeriert. Reifenbreite bis 55mm. Obere Ebene max. 18kg. Öffnung mit polygoCard möglich.",
+      "fee_description": "1 Tag: 1€; 1 Woche: 4€; 1 Monat: 10€; 1 Jahr: 90€",
+      "is_covered": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6115/a87d7ad1-d40d-4e1f-9033-b3c5950becb3.jpg",
       "park_and_ride_type": [
         "TRAIN"
       ],
@@ -91,6 +114,10 @@
       "uid": "unit412",
       "type": "SHED",
       "address": "Am Schlossgarten (ehem. ZOB), 70173 Stuttgart",
+      "description": "Stellplätze nicht nummeriert. Reifenbreite bis 55mm. Obere Ebene max. 18kg. Öffnung mit polygoCard möglich.",
+      "fee_description": "1 Tag: 1€; 1 Woche: 4€; 1 Monat: 10€; 1 Jahr: 90€",
+      "is_covered": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6115/70b43dca-651e-426d-98c1-ae7e64d2f9e6.jpg",
       "park_and_ride_type": [
         "TRAIN"
       ],
@@ -107,6 +134,10 @@
       "uid": "unit413",
       "type": "SHED",
       "address": "Am Schlossgarten (ehem. ZOB), 70173 Stuttgart",
+      "description": "Stellplätze nicht nummeriert. Reifenbreite bis 55mm. Obere Ebene max. 18kg. Öffnung mit polygoCard möglich.",
+      "fee_description": "1 Tag: 1€; 1 Woche: 4€; 1 Monat: 10€; 1 Jahr: 90€",
+      "is_covered": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6115/70b43dca-651e-426d-98c1-ae7e64d2f9e6.jpg",
       "park_and_ride_type": [
         "TRAIN"
       ],
@@ -122,8 +153,15 @@
     {
       "uid": "unit612",
       "type": "SHED",
-      "address": "Hasenbergstraße/Breitscheidstraße, 70176 Stuttgart"
+      "address": "Hasenbergstraße/Breitscheidstraße, 70176 Stuttgart",
+      "description": "Stellplätze nicht nummeriert. Reifenbreite bis 55mm. Obere Ebene max. 18kg. Öffnung mit polygoCard möglich.",
+      "fee_description": "1 Tag: 1€; 1 Woche: 4€; 1 Monat: 10€; 1 Jahr: 90€",
+      "is_covered": true,
+      "park_and_ride_type": [
+        "NO"
+      ],
+      "lat": "48.776437",
+      "lon": "9.157727"
     }
   ]
 }
-

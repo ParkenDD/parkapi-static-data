@@ -5,18 +5,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-01",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -30,18 +33,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-02",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -55,18 +61,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-03",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -80,18 +89,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-04",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -105,18 +117,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-05",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -130,18 +145,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-06",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -155,18 +173,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-07",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -180,18 +201,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-08",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -205,18 +229,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-09",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -230,18 +257,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-10",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -255,18 +285,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-11",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -280,18 +313,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-12",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -305,18 +341,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-13",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -330,18 +369,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-14",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -355,18 +397,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-15",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -380,18 +425,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-16",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -405,18 +453,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-17",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -430,18 +481,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-18",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -455,18 +509,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-19",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -480,18 +537,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-s-eladen-1-20",
-                "name": "Parkhaus Salzstadel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.4011345561022,
                 "lon": 9.99015968899597,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Salzstadel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -505,18 +565,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-01",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -530,18 +593,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-02",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -555,18 +621,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-03",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -580,18 +649,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-04",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -605,18 +677,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-05",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -630,18 +705,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-06",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -655,18 +733,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-07",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -680,18 +761,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-08",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -705,18 +789,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-09",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -730,18 +817,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-10",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -755,18 +845,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-11",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -780,18 +873,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-12",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -805,18 +901,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-13",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -830,18 +929,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-14",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -855,18 +957,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-15",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -880,18 +985,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-16",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -905,18 +1013,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-17",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:18+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -930,18 +1041,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-18",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -955,18 +1069,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-19",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -980,18 +1097,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-f-eladen-0-20",
-                "name": "Parkhaus Fischerviertel",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.396582769184,
                 "lon": 9.98827611313367,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus Fischerviertel",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1005,18 +1125,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c01-19296d",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1030,18 +1153,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c02-1921b0",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1055,18 +1181,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c03-192985",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1080,18 +1209,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c04-192995",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1105,18 +1237,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c05-1921cd",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1130,18 +1265,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c06-1921dd",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1155,18 +1293,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c07-192968",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1180,18 +1321,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c08-1921da",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1205,18 +1349,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c09-192980",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1230,18 +1377,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c10-1921bc",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1255,18 +1405,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c11-192996",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1280,18 +1433,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c12-19298a",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1305,18 +1461,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c13-1921bb",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1330,18 +1489,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c14-1921d4",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1355,18 +1517,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c15-192987",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1380,18 +1545,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-c16-19297d",
-                "name": "Congresscentrum Nord",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.401631838231,
                 "lon": 10.0024305974947,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "Mo-Fr 06:30-22:15; Sa 08:30-22:15"
                     }
-                ]
+                ],
+                "name": "Congresscentrum Nord",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1405,18 +1573,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r01-192851",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1430,18 +1601,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r02-19284f",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1455,18 +1629,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r03-192839",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1480,18 +1657,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r04-192835",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1505,18 +1685,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r05-192837",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1530,18 +1713,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r06-192838",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1555,18 +1741,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r07-192832",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1580,18 +1769,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r08-192834",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1605,18 +1797,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r09-192833",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1630,18 +1825,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r10-192836",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1655,18 +1853,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r11-192830",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1680,18 +1881,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r12-192831",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1705,18 +1909,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r13-19283c",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1730,18 +1937,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r14-19283d",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1755,18 +1965,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r15-19283b",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1780,18 +1993,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r16-19283a",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1805,18 +2021,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r17-192827",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1830,18 +2049,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r18-19283e",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1855,18 +2077,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r19-19283f",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1880,18 +2105,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r20-192840",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1905,18 +2133,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r21-19282f",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1930,18 +2161,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r22-19282e",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1955,18 +2189,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r23-192841",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -1980,18 +2217,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r24-19282c",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2005,18 +2245,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r25-192842",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2030,18 +2273,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r26-19282b",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2055,18 +2301,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r27-19282d",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2080,18 +2329,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r28-19282a",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2105,18 +2357,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r29-192829",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2130,18 +2385,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r30-192825",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2155,18 +2413,20 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r31-192826",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2180,18 +2440,20 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-r32-192828",
-                "name": "Parkhaus am Rathaus",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3972484187254,
                 "lon": 9.99093039749452,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Rathaus",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2205,18 +2467,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-006",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2230,18 +2495,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-007",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2255,18 +2523,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-008",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2280,18 +2551,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-009",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2305,18 +2579,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-010",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2330,18 +2607,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-011",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2355,18 +2635,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-012",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2380,18 +2663,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-013",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2405,18 +2691,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-014",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2430,18 +2719,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-015",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2455,18 +2747,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-016",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2480,18 +2775,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-017",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2505,18 +2803,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-018",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2530,18 +2831,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-019",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2555,18 +2859,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-020",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2580,18 +2887,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-o-1-021",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2605,18 +2915,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-054",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2630,18 +2943,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-055",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2655,18 +2971,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-056",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2680,18 +2999,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-057",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2705,18 +3027,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-058",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2730,18 +3055,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-059",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2755,18 +3083,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-060",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2780,18 +3111,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-061",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2805,18 +3139,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-062",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2830,18 +3167,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-063",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2855,18 +3195,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-064",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2880,18 +3223,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-065",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2905,18 +3251,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-066",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2930,18 +3279,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-067",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2955,18 +3307,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-068",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -2980,18 +3335,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-elade-w-1-069",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "CHARGING",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3005,18 +3363,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-1-001",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3030,18 +3391,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-1-002",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3055,18 +3419,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-2-001",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3080,18 +3447,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-2-002",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3105,18 +3475,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-3-001",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3130,18 +3503,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-3-002",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3155,18 +3531,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-4-001",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3180,18 +3559,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-o-4-002",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3205,18 +3587,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-1-003",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3230,18 +3615,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-1-004",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3255,18 +3643,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-2-003",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3280,18 +3671,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-2-004",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3305,18 +3699,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-3-003",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3330,18 +3727,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-3-004",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3355,18 +3755,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-4-003",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3380,18 +3783,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-familie-w-4-004",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "FAMILY",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3405,18 +3811,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-o-1-001",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3430,18 +3839,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-o-2-001",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3455,18 +3867,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-o-3-001",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3480,18 +3895,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-o-4-001",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3505,18 +3923,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-w-2-002",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3530,18 +3951,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-w-3-002",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",
@@ -3555,18 +3979,21 @@
             "type": "Feature",
             "properties": {
                 "uid": "pbg-b-handicap-w-4-002",
-                "name": "Parkhaus am Bahnhof",
                 "purpose": "CAR",
-                "type": "UNDERGROUND",
-                "static_data_updated_at": "2025-07-09T12:46:19+00:00",
                 "has_realtime_data": true,
+                "static_data_updated_at": "2025-11-13T12:46:33+00:00",
                 "lat": 48.3982298029325,
                 "lon": 9.98426045923199,
-                "restricted_to": [
+                "external_identifiers": [],
+                "tags": [],
+                "restrictions": [
                     {
+                        "type": "DISABLED",
                         "hours": "24/7"
                     }
-                ]
+                ],
+                "name": "Parkhaus am Bahnhof",
+                "type": "UNDERGROUND"
             },
             "geometry": {
                 "type": "Point",

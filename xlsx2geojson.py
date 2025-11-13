@@ -397,7 +397,7 @@ class Xlsx2GeojsonParkingSpots(
                         parking_spot_dict
                     ).to_dict()
                 )
-                print(static_parking_spot_input)
+
                 static_parking_spot_features.append(
                     {
                         "type": "Feature",

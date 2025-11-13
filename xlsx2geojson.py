@@ -251,9 +251,9 @@ class Xlsx2GeojsonParkingSites(
             )
 
         parking_site_dict["max_height"] = (
-            round(parking_site_dict.get("max_height"))
+            round(parking_site_dict.get("max_height"))*100
             if isinstance(parking_site_dict.get("max_height"), float)
-            else parking_site_dict.get("max_height")
+            else parking_site_dict.get("max_height")*100
         )
         parking_site_dict["max_stay"] = (
             round(parking_site_dict.get("max_stay"))

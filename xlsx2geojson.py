@@ -251,9 +251,9 @@ class Xlsx2GeojsonParkingSites(
             )
 
         parking_site_dict["max_height"] = (
-            round(parking_site_dict.get("max_height"))
+            round(parking_site_dict.get("max_height"))*100
             if isinstance(parking_site_dict.get("max_height"), float)
-            else parking_site_dict.get("max_height")
+            else parking_site_dict.get("max_height")*100
         )
         parking_site_dict["max_stay"] = (
             round(parking_site_dict.get("max_stay"))
@@ -397,6 +397,7 @@ class Xlsx2GeojsonParkingSpots(
                         parking_spot_dict
                     ).to_dict()
                 )
+
                 static_parking_spot_features.append(
                     {
                         "type": "Feature",
@@ -452,7 +453,7 @@ class Xlsx2GeojsonParkingSpots(
 
         restricted_to_raw = parking_spot_raw_dict.get("restricted_to_type", "")
         restricted_to_type = (
-            self.restricted_to_type_mapping.get(restricted_to_raw.strip())
+            self.restricted_to_type_mapping.get(restricted_to_raw.lower().strip())
             if isinstance(restricted_to_raw, str)
             else None
         )
@@ -468,7 +469,7 @@ class Xlsx2GeojsonParkingSpots(
             else None
         )
 
-        parking_spot_dict["restricted_to"] = [restricted_to]
+        parking_spot_dict["restrictions"] = [restricted_to]
         parking_spot_dict["has_realtime_data"] = self.source_info.has_realtime_data
         parking_spot_dict["purpose"] = self.purpose_type_mapping.get(
             normalize_text(parking_spot_dict.get("purpose"))

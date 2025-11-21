@@ -1,0 +1,1202 @@
+{
+  "items": [
+    {
+      "uid": "unit10",
+      "address": "Bahnhofstrasse, 79588 Efringen-Kirchen",
+      "max_height": 116,
+      "max_width": 80,
+      "description": "Mietdauer zwischen 1 Woche und 1 Jahr, untere Boxen für E-Bikes inkl. Lademöglichkeit",
+      "fee_description": "1 Woche: 5€, 1 Jahr: 80€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "47.655382",
+      "lon": "7.564047",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08336:6631_Parent"
+        }
+      ],
+      "capacity_charging": 12,
+      "is_covered": true,
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6631/762f2044-cc78-4c2d-add2-4455575d508e.jpg"
+    },
+    {
+      "uid": "unit1676",
+      "address": "Bahnhofstraße, 76437 Rastatt",
+      "max_height": 39,
+      "max_width": 39,
+      "description": "Schließfächer mit Lademöglichkeit (Schuko-Steckdose)",
+      "fee_description": "1 Tag: 1€, 1 Woche: 2€, 1 Monat: 5€, 1 Jahr: 30€",
+      "park_and_ride_type": [
+        true
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08216:1844_Parent"
+        }
+      ],
+      "capacity_charging": 11,
+      "has_fee": true
+    },
+    {
+      "uid": "unit1719",
+      "address": "Dr. Peter-Bümlein-Platz, 70794 Filderstadt",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Radboxen 1 - 6 mit Lademöglichkeit nur tageweise buchbar",
+      "fee_description": "1 Tag mit Ladeanschluss: 1€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:2006_Parent"
+        }
+      ],
+      "capacity_charging": 6,
+      "is_covered": true,
+      "has_fee": true
+    },
+    {
+      "uid": "unit1734",
+      "type": "SHED",
+      "address": "Plochinger Straße, 72622 Nürtingen",
+      "description": "Stellplatz-Nummern nicht fest zugeordnet, obere Etage für Räder bis 18 kg, Reifenbreite bis 55 mm, Öffnung mit Polygo-Card (RFID) möglich",
+      "fee_description": "1 Tag: 1€, 1 Woche: 4€, 1 Monat: 10€, 1 Jahr: 40€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:2931_Parent"
+        }
+      ],
+      "is_covered": true,
+      "has_fee": true
+    },
+    {
+      "uid": "unit1736",
+      "address": "Steinenbergstraße, 72622 Nürtingen",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Untere Boxen (2,4,6,8,10,12,14,16,18,20) mit Lademöglichkeit",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:2931_Parent"
+        }
+      ],
+      "capacity_charging": 10,
+      "is_covered": true,
+      "has_fee": true
+    },
+    {
+      "uid": "unit1774",
+      "address": "Bahnhofstraße, 72764 Reutlingen",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Obere Boxen für Räder bis 28 kg, max. Reifenbreite 55 mm, Boxen 1-3 für 1, Tag, 1 Woche, 1 Monat zu mieten, Boxen 4 - 12 für 1 Jahr",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08415:22006_Parent"
+        }
+      ],
+      "is_covered": true,
+      "has_fee": true
+    },
+    {
+      "uid": "unit1785",
+      "type": "SHED",
+      "address": "Bahnhofstraße, 72764 Reutlingen",
+      "description": "Stellplätze vor Ort nicht nummeriert, max. Reifenbreite 55 mm, Doppelstock-Abstellanlage, obere Ebene für Räder bis max. 18 kg.",
+      "fee_description": "1 Tag: 1€, 1 Woche: 6€, 1 Monat: 14€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.497383",
+      "lon": "9.210962",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08415:22006_Parent"
+        }
+      ],
+      "is_covered": true,
+      "has_fee": true
+    },
+    {
+      "uid": "unit1793",
+      "address": "Bahnhofstraße, 73614 Schorndorf",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Reifenbreite bis 55 mm, oben für Räder bis 28 kg, unten mit Lademöglichkeit, Öffnen mir Polygo-Karte (RFID) möglich.",
+      "fee_description": "1 Tag: 1€/1,50€ ohne/mit Lademöglichkeit, 1 Woche 4/5€, 1 Monat 15/18€, 1 Jahr: 90/120€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08119:1704:2:1"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1704:1:2"
+        }
+      ],
+      "capacity_charging": 8,
+      "is_covered": true,
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1704/d8f16c50-7596-4487-8241-1110ea200b27.jpg"
+    },
+    {
+      "uid": "unit1912",
+      "address": "Franz-Ehret-Straße 18, 79541 Lörrach",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Box 1-4 mit Steckdosen zum Laden von Pdelecs",
+      "fee_description": "Mit Ladefunktion: 1 Tag: 3€, 1 Woche: 10€",
+      "park_and_ride_type": [
+        "Train"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08336:6630:1:1"
+        }
+      ],
+      "capacity_charging": 4,
+      "is_covered": true
+    },
+    {
+      "uid": "unit1960",
+      "address": "Mühlweg 100, 89188 Merklingen",
+      "max_height": 39,
+      "max_width": 39,
+      "description": "Schließfächer mit 230V-Steckdose (max. 600W, bei geschlossener Tür aktiv)",
+      "fee_description": "1 Tag: 0,50€, 1 Woche: 4€, 1 Jahr: 70€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.520545",
+      "lon": "9.74182",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08425:2626_Parent"
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true
+    },
+    {
+      "uid": "unit1966",
+      "address": "Mühlweg 100, 89188 Merklingen",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Boxen in zwei Ebenen, untere mit Ladefunktion, obere bis 28kg zugelassen, Bis 55mm Reifenbreite",
+      "fee_description": "ohne/mit Ladefunktion: 1Tag 1/1,50€, 1 Woche 4/6€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.520589",
+      "lon": "9.741763",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08425:2626_Parent"
+        }
+      ],
+      "capacity_charging": 6,
+      "has_lighting": true,
+      "is_covered": true
+    },
+    {
+      "uid": "unit1972",
+      "type": "SHED",
+      "address": "Mühlweg 100, 89188 Merklingen",
+      "description": "Sammelgarage ohne feste Zuordnung der gebuchten Stellplätze, bis 55 mm Reifenbreite",
+      "fee_description": "1 Tag: 1€, 1 Woche: 4€, 1 Monat: 10€, 1 Jahr: 90€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.52061",
+      "lon": "9.741656",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08425:2626_Parent"
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true
+    },
+    {
+      "uid": "unit2114",
+      "address": "Flughafenstraße, 70629 Stuttgart",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Radboxen in zwei Ebenen. Untere Radboxen mit Ladefunktion für Pedelecs, obere bis 28kg zugelassen",
+      "fee_description": "ohne/mit Ladefunktion, 1 Tag: 1/1,50€, 1 Woche 4/6€, 1 Monat: 10/15€, 1 Jahr 90/135€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.691466",
+      "lon": "9.195871",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:2103_Parent"
+        }
+      ],
+      "capacity_charging": 5,
+      "has_lighting": true,
+      "is_covered": true
+    },
+    {
+      "uid": "unit2116",
+      "address": "Flughafenstraße, 70629 Stuttgart",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Schließfächer mit 230V-Steckdose (max. 600W, bei geschlossener Tür aktiv)",
+      "fee_description": "1 Tag: 0,50€, 1 Woche: 4€, 1 Jahr: 70@",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.691457",
+      "lon": "9.195825",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:2103_Parent"
+        }
+      ],
+      "capacity_charging": 16,
+      "has_lighting": true
+    },
+    {
+      "uid": "unit2118",
+      "type": "SHED",
+      "address": "Flughafenstraße, 70629 Stuttgart",
+      "description": "Sammelgarage ohne feste Zuordnung der gebuchten Stellplätze, bis 55 mm Reifenbreite",
+      "fee_description": "1 Tag: 1€, 1 Woche: 4€, 1 Monat: 10€, 1 Jahr: 90€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.691451",
+      "lon": "9.195861",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:2103_Parent"
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true
+    },
+    {
+      "uid": "unit2197",
+      "address": "Schulstraße/Karlsstraße, 73614 Schorndorf",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Radboxen in zwei Ebenen. Untere Radboxen mit Ladefunktion für Pedelecs, obere bis 28kg zugelassen",
+      "fee_description": "ohne/mit Ladefunktion, 1 Tag: 1/1,50€, 1 Woche 4/6€, 1 Monat: 15/18€, 1 Jahr 90/135€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08119:7703_Parent"
+        }
+      ],
+      "capacity_charging": 12,
+      "is_covered": true
+    },
+    {
+      "uid": "unit2559",
+      "type": "SHED",
+      "address": "Römerstraße, 79359 Riegel",
+      "description": "Zweistock-Sammelgarage, Langzeitmiete, Reifenbreite bis 55 mm",
+      "fee_description": "1 Monat: 10€, 1 Jahr: 90€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.153968",
+      "lon": "7.749777",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08316:6676_Parent"
+        }
+      ],
+      "is_covered": true
+    },
+    {
+      "uid": "unit2561",
+      "type": "SHED",
+      "address": "Römerstraße, 79359 Riegel",
+      "description": "Zweistock-Sammelgarage, tageweise Miete, Reifenbreite bis 55 mm",
+      "fee_description": "1 Tag: 1€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.153975",
+      "lon": "7.749747",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08316:6676_Parent"
+        }
+      ],
+      "is_covered": true
+    },
+    {
+      "uid": "unit2602",
+      "address": "Heinrich-Heine-Straße, 76297 Stutensee",
+      "description": "Tiefe der Boxen: 199 cm",
+      "fee_description": "1 Tag: 1,50€, 1 Woche: 6€, 1 Monat: 15€, 1 Jahr: 200€ ",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08215:32296"
+        }
+      ]
+    },
+    {
+      "uid": "unit2603",
+      "address": "Heinrich-Heine-Straße, 76297 Stutensee",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Boxen: 199 cm",
+      "fee_description": "1 Tag: 1,50€, 1 Woche: 6€, 1 Monat: 15€, 1 Jahr: 200€ ",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "49.112686",
+      "lon": "8.504447",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08215:32296"
+        }
+      ]
+    },
+    {
+      "uid": "unit2606",
+      "type": "SHED",
+      "address": "Bahnhofstraße, 76275 Ettlingen",
+      "description": "Freie Platzwahl, bis 58 mm Reifenbreite, obere Etage bis 25 kg Fahrradgewicht, Räder mit Kindersitzen nur oben abstellen",
+      "fee_description": "1 Tag: 0,50€, 1 Woche: 2€, 1 Monat: 4€, 1 Jahr: 20€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08215:1840"
+        }
+      ],
+      "is_covered": true
+    },
+    {
+      "uid": "unit2866",
+      "address": "Ludwig-Wilhelm-Straße 24, 76530 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€"
+    },
+    {
+      "uid": "unit2868",
+      "address": "Lichtentaler Straße 43, 76530 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€"
+    },
+    {
+      "uid": "unit2870",
+      "address": "Beim Alten Bahnhof 1b, 76530 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€"
+    },
+    {
+      "uid": "unit2872",
+      "address": "Bahnweg, 76532 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08211:1847"
+        }
+      ]
+    },
+    {
+      "uid": "unit2878",
+      "address": "Sophienstraße 1, 76530 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€"
+    },
+    {
+      "uid": "unit2880",
+      "address": "Stephanienstraße 10, 76530 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€"
+    },
+    {
+      "uid": "unit2882",
+      "address": "Rettigstraße 12, 76530 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€"
+    },
+    {
+      "uid": "unit2884",
+      "address": "Goetheplatz 1, 76530 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€"
+    },
+    {
+      "uid": "unit2886",
+      "address": "Vincentistraße 2, 76530 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€",
+      "park_and_ride_type": [
+        "BUS"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08211:32387"
+        }
+      ]
+    },
+    {
+      "uid": "unit2888",
+      "address": "Wilhelmstraße 6, 76530 Baden-Baden",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 10€"
+    },
+    {
+      "uid": "unit2907",
+      "type": "SHED",
+      "address": "Bahnhofweg 9, 70825 Korntal-Münchingen",
+      "description": "Plätze nicht nummeriert, bis 55 mm Reifenbreite, oben für Räder bis max. 18 kg, ",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 18€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08118:7603"
+        }
+      ]
+    },
+    {
+      "uid": "unit2909",
+      "type": "SHED",
+      "address": "Bahnhofweg 9, 70825 Korntal-Münchingen",
+      "description": "Plätze nicht nummeriert, bis 55 mm Reifenbreite, oben für Räder bis max. 18 kg, ",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 18€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.826939",
+      "lon": "9.121802",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08118:7603"
+        }
+      ]
+    },
+    {
+      "uid": "unit2911",
+      "address": "Bahnhofweg 9, 70825 Korntal-Münchingen",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Für Räder bis 55 mm Reifenbreite, obere Boxen bis 28 kg",
+      "fee_description": "1 Woche: 8€, 1 Monat: 26€, 1 Jahr: 250€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08118:7603"
+        }
+      ],
+      "capacity_charging": 10
+    },
+    {
+      "uid": "unit2913",
+      "address": "Bahnhofweg 9, 70825 Korntal-Münchingen",
+      "description": "Für Räder bis 55 mm Reifenbreite, obere Boxen bis 28 kg",
+      "fee_description": "1 Woche: 8€, 1 Monat: 26€, 1 Jahr: 250€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.826933",
+      "lon": "9.121826",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08118:7603"
+        }
+      ],
+      "capacity_charging": 2
+    },
+    {
+      "uid": "unit2949",
+      "address": "Bahnhofstraße, 70771 Leinfelden-Echterdingen",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "199 cm tiefe Boxen, bis 55 cm reifenbreite, obere Boxen bis 26 kg zugelassen, Öffnung per RFID mit Polygo-Card möglich",
+      "fee_description": "1 Tag: 1€, 1 Woche: 4€, 1 Monat: 10€, 1 Jahr: 80€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.695529",
+      "lon": "9.142858",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:175"
+        }
+      ],
+      "capacity_charging": 5
+    },
+    {
+      "uid": "unit2951",
+      "address": "Bahnhofstraße, 70771 Leinfelden-Echterdingen",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "199 cm tiefe Boxen, bis 55 cm reifenbreite, obere Boxen bis 26 kg zugelassen, Öffnung per RFID mit Polygo-Card möglich",
+      "fee_description": "1 Tag: 1€, 1 Woche: 4€, 1 Monat: 10€, 1 Jahr: 80€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:175"
+        }
+      ],
+      "capacity_charging": 5
+    },
+    {
+      "uid": "unit3025",
+      "type": "SHED",
+      "address": "Paula-Fuchs-Allee, 74076 Heilbronn",
+      "description": "Stellplätze nicht nummeriert, bis 55 cm Reifenbreite, obee Stellplätze bis 18 kg",
+      "fee_description": "1 Tag, 0,99€, 1 Woche: 3,99€, 1 Monat: 9,99€, 1 Jahr: 99,99€"
+    },
+    {
+      "uid": "unit3031",
+      "address": "Paula-Fuchs-Allee, 74076 Heilbronn",
+      "max_height": 39,
+      "max_width": 39,
+      "description": "49 cm tief, Ladesteckdosen bis 600 W, bei geschlossener Tür aktiv",
+      "fee_description": "1 Tag, 0,49€, 1 Woche: 1,99€, 1 Monat: 5,99€, 1 Jahr: 59,99€",
+      "capacity_charging": 14
+    },
+    {
+      "uid": "unit3192",
+      "type": "SHED",
+      "address": "Poststraße, 72108 Rottenburg am Neckar",
+      "description": "Stellplätze nicht nummeriert, obere Etage bis 18 kg",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 15€, 3 Monate: 30€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.472502",
+      "lon": "8.934623",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08416:1005"
+        }
+      ]
+    },
+    {
+      "uid": "unit3194",
+      "type": "SHED",
+      "address": "Poststraße, 72108 Rottenburg am Neckar",
+      "description": "Stellplätze nicht nummeriert, obere Etage bis 18 kg",
+      "fee_description": "1 Tag: 1€, 1 Woche: 5€, 1 Monat: 15€, 3 Monate: 30€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08416:1005"
+        }
+      ]
+    },
+    {
+      "uid": "unit3196",
+      "address": "Poststraße, 72108 Rottenburg am Neckar",
+      "max_height": 39,
+      "max_width": 39,
+      "description": "Ladesteckdose (600W) bei geschlossener Tür aktiv",
+      "fee_description": "1 Tag: 1€, 1 Woche: 3€, 1 Monat: 15€, 3 Monate: 30€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08416:1005"
+        }
+      ],
+      "capacity_charging": 8
+    },
+    {
+      "uid": "unit3198",
+      "address": "Poststraße, 72108 Rottenburg am Neckar",
+      "max_height": 39,
+      "max_width": 39,
+      "description": "Ladesteckdose (600W) bei geschlossener Tür aktiv",
+      "fee_description": "1 Tag: 1€, 1 Woche: 3€, 1 Monat: 15€, 3 Monate: 30€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.472506",
+      "lon": "8.934623",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08416:1005"
+        }
+      ],
+      "capacity_charging": 1
+    },
+    {
+      "uid": "unit344",
+      "address": "Max-Eyth-Straße, 71394 Kernen im Remstal",
+      "max_height": 125,
+      "max_width": 80,
+      "description": "Öffnung per RFID mit Polygo-Card möglich",
+      "fee_description": "1 Tag: 1€, 1 Woche: 2€, Mietzeiten bis 1 Jahr möglich",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08119:7701"
+        }
+      ],
+      "capacity_charging": 39,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7701/859eecf0-b65c-494d-a6e1-ea26d25a32b0.jpg"
+    },
+    {
+      "uid": "unit373",
+      "type": "FLOOR",
+      "address": "Güterstraße 30A, 75177 Pforzheim",
+      "description": "Plätze nicht nummeriert, 65 Plätze ab 1 Monat und 35 bis 1 Woche zu mieten",
+      "fee_description": "1 Tag 1€, 1 Woche: 5€, 1 Monat: 18€, 1 Jahr: 75€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.893736",
+      "lon": "8.701952",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08231:50"
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08231:50/ca2148f7-ef36-4772-b035-f4e0fc5ff373.jpg"
+    },
+    {
+      "uid": "unit377",
+      "address": "Göttelfinger Straße, 72184 Eutingen im Gäu",
+      "max_height": 116,
+      "max_width": 80,
+      "description": "Untere Boxen mit Steckdose, max. Höhe oben: 106 cm",
+      "fee_description": "ohne/mit Steckdose: 1 Tag: 1,50/2€, 1 Woche: 5/8€, 1 Monat: 15/20€, 3 Monate: 30/42€, 1 Jahr: 90/120€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.484614",
+      "lon": "8.754067",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08237:8006"
+        }
+      ],
+      "capacity_charging": 6,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08237:8006/8e338310-b3c6-4355-9e9a-88a35a63f3bd.jpg"
+    },
+    {
+      "uid": "unit405",
+      "type": "SHED",
+      "address": "Bahnhofsplatz 1, 89522 Heidenheim",
+      "description": "Stellplätze nicht nummeriert, oben bis 18 kg",
+      "fee_description": "1 Tag: 1€, 1 Woche: 4€, 1 Monat: 10€, 1 Jahr: 60€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08135:650"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08135:600/89727a0f-f6e8-482a-a3ff-0bdf9328161e.jpg"
+    },
+    {
+      "uid": "unit414",
+      "address": "Bahnhofsplatz 1, 89522 Heidenheim",
+      "max_height": 125,
+      "max_width": 80,
+      "description": "Bis 55 mm Reifenbreite, obere Boxen bis 28 kg; Boxen 1-8 bis 1 Woche, Box 9-28 bis 1 Jahr zu mieten",
+      "fee_description": "ohne/mit Ladesteckdose: 1 Tag: 1,59/2€, 1 Woche: 6/8€, 1 Monat: 15/18€, 1 Jahr: 90/120€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.679697",
+      "lon": "10.156351",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08135:650"
+        }
+      ],
+      "capacity_charging": 14,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08135:600/bd7228fa-ab31-410c-9033-bff43c29c3fa.jpg"
+    },
+    {
+      "uid": "unit432",
+      "address": "Obere Bahnhofstraße, 74172 Neckarsulm",
+      "max_height": 125,
+      "max_width": 80,
+      "description": "5 Boxen bis 1 Jahr zu mieten",
+      "fee_description": "ohne/mit Ladefunktion: 1 Tag 1/2€, 1 Monat: 10/20€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "49.189347",
+      "lon": "9.220305",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08125:620"
+        }
+      ],
+      "capacity_charging": 5,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08125:620/7229ad03-a619-43fb-894a-a6954acb1d5b.jpg"
+    },
+    {
+      "uid": "unit470",
+      "address": "Schloßstraße, 71394 Kernen im Remstal",
+      "max_height": 125,
+      "max_width": 80,
+      "description": "3 Boxen bis 1 Monat, 2 Boxen bis 1 Jahr zu mieten",
+      "fee_description": "1 Tag: 1€, 1 Woche: 2€, 1 Monat: 5€, 3 Monate: 15€, 1 Jahr: 60€",
+      "park_and_ride_type": [
+        "BUS"
+      ],
+      "lat": "48.792718",
+      "lon": "9.340193",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08119:4933"
+        }
+      ],
+      "capacity_charging": 5
+    },
+    {
+      "uid": "unit505",
+      "type": "SHED",
+      "address": "Stadion Straße, 70771 Leinfelden-Echterdingen",
+      "description": "10 Stellplätze bis 1 Monat, 10 bis 1 Jahr zu mieten, Reifenbreite bis 55 mm, oben bis 18 kg, Öffnung mit Polygo-Card (RFID) möglich",
+      "fee_description": "1 Tag: 0,50€, 1 Woche: 2€, 1 Monat: 5€, 1 Jahr: 40€",
+      "park_and_ride_type": [
+        "TRAM"
+      ],
+      "lat": "48.694586",
+      "lon": "9.17498",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:7180"
+        }
+      ]
+    },
+    {
+      "uid": "unit506",
+      "address": "Stadion Straße, 70771 Leinfelden-Echterdingen",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Reifenbeite bis 55mm, oben bis 28kg, 4 Boxen bis 1 Woche, 8 Boxen bis 1 Jahr zu mieten, Öffnung mit polygo-Card (RFID) möglich",
+      "fee_description": "1 Tag: 1€, 1 Woche: 4€, 1 Monat: 10€, 1 Jahr: 80€",
+      "park_and_ride_type": [
+        "TRAM"
+      ],
+      "lat": "48.694548",
+      "lon": "9.17503",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:7180"
+        }
+      ],
+      "capacity_charging": 6
+    },
+    {
+      "uid": "unit507",
+      "address": "Stadion Straße, 70771 Leinfelden-Echterdingen",
+      "max_height": 39,
+      "max_width": 39,
+      "description": "Ladesteckdose bis 600W bei geschlossener Tür aktiv. Öffnung mit polygo-Card (RFID) möglich",
+      "fee_description": "1 Tag: 0,50€, 1 Woche: 1€, 1 Monat: 2€, 1 Jahr: 20€",
+      "park_and_ride_type": [
+        "TRAM"
+      ],
+      "lat": "48.694573",
+      "lon": "9.175007",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:7180"
+        }
+      ],
+      "capacity_charging": 20
+    },
+    {
+      "uid": "unit517",
+      "address": "Bahnhofstraße 8, 79689 Maulburg",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Reifenbreite bis 55mm, oben bis 26 kg, 2 Boxe bis 1 Woche, 10 Boxen bis 1 Jahr zu mieten",
+      "fee_description": "ohne/mit Ladeanschluss: 1 Tag: 1/2€, 1 Woche: 4/7€, 1 Monat: 10/16€, 3 Monate: 24/36€, 1 Jahr: 80/120€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08336:6602"
+        }
+      ],
+      "capacity_charging": 6
+    },
+    {
+      "uid": "unit560",
+      "address": "Im Stühlinger/Ruster Str., 77975 Ringsheim",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Reifenbreite bis 55mm, oben bis 26 kg, 2 Boxe bis 1 Woche, 10 Boxen bis 1 Jahr zu mieten",
+      "fee_description": "ohne/mit Ladeanschluss: 1 Tag: 1/2€, 1 Monat: 10/16€, 1 Jahr: 80/120€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08317:16700"
+        }
+      ],
+      "capacity_charging": 6,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08317:16700/9d5d61b6-e0c6-4949-a4d4-2cb281c5aef4.jpg"
+    },
+    {
+      "uid": "unit562",
+      "address": "Ungerhaldenweg, 70771 Leinfelden-Echterdingen",
+      "max_height": 127,
+      "max_width": 80,
+      "description": "Öffnen mit polygo-Card (RFID) möglich",
+      "fee_description": "1 Tag: 1€, 1 Woche: 4€, 1 Monat: 10€, 1 Jahr: 80€",
+      "park_and_ride_type": [
+        "BUS"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:2115"
+        }
+      ],
+      "capacity_charging": 4
+    },
+    {
+      "uid": "unit564",
+      "address": "Ungerhaldenweg, 70771 Leinfelden-Echterdingen",
+      "max_height": 39,
+      "max_width": 39,
+      "description": "5 Schließfächer bis 1 Woche, 3 Schließfächer bis 1 jahr zu mieten. Ladeanschluss (230V, 600W) bei geschlossener Tür aktiv, Öffnen mit polygo-Card (RFID) möglich",
+      "fee_description": "1 Tag: 0,50€, 1 Woche: 1€, 1 Monat: 2€, 1 Jahr: 20€",
+      "park_and_ride_type": [
+        "BUS"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08116:2115"
+        }
+      ],
+      "capacity_charging": 8
+    },
+    {
+      "uid": "unit567",
+      "address": "Ooser Bahnhofstraße, 76532 Baden-Baden",
+      "max_height": 39,
+      "max_width": 39,
+      "description": "Ladeanschluss (230V, 600W) bei geschlossener Tür aktiv,",
+      "fee_description": "1 Tag: 1€, 1 Woche: 2€, 1 Monat: 5€, 1 Jahr: 30€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08211:1847"
+        }
+      ],
+      "capacity_charging": 11
+    },
+    {
+      "uid": "unit574",
+      "address": "Heidelberger Straße / Bahnhofstraße, 76676 Graben-Neudorf",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Reifenbreite bis 55mm, obere Boxen bis 28kg, 2 Boxen tageweise, 8 Boxen bis 1 Jahr zu mieten",
+      "fee_description": "ohne Ladeanschluss 1 Tag: 1,50€, 1 Woche: 8€ ,1 Monat: 20€ ,1 Jahr: 200€; andere Tarife für Boxen mit Ladeanschluss",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "49.161766",
+      "lon": "8.49146",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08215:32585"
+        }
+      ],
+      "capacity_charging": 5
+    },
+    {
+      "uid": "unit621",
+      "address": "Thiebauthstraße, 76275 Ettlingen",
+      "max_height": 117,
+      "max_width": 80,
+      "description": "Reifenbreite bis 55mm, oben bis 28 kg",
+      "fee_description": "Ohne Ladeanschluss 1 Tag: 1,50€, 1 Woche: 6€, 1 Monat: 12€, 1 Jahr: 120€; andere Tarife für Boxen mit Ladeanschluss",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.938859",
+      "lon": "8.408815",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08215:1231"
+        }
+      ],
+      "capacity_charging": 6
+    },
+    {
+      "uid": "unit629",
+      "address": "Thiebauthstraße, 76275 Ettlingen",
+      "max_height": 39,
+      "max_width": 39,
+      "description": "Ladeanschluss (230V, bis 600W) bei geschlossener Tür aktiv",
+      "fee_description": "1 Tag: 1€, 1 Woche: 2€, 1 Monat: 5€, 1 Jahr: 30€",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08215:1231"
+        }
+      ],
+      "capacity_charging": 11
+    },
+    {
+      "uid": "unit7",
+      "address": "Eisenbahnstrasse77756 Hausach",
+      "max_height": 116,
+      "max_width": 80,
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.285206",
+      "lon": "8.180088",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08317:18620"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08317:18620/f52387cc-7d03-4484-9544-d1bf99f2d1c2.jpg"
+    },
+    {
+      "uid": "unit71",
+      "address": "Bahnhof, 79418 Schliengen",
+      "max_height": 116,
+      "max_width": 80,
+      "description": "obere Boxen nicht für Pedelecs geeignet, 1 Monat / 1 Jahr zu mieten",
+      "fee_description": "1 Monat: 8€, 1 Jahr: 80€; andere Tarife für Boxen mit Ladeanschluss",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08336:6678"
+        }
+      ],
+      "capacity_charging": 12,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6678/3c946c29-b75d-48aa-ab40-e82d59a0e513.jpg"
+    },
+    {
+      "uid": "unit72",
+      "address": "Bahnhof, 79418 Schliengen",
+      "max_height": 116,
+      "max_width": 80,
+      "description": "obere Boxen nicht für Pedelecs geeignet, 1 Monat / 1 Jahr zu mieten",
+      "fee_description": "1 Monat: 8€, 1 Jahr: 80€; andere Tarife für Boxen mit Ladeanschluss",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "47.761227",
+      "lon": "7.568096",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08336:6678"
+        }
+      ],
+      "capacity_charging": 6,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6678/01aca9e0-604f-4fa0-aa3f-f7d40ea1d17a.jpg"
+    },
+    {
+      "uid": "unit8",
+      "address": "Scheffelstrasse, 79639 Grenzach-Wyhlen",
+      "max_height": 116,
+      "max_width": 80,
+      "description": "obere Boxen nicht für Pedelecs geeignet, 1 Mnat / 1 jahr zu mieten",
+      "fee_description": "1 Monat: 10€, 1 Jahr: 80€; andere Tarife für Boxen mit Ladeanschluss",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "47.55113",
+      "lon": "7.658981",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08336:6604"
+        }
+      ],
+      "capacity_charging": 6,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6604/ba8e17a3-ee74-49ca-b761-370b279c5d1c.jpg"
+    },
+    {
+      "uid": "unit89",
+      "address": "Schwarzwaldstraße, Albtalbahnhof, 76131 Karlsruhe",
+      "max_height": 116,
+      "max_width": 80,
+      "description": "obere Boxen nicht für Pedelecs geeignet, untere Boxen mit Ladeanschluss, 2 Boxen täglich, 10 Boxen bis 1 Jahr zu mieten",
+      "fee_description": "1 Tag: 1,50€, andere Tarife für längere Mietzeiten und Boxen mit Ladeanschluss",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "48.993184",
+      "lon": "8.39626",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08212:1201"
+        }
+      ],
+      "capacity_charging": 6,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08212:1201/90893659-da25-455f-af9a-337285d39bbc.jpg"
+    },
+    {
+      "uid": "unit9",
+      "address": "Alemannenstraße, 79639 Grenzach-Wyhlen",
+      "max_height": 116,
+      "max_width": 80,
+      "description": "Obere Boxen nicht für Pedelecs, untere Boxen mit Ladeanschluss, monatlich oder jährlich zu mieten",
+      "fee_description": "ohne/mit Ladeanschluss 1 Monat: 10/15€, 1 Jahr: 80/110€ ",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "47.546086",
+      "lon": "7.691128",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08336:6605"
+        }
+      ],
+      "capacity_charging": 6,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6605/a7cd85ed-e151-4f5b-b787-9ee6f3fd205e.jpg"
+    },
+    {
+      "uid": "unit92",
+      "address": "Bahnhofstraße / Alemannenstraße, 79639 Grenzach-Wyhlen",
+      "max_height": 116,
+      "max_width": 80,
+      "description": "Obere Boxen nicht für Pedelecs, untere Boxen mit Ladeanschluss, monatlich oder jährlich zu mieten",
+      "fee_description": "ohne/mit Ladeanschluss 1 Monat: 10/15€, 1 Jahr: 80/110€ ",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "lat": "47.546502",
+      "lon": "7.690517",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08336:6605"
+        }
+      ],
+      "capacity_charging": 6,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6605/37f84f4c-4d77-4e56-a180-d6dd3d77bf9c.jpg"
+    }
+  ]
+}

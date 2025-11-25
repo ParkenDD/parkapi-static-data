@@ -12,13 +12,18 @@
       ],
       "lat": "47.655382",
       "lon": "7.564047",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 12
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08336:6631_Parent"
         }
       ],
-      "capacity_charging": 12,
       "is_covered": true,
       "has_fee": true,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6631/762f2044-cc78-4c2d-add2-4455575d508e.jpg"
@@ -33,24 +38,34 @@
       "park_and_ride_type": [
         true
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 11
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08216:1844_Parent"
         }
       ],
-      "capacity_charging": 11,
       "has_fee": true
     },
     {
       "uid": "unit1719",
-      "address": "Dr. Peter-Bümlein-Platz, 70794 Filderstadt",
       "max_height": 127,
       "max_width": 80,
       "description": "Radboxen 1 - 6 mit Lademöglichkeit nur tageweise buchbar",
-      "fee_description": "1 Tag mit Ladeanschluss: 1€",
+      "fee_description": "1 Tag: 1, 1 Monat:, 1 Jahr:",
       "park_and_ride_type": [
         "TRAIN"
+      ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
       ],
       "external_identifiers": [
         {
@@ -58,7 +73,6 @@
           "value": "de:08116:2006_Parent"
         }
       ],
-      "capacity_charging": 6,
       "is_covered": true,
       "has_fee": true
     },
@@ -89,13 +103,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 10
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08116:2931_Parent"
         }
       ],
-      "capacity_charging": 10,
       "is_covered": true,
       "has_fee": true
     },
@@ -147,17 +166,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 8
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08119:1704:2:1"
-        },
-        {
-          "type": "DHID",
-          "value": "de:08119:1704:1:2"
         }
       ],
-      "capacity_charging": 8,
       "is_covered": true,
       "has_fee": true,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1704/d8f16c50-7596-4487-8241-1110ea200b27.jpg"
@@ -172,13 +192,18 @@
       "park_and_ride_type": [
         "Train"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 4
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08336:6630:1:1"
         }
       ],
-      "capacity_charging": 4,
       "is_covered": true
     },
     {
@@ -214,13 +239,18 @@
       ],
       "lat": "48.520589",
       "lon": "9.741763",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08425:2626_Parent"
         }
       ],
-      "capacity_charging": 6,
       "has_lighting": true,
       "is_covered": true
     },
@@ -256,13 +286,18 @@
       ],
       "lat": "48.691466",
       "lon": "9.195871",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 5
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08116:2103_Parent"
         }
       ],
-      "capacity_charging": 5,
       "has_lighting": true,
       "is_covered": true
     },
@@ -278,13 +313,18 @@
       ],
       "lat": "48.691457",
       "lon": "9.195825",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 16
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08116:2103_Parent"
         }
       ],
-      "capacity_charging": 16,
       "has_lighting": true
     },
     {
@@ -309,7 +349,6 @@
     },
     {
       "uid": "unit2197",
-      "address": "Schulstraße/Karlsstraße, 73614 Schorndorf",
       "max_height": 117,
       "max_width": 80,
       "description": "Radboxen in zwei Ebenen. Untere Radboxen mit Ladefunktion für Pedelecs, obere bis 28kg zugelassen",
@@ -317,13 +356,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 12
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08119:7703_Parent"
         }
       ],
-      "capacity_charging": 12,
       "is_covered": true
     },
     {
@@ -417,7 +461,6 @@
     },
     {
       "uid": "unit2866",
-      "address": "Ludwig-Wilhelm-Straße 24, 76530 Baden-Baden",
       "max_height": 127,
       "max_width": 80,
       "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
@@ -425,7 +468,6 @@
     },
     {
       "uid": "unit2868",
-      "address": "Lichtentaler Straße 43, 76530 Baden-Baden",
       "max_height": 127,
       "max_width": 80,
       "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
@@ -433,7 +475,6 @@
     },
     {
       "uid": "unit2870",
-      "address": "Beim Alten Bahnhof 1b, 76530 Baden-Baden",
       "max_height": 127,
       "max_width": 80,
       "description": "Tiefe der Box: 199 cm, Öffnung nur mit Bike-and-Ridebox-App",
@@ -557,31 +598,42 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 10
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08118:7603"
         }
-      ],
-      "capacity_charging": 10
+      ]
     },
     {
       "uid": "unit2913",
       "address": "Bahnhofweg 9, 70825 Korntal-Münchingen",
+      "max_height": 117,
+      "max_width": 80,
       "description": "Für Räder bis 55 mm Reifenbreite, obere Boxen bis 28 kg",
-      "fee_description": "1 Woche: 8€, 1 Monat: 26€, 1 Jahr: 250€",
       "park_and_ride_type": [
         "TRAIN"
       ],
       "lat": "48.826933",
       "lon": "9.121826",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08118:7603"
         }
-      ],
-      "capacity_charging": 2
+      ]
     },
     {
       "uid": "unit2949",
@@ -595,13 +647,18 @@
       ],
       "lat": "48.695529",
       "lon": "9.142858",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 5
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08116:175"
         }
-      ],
-      "capacity_charging": 5
+      ]
     },
     {
       "uid": "unit2951",
@@ -613,13 +670,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 5
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08116:175"
         }
-      ],
-      "capacity_charging": 5
+      ]
     },
     {
       "uid": "unit3025",
@@ -635,7 +697,12 @@
       "max_width": 39,
       "description": "49 cm tief, Ladesteckdosen bis 600 W, bei geschlossener Tür aktiv",
       "fee_description": "1 Tag, 0,49€, 1 Woche: 1,99€, 1 Monat: 5,99€, 1 Jahr: 59,99€",
-      "capacity_charging": 14
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 14
+        }
+      ]
     },
     {
       "uid": "unit3192",
@@ -681,13 +748,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 8
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08416:1005"
         }
-      ],
-      "capacity_charging": 8
+      ]
     },
     {
       "uid": "unit3198",
@@ -701,13 +773,18 @@
       ],
       "lat": "48.472506",
       "lon": "8.934623",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08416:1005"
         }
-      ],
-      "capacity_charging": 1
+      ]
     },
     {
       "uid": "unit344",
@@ -719,13 +796,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 39
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08119:7701"
         }
       ],
-      "capacity_charging": 39,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7701/859eecf0-b65c-494d-a6e1-ea26d25a32b0.jpg"
     },
     {
@@ -761,13 +843,18 @@
       ],
       "lat": "48.484614",
       "lon": "8.754067",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08237:8006"
         }
       ],
-      "capacity_charging": 6,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08237:8006/8e338310-b3c6-4355-9e9a-88a35a63f3bd.jpg"
     },
     {
@@ -799,13 +886,18 @@
       ],
       "lat": "48.679697",
       "lon": "10.156351",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 14
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08135:650"
         }
       ],
-      "capacity_charging": 14,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08135:600/bd7228fa-ab31-410c-9033-bff43c29c3fa.jpg"
     },
     {
@@ -820,13 +912,18 @@
       ],
       "lat": "49.189347",
       "lon": "9.220305",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 5
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08125:620"
         }
       ],
-      "capacity_charging": 5,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08125:620/7229ad03-a619-43fb-894a-a6954acb1d5b.jpg"
     },
     {
@@ -841,13 +938,18 @@
       ],
       "lat": "48.792718",
       "lon": "9.340193",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 5
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08119:4933"
         }
-      ],
-      "capacity_charging": 5
+      ]
     },
     {
       "uid": "unit505",
@@ -879,13 +981,18 @@
       ],
       "lat": "48.694548",
       "lon": "9.17503",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08116:7180"
         }
-      ],
-      "capacity_charging": 6
+      ]
     },
     {
       "uid": "unit507",
@@ -899,13 +1006,18 @@
       ],
       "lat": "48.694573",
       "lon": "9.175007",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 20
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08116:7180"
         }
-      ],
-      "capacity_charging": 20
+      ]
     },
     {
       "uid": "unit517",
@@ -917,13 +1029,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08336:6602"
         }
-      ],
-      "capacity_charging": 6
+      ]
     },
     {
       "uid": "unit560",
@@ -935,13 +1052,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08317:16700"
         }
       ],
-      "capacity_charging": 6,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08317:16700/9d5d61b6-e0c6-4949-a4d4-2cb281c5aef4.jpg"
     },
     {
@@ -954,13 +1076,18 @@
       "park_and_ride_type": [
         "BUS"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 4
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08116:2115"
         }
-      ],
-      "capacity_charging": 4
+      ]
     },
     {
       "uid": "unit564",
@@ -972,13 +1099,18 @@
       "park_and_ride_type": [
         "BUS"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 8
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08116:2115"
         }
-      ],
-      "capacity_charging": 8
+      ]
     },
     {
       "uid": "unit567",
@@ -990,13 +1122,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 11
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08211:1847"
         }
-      ],
-      "capacity_charging": 11
+      ]
     },
     {
       "uid": "unit574",
@@ -1010,13 +1147,18 @@
       ],
       "lat": "49.161766",
       "lon": "8.49146",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 5
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08215:32585"
         }
-      ],
-      "capacity_charging": 5
+      ]
     },
     {
       "uid": "unit621",
@@ -1030,13 +1172,18 @@
       ],
       "lat": "48.938859",
       "lon": "8.408815",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08215:1231"
         }
-      ],
-      "capacity_charging": 6
+      ]
     },
     {
       "uid": "unit629",
@@ -1048,13 +1195,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 11
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08215:1231"
         }
-      ],
-      "capacity_charging": 11
+      ]
     },
     {
       "uid": "unit7",
@@ -1084,13 +1236,18 @@
       "park_and_ride_type": [
         "TRAIN"
       ],
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 12
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08336:6678"
         }
       ],
-      "capacity_charging": 12,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6678/3c946c29-b75d-48aa-ab40-e82d59a0e513.jpg"
     },
     {
@@ -1105,13 +1262,18 @@
       ],
       "lat": "47.761227",
       "lon": "7.568096",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08336:6678"
         }
       ],
-      "capacity_charging": 6,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6678/01aca9e0-604f-4fa0-aa3f-f7d40ea1d17a.jpg"
     },
     {
@@ -1126,13 +1288,18 @@
       ],
       "lat": "47.55113",
       "lon": "7.658981",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08336:6604"
         }
       ],
-      "capacity_charging": 6,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6604/ba8e17a3-ee74-49ca-b761-370b279c5d1c.jpg"
     },
     {
@@ -1147,18 +1314,22 @@
       ],
       "lat": "48.993184",
       "lon": "8.39626",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08212:1201"
         }
       ],
-      "capacity_charging": 6,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08212:1201/90893659-da25-455f-af9a-337285d39bbc.jpg"
     },
     {
       "uid": "unit9",
-      "address": "Alemannenstraße, 79639 Grenzach-Wyhlen",
       "max_height": 116,
       "max_width": 80,
       "description": "Obere Boxen nicht für Pedelecs, untere Boxen mit Ladeanschluss, monatlich oder jährlich zu mieten",
@@ -1168,13 +1339,18 @@
       ],
       "lat": "47.546086",
       "lon": "7.691128",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08336:6605"
         }
       ],
-      "capacity_charging": 6,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6605/a7cd85ed-e151-4f5b-b787-9ee6f3fd205e.jpg"
     },
     {
@@ -1189,13 +1365,18 @@
       ],
       "lat": "47.546502",
       "lon": "7.690517",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
       "external_identifiers": [
         {
           "type": "DHID",
           "value": "de:08336:6605"
         }
       ],
-      "capacity_charging": 6,
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08336:6605/37f84f4c-4d77-4e56-a180-d6dd3d77bf9c.jpg"
     }
   ]

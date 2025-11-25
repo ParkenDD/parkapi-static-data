@@ -176,10 +176,6 @@
         {
           "type": "DHID",
           "value": "de:08119:1704:2:1"
-        },
-        {
-          "type": "DHID",
-          "value": "de:08119:1704:1:2"
         }
       ],
       "is_covered": true,

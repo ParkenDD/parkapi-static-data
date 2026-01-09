@@ -2,7 +2,7 @@
   "items": [
     {
       "uid": "20",
-      "opening_hours": "Mo–Sa 06:00–24:00; So/Feiertage 08:00–24:00",
+      "opening_hours": "Mo-Sa 06:00-24:00; Su 08:00-24:00",
       "has_fee": true,
       "fee_description": "2 Std.: kostenfrei (Parkscheibe); 3 Std.: 1,00 €; jede weitere Std.: 1,50 €; 24 Std.: 6,00 €; 2-Tagesticket: 10,00 €; 3-Tagesticket: 13,00 €; jeder weitere Tag: +3,00 €",
       "restrictions": [
@@ -18,16 +18,16 @@
     },
     {
       "uid": "7",
-      "description": "Nachts ist ein Rolltor geschlossen. Fahren Sie direkt vor das Tor und ziehen Sie ein Ticket oder stecken Sie Ihre Parkkarte ein – das Rolltor öffnet sich automatisch.",
+      "description": "Nachts ist ein Rolltor geschlossen. Fahren Sie direkt vor das Tor und ziehen Sie ein Ticket oder stecken Sie Ihre Parkkarte ein - das Rolltor öffnet sich automatisch.",
       "max_height": 180,
       "max_width": 220,
-      "opening_hours": "Mo–So 00:00–24:00",
+      "opening_hours": "24/7",
       "has_fee": true,
-      "fee_description": "Mo–So 07:00–20:00: je angefangene Std.: 3,00 €; 24 Std.: max. 22,00 €; Mo–So 20:00–07:00: je angefangene Std.: 3,00 €; Nacht: max. 8,00 €"
+      "fee_description": "Mo-So 07:00-20:00: je angefangene Std.: 3,00 €; 24 Std.: max. 22,00 €; Mo-So 20:00-07:00: je angefangene Std.: 3,00 €; Nacht: max. 8,00 €"
     },
     {
       "uid": "19",
-      "opening_hours": "Mo–Sa 06:00–24:00; So 07:00–22:00",
+      "opening_hours": "Mo-Sa 06:00-24:00; Su 07:00-22:00",
       "has_fee": true,
       "fee_description": "1. Std.: 1,50 €; jede weitere angefangene Std.: 1,00 €; 24 Std.: max. 8,00 €",
       "restrictions": [
@@ -50,22 +50,22 @@
     },
     {
       "uid": "17",
-      "opening_hours": "Mo–So 06:00–01:00",
+      "opening_hours": "Mo-Su 06:00-01:00",
       "has_fee": true,
-      "fee_description": "Tag (08:00–20:00): 1 Std.: 2,20 €; Abend (20:00–01:00): 1 Std.: 1,00 €; Nacht (01:00–08:00): pauschal 1,00 €; 24 Std.: max. 32,40 €; Verlust Parkschein: 30,00 €; Verlust Codekarte: 30,00 €"
+      "fee_description": "Tag (08:00-20:00): 1 Std.: 2,20 €; Abend (20:00-01:00): 1 Std.: 1,00 €; Nacht (01:00-08:00): pauschal 1,00 €; 24 Std.: max. 32,40 €; Verlust Parkschein: 30,00 €; Verlust Codekarte: 30,00 €"
     },
     {
       "uid": "18",
       "description": "keine speziell ausgewiesenen Stellplätze für Frauen und Menschen mit Behinderung",
-      "opening_hours": "Mo–So 00:00–24:00",
+      "opening_hours": "24/7",
       "has_fee": true,
       "fee_description": "1 Std.: 0,50 €; 24 Std.: max. 2,00 €; Zeitkarte 7 Tage: 9,00 €; Zeitkarte 14 Tage: 16,00 €"
     },
      {
       "uid": "6",
-      "opening_hours": "Mo–So 07:00–01:00",
+      "opening_hours": "Mo-Su 07:00-01:00",
       "has_fee": true,
-      "fee_description": "Tag (08:00–20:00): Mo 1 Std.: 2,20 €; Di–Fr & So 1 Std.: 2,50 €; Sa 1 Std.: 2,70 €; Abend (20:00–01:00): 1 Std.: 2,00 €; 2 Std.: 4,00 €; ab 3 Std.: 6,00 €; Nacht (01:00–08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
+      "fee_description": "Tag (08:00-20:00): Mo 1 Std.: 2,20 €; Di-Fr & So 1 Std.: 2,50 €; Sa 1 Std.: 2,70 €; Abend (20:00-01:00): 1 Std.: 2,00 €; 2 Std.: 4,00 €; ab 3 Std.: 6,00 €; Nacht (01:00-08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
       "restrictions": [
         {
           "type": "WOMEN",
@@ -86,7 +86,7 @@
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08311:6508/1a766937-fd96-4f57-adc3-4b37c62635eb.jpg",
       "max_height": 210,
       "max_width": 276,
-      "opening_hours": "Mo–So 05:30–01:00",
+      "opening_hours": "Mo-Su 05:30-01:00",
       "has_fee": true,
       "fee_description": "20 Min.: 1,00 €; 1 Std.: 2,70 €; 1 Tag (Pcard): 19,00 €; 1 Tag: 22,50 €",
       "restrictions": [
@@ -103,9 +103,9 @@
     {
       "uid": "9",
       "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08311:6508/26743b43-a4fe-410d-8ade-ecdffbeaf2e8.jpg",
-      "opening_hours": "Mo–So 00:00–24:00",
+      "opening_hours": "24/7",
       "has_fee": true,
-      "fee_description": "Tag 08:00–18:00: Mo 2,20 €; Di–Fr & So 2,50 €; Sa 2,70 € / Std.; Abend 18:00–01:00: 1 Std. 3,00 €, 2 Std. 6,00 €, ≥3 Std. 9,00 €; Nacht 01:00–08:00: 3,00 €; max. 30,00 €",
+      "fee_description": "Tag 08:00-18:00: Mo 2,20 €; Di-Fr & So 2,50 €; Sa 2,70 € / Std.; Abend 18:00-01:00: 1 Std. 3,00 €, 2 Std. 6,00 €, ≥3 Std. 9,00 €; Nacht 01:00-08:00: 3,00 €; max. 30,00 €",
       "restrictions": [
         {
           "type": "WOMEN",
@@ -125,9 +125,9 @@
       "uid": "16",
       "description": "Begleitservice für Frauen in Abend- und Nachtstunden",
       "max_height": 200,
-      "opening_hours": "Mo–So 00:00–24:00",
+      "opening_hours": "24/7",
       "has_fee": true,
-      "fee_description": "1 Std.: ab 1,80 € (Kunden: 1,50 €); 12–24 Std.: 19,00 € (Kunden: 18,50 €); Abend ab 17:00 (bis 02:00): 1 Std.: 1,10 €, je weitere Std.: +1,10 €",
+      "fee_description": "1 Std.: ab 1,80 € (Kunden: 1,50 €); 12-24 Std.: 19,00 € (Kunden: 18,50 €); Abend ab 17:00 (bis 02:00): 1 Std.: 1,10 €, je weitere Std.: +1,10 €",
       "restrictions": [
         {
           "type": "WOMEN",
@@ -170,9 +170,9 @@
     },
     {
       "uid": "8",
-      "opening_hours": "Mo–So 00:00–24:00",
+      "opening_hours": "24/7",
       "has_fee": true,
-      "fee_description": "Tag (08:00–20:00): Mo 1 Std.: 2,20 €; Di–Fr & So 1 Std.: 2,50 €; Sa 1 Std.: 2,70 €; Abend (20:00–01:00): 1 Std.: 2,00 €; 2 Std.: 4,00 €; ab 3 Std.: 6,00 €; Nacht (01:00–08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
+      "fee_description": "Tag (08:00-20:00): Mo 1 Std.: 2,20 €; Di-Fr & So 1 Std.: 2,50 €; Sa 1 Std.: 2,70 €; Abend (20:00-01:00): 1 Std.: 2,00 €; 2 Std.: 4,00 €; ab 3 Std.: 6,00 €; Nacht (01:00-08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
       "restrictions": [
         {
           "type": "WOMEN",
@@ -195,7 +195,7 @@
     {
       "uid": "4",
       "description": "Ab Montag, 15. Dezember 2025 ist die Zufahrt der Tiefgarage durch die Sperrung der Stadstraße wegen Bauarbeiten bis auf weiteres erschwert. Die Tiefgarage ist in diesem Zeitraum weiterhin geöffnet und kann über die Mozartstraße oder über die Jakob-Burckhard-Straße angefahren und erreicht werden. Wichtiger Hinweis für Rollstuhlfahrer: Direkt neben den beiden Behindertenparkplätzen im UG 1 (Eingangsebene) befindet sich ein Kassenautomat. Dieser ist für Sie über eine Rampe barrierefrei zugänglich. Über den Lautsprecher im Automaten können Sie Montag - Freitag in der Zeit von 08:00 - 16:00 Uhr Ihren Besuch anmelden:\n\nDrücken Sie am Automat die Taste neben dem Telefonhörer.\nSie werden mit der Information des Landratsamtes verbunden.\nEin Mitarbeiter wird Sie am Kassenautomat abholen und ins Landratsamt begleiten.",
-      "opening_hours": "Mo–Fr 07:00–20:00; Sa 09:00–18:30",
+      "opening_hours": "Mo-Fr 07:00-20:00; Sa 09:00-18:30",
       "has_fee": true,
       "fee_description": "1 Std.: 2,00 €",
       "restrictions": [
@@ -207,9 +207,9 @@
     },
     {
       "uid": "11",
-      "opening_hours": "Mo–So 06:00–01:00",
+      "opening_hours": "Mo-Su 06:00-01:00",
       "has_fee": true,
-      "fee_description": "Tag (08:00–20:00): 1 Std.: 2,50 €; Abend (20:00–01:00): 1 Std.: 2,00 €; 2 Std.: 4,00 €; ab 3 Std.: 6,00 €; Nacht (01:00–08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
+      "fee_description": "Tag (08:00-20:00): 1 Std.: 2,50 €; Abend (20:00-01:00): 1 Std.: 2,00 €; 2 Std.: 4,00 €; ab 3 Std.: 6,00 €; Nacht (01:00-08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
       "restrictions": [
         {
           "type": "FAMILY",
@@ -229,9 +229,9 @@
       "uid": "2",
       "address": "Bernhardstraße2, 79098 Freiburg",
       "max_height": 200,
-      "opening_hours": "Mo–So 00:00–24:00", 
+      "opening_hours": "24/7", 
       "has_fee": true,
-      "fee_description": "Mo–So 1 Std.: 1,50 €; 24 Std.: max. 12,00 € | P Card: Mo–So 1 Std.: 1,00 €; 24 Std.: max. 7,00 €",
+      "fee_description": "Mo-So 1 Std.: 1,50 €; 24 Std.: max. 12,00 € | P Card: Mo-So 1 Std.: 1,00 €; 24 Std.: max. 7,00 €",
       "restrictions": [
         {
           "type": "WOMEN",
@@ -248,9 +248,9 @@
       "address": "Wasserstraße 7, 79098 Freiburg",
       "description": "Videoüberwachte Frauenparkplätze-NP-Kasse im Einkaufszentrum/ UG",
       "max_height": 205,
-      "opening_hours": "Mo–Sa 07:00–22:00", 
+      "opening_hours": "Mo-Sa 07:00-22:00", 
       "has_fee": true,
-      "fee_description": "Mo–Do: 30 Min.: 1,50 €; 1 Std.: 2,00 €; weitere Std.: 2,00 €; max.: 23,00 €; Verlust: 23,00 € |Fr: 30 Min.: 2,00 €; 1 Std.: 2,00 €; weitere Std.: 2,00 €; max.: 23,00 €; Verlust: 23,00 € |\nSa: 30 Min.: 2,20 €; 1 Std.: 2,20 €; weitere Std.: 2,20 €; max.: 25,00 €; Verlust: 25,00 €",
+      "fee_description": "Mo-Do: 30 Min.: 1,50 €; 1 Std.: 2,00 €; weitere Std.: 2,00 €; max.: 23,00 €; Verlust: 23,00 € |Fr: 30 Min.: 2,00 €; 1 Std.: 2,00 €; weitere Std.: 2,00 €; max.: 23,00 €; Verlust: 23,00 € |\nSa: 30 Min.: 2,20 €; 1 Std.: 2,20 €; weitere Std.: 2,20 €; max.: 25,00 €; Verlust: 25,00 €",
       "restrictions": [
         {
           "type": "WOMEN",
@@ -264,9 +264,9 @@
     },
      {
       "uid": "10",
-      "opening_hours": "Mo–So 00:00–24:00",
+      "opening_hours": "24/7",
       "has_fee": true,
-      "fee_description": "Tag (08:00–18:00): Mo 1 Std.: 2,20 €; Di–Fr & So 1 Std.: 2,50 €; Sa 1 Std.: 2,70 €; Abend (18:00–01:00): 1 Std.: 3,00 €; 2 Std.: 6,00 €; ab 3 Std.: 9,00 €; Nacht (01:00–08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
+      "fee_description": "Tag (08:00-18:00): Mo 1 Std.: 2,20 €; Di-Fr & So 1 Std.: 2,50 €; Sa 1 Std.: 2,70 €; Abend (18:00-01:00): 1 Std.: 3,00 €; 2 Std.: 6,00 €; ab 3 Std.: 9,00 €; Nacht (01:00-08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
       "restrictions": [
         {
           "type": "WOMEN",
@@ -284,9 +284,9 @@
     },
     {
       "uid": "5",
-      "opening_hours": "Mo–So 00:00–24:00",
+      "opening_hours": "24/7",
       "has_fee": true,
-      "fee_description": "Tag (08:00–20:00): Mo 1 Std.: 2,20 €; Di–Fr & So 1 Std.: 2,50 €; Sa 1 Std.: 2,70 €; Abend (20:00–01:00): 1 Std.: 2,00 €; 2 Std.: 4,00 €; ab 3 Std.: 6,00 €; Nacht (01:00–08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
+      "fee_description": "Tag (08:00-20:00): Mo 1 Std.: 2,20 €; Di-Fr & So 1 Std.: 2,50 €; Sa 1 Std.: 2,70 €; Abend (20:00-01:00): 1 Std.: 2,00 €; 2 Std.: 4,00 €; ab 3 Std.: 6,00 €; Nacht (01:00-08:00): pauschal 3,00 €; 24 Std.: max. 30,00 €",
       "restrictions": [
         {
           "type": "WOMEN",

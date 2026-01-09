@@ -45,8 +45,17 @@
       "uid": "21",
       "address": "Neuer Messplatz 1, 79108 Freiburg",
       "public_url": "https://www.freiburg.de/pb/2052944.html",
+      "park_and_ride_type": [
+        "TRAM"
+      ],
       "has_fee": true,
-      "fee_description": "Tageskarte: 4,00 €; SC-Heimspieltage: 10,00 €"
+      "fee_description": "Tageskarte: 4,00 €; SC-Heimspieltage: 10,00 €",
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08311:30234_Parent"
+        }
+      ]
     },
     {
       "uid": "17",

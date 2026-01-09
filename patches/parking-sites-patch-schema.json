@@ -1,0 +1,136 @@
+{
+  "$id": "https://github.com/ParkenDD/parkapi-static-data/blob/main/patches/parking-sites-patch-schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "parking-sites-patch-schema",
+  "description": "Parking Sites Patch",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "uid": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "address": {
+            "type": "string"
+          },
+          "description": {
+            "type": "string"
+          },
+          "type": {
+            "enum": ["ON_STREET",  "OFF_STREET_PARKING_GROUND", "UNDERGROUND", "CAR_PARK", "WALL_LOOPS", "SAFE_WALL_LOOPS", "STANDS", "LOCKERS", "SHED", "TWO_TIER", "BUILDING", "FLOOR", "LOCKBOX"]
+          },
+          "public_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "photo_url": {
+            "type": "string",
+            "format": "uri"
+          },
+          "lat": {
+            "type": "string",
+            "pattern": "^[+-]?[0-9]{0,3}.?[0-9]{0,7}$"
+          },
+          "lon": {
+            "type": "string",
+            "pattern": "^[+-]?[0-9]{0,3}.?[0-9]{0,7}$"
+          },
+          "capacity": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "max_height": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "max_width": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "has_lighting": {
+            "type": "boolean"
+          },
+          "is_covered": {
+            "type": "boolean"
+          },
+          "supervision_type": {
+            "enum": ["YES", "NO", "VIDEO", "ATTENDED"]
+          },
+          "park_and_ride_type": {
+            "type": "array",
+            "items": {
+              "enum": ["CARPOOL", "TRAIN", "BUS", "TRAM", "NO"]
+            }
+          },
+          "related_location": {
+            "type": "string"
+          },
+          "parking_type": {
+            "enum": ["LANE", "ON_KERB", "HALF_ON_KERB", "SHOULDER"]
+          },
+          "orientation": {
+            "enum": ["PARALLEL", "DIAGONAL", "PERPENDICULAR"]
+          },
+          "restrictions": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "enum": ["DISABLED", "WOMEN", "FAMILY", "CARSHARING", "CHARGING", "TAXI", "DELIVERY", "TRUCK", "BUS", "CUSTOMER", "RESIDENT", "CARAVAN", "CARGOBIKE"]
+                },
+                "capacity": {
+                  "type": "integer",
+                  "minimum": 0
+                },
+                "max_stay": {
+                  "type": "string",
+                  "format": "duration"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "opening_hours": {
+            "type": "string"
+          },
+          "has_fee": {
+            "type": "boolean"
+          },
+          "fee_description": {
+            "type": "string"
+          },
+          "external_identifiers": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "enum": ["DHID", "OSM"]
+                },
+                "value": {
+                  "type": "string"
+                }
+              },
+              "required": [ "type", "value" ],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": [ "uid" ],
+        "dependentRequired": {
+          "lat": ["lon"]
+        },
+        "additionalProperties": false
+      },
+      "minItems": 1
+    }
+  },
+  "required": [ "items" ]
+}

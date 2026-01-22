@@ -1,0 +1,147 @@
+{
+  "$id": "https://github.com/ParkenDD/parkapi-static-data/blob/main/patches/parking-sites-patch-schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "parking-sites-patch-schema",
+  "description": "Parking Sites Patch",
+  "type": "object",
+  "properties": {
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "uid": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          },
+          "address": {
+            "type": ["string", "null"]
+          },
+          "description": {
+            "type": ["string", "null"]
+          },
+          "type": {
+            "type": "string",
+            "enum": ["ON_STREET",  "OFF_STREET_PARKING_GROUND", "UNDERGROUND", "CAR_PARK", "WALL_LOOPS", "SAFE_WALL_LOOPS", "STANDS", "LOCKERS", "SHED", "TWO_TIER", "BUILDING", "FLOOR", "LOCKBOX"]
+          },
+          "public_url": {
+            "type": ["string", "null"],
+            "format": "uri"
+          },
+          "photo_url": {
+            "type": ["string", "null"],
+            "format": "uri"
+          },
+          "lat": {
+            "type": "string",
+            "pattern": "^[+-]?[0-9]{0,3}.?[0-9]{0,7}$"
+          },
+          "lon": {
+            "type": "string",
+            "pattern": "^[+-]?[0-9]{0,3}.?[0-9]{0,7}$"
+          },
+          "capacity": {
+            "type": "integer",
+            "minimum": 0
+          },
+          "max_height": {
+            "type": ["integer", "null"],
+            "minimum": 0
+          },
+          "max_width": {
+            "type": ["integer", "null"],
+            "minimum": 0
+          },
+          "has_lighting": {
+            "type": ["boolean", "null"]
+          },
+          "is_covered": {
+            "type": ["boolean", "null"]
+          },
+          "supervision_type": {
+            "type": ["string", "null"],
+            "enum": ["YES", "NO", "VIDEO", "ATTENDED", null]
+          },
+          "park_and_ride_type": {
+            "type": ["array", "null"],
+            "items": {
+              "type": "string",
+              "enum": ["CARPOOL", "TRAIN", "BUS", "TRAM", "NO"]
+            }
+          },
+          "related_location": {
+            "type": ["string", "null"]
+          },
+          "parking_type": {
+            "type": ["string", "null"],
+            "enum": ["LANE", "ON_KERB", "HALF_ON_KERB", "SHOULDER", null]
+          },
+          "orientation": {
+            "type": ["string", "null"],
+            "enum": ["PARALLEL", "DIAGONAL", "PERPENDICULAR", null]
+          },
+          "side": {
+            "type": ["string", "null"],
+            "enum": ["RIGHT", "LEFT", null]
+          },
+          "restrictions": {
+            "type": ["array", "null"],
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": ["string", "null"],
+                  "enum": ["DISABLED", "WOMEN", "FAMILY", "CARSHARING", "CHARGING", "TAXI", "DELIVERY", "TRUCK", "BUS", "CUSTOMER", "RESIDENT", "CARAVAN", "CARGOBIKE", null]
+                },
+                "capacity": {
+                  "type": ["integer", "null"],
+                  "minimum": 0
+                },
+                "max_stay": {
+                  "type": ["string", "null"],
+                  "format": "duration"
+                }
+              },
+              "additionalProperties": false
+            }
+          },
+          "opening_hours": {
+            "type": ["string", "null"]
+          },
+          "has_fee": {
+            "type": ["boolean", "null"]
+          },
+          "fee_description": {
+            "type": ["string", "null"]
+          },
+          "external_identifiers": {
+            "type": ["array", "null"],
+            "items": {
+              "type": "object",
+              "properties": {
+                "type": {
+                  "type": "string",
+                  "enum": ["DHID", "OSM"]
+                },
+                "value": {
+                  "type": "string"
+                }
+              },
+              "required": ["type", "value"],
+              "additionalProperties": false
+            }
+          }
+        },
+        "required": ["uid"],
+        "dependentRequired": {
+          "lat": ["lon"]
+        },
+        "additionalProperties": false
+      },
+      "minItems": 1
+    }
+  },
+  "required": [ "items" ]
+}

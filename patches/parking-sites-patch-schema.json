@@ -17,20 +17,21 @@
             "type": "string"
           },
           "address": {
-            "type": "string"
+            "type": ["string", "null"]
           },
           "description": {
-            "type": "string"
+            "type": ["string", "null"]
           },
           "type": {
+            "type": "string",
             "enum": ["ON_STREET",  "OFF_STREET_PARKING_GROUND", "UNDERGROUND", "CAR_PARK", "WALL_LOOPS", "SAFE_WALL_LOOPS", "STANDS", "LOCKERS", "SHED", "TWO_TIER", "BUILDING", "FLOOR", "LOCKBOX"]
           },
           "public_url": {
-            "type": "string",
+            "type": ["string", "null"],
             "format": "uri"
           },
           "photo_url": {
-            "type": "string",
+            "type": ["string", "null"],
             "format": "uri"
           },
           "lat": {
@@ -46,51 +47,60 @@
             "minimum": 0
           },
           "max_height": {
-            "type": "integer",
+            "type": ["integer", "null"],
             "minimum": 0
           },
           "max_width": {
-            "type": "integer",
+            "type": ["integer", "null"],
             "minimum": 0
           },
           "has_lighting": {
-            "type": "boolean"
+            "type": ["boolean", "null"]
           },
           "is_covered": {
-            "type": "boolean"
+            "type": ["boolean", "null"]
           },
           "supervision_type": {
-            "enum": ["YES", "NO", "VIDEO", "ATTENDED"]
+            "type": ["string", "null"],
+            "enum": ["YES", "NO", "VIDEO", "ATTENDED", null]
           },
           "park_and_ride_type": {
-            "type": "array",
+            "type": ["array", "null"],
             "items": {
+              "type": "string",
               "enum": ["CARPOOL", "TRAIN", "BUS", "TRAM", "NO"]
             }
           },
           "related_location": {
-            "type": "string"
+            "type": ["string", "null"]
           },
           "parking_type": {
-            "enum": ["LANE", "ON_KERB", "HALF_ON_KERB", "SHOULDER"]
+            "type": ["string", "null"],
+            "enum": ["LANE", "ON_KERB", "HALF_ON_KERB", "SHOULDER", null]
           },
           "orientation": {
-            "enum": ["PARALLEL", "DIAGONAL", "PERPENDICULAR"]
+            "type": ["string", "null"],
+            "enum": ["PARALLEL", "DIAGONAL", "PERPENDICULAR", null]
+          },
+          "side": {
+            "type": ["string", "null"],
+            "enum": ["RIGHT", "LEFT", null]
           },
           "restrictions": {
-            "type": "array",
+            "type": ["array", "null"],
             "items": {
               "type": "object",
               "properties": {
                 "type": {
-                  "enum": ["DISABLED", "WOMEN", "FAMILY", "CARSHARING", "CHARGING", "TAXI", "DELIVERY", "TRUCK", "BUS", "CUSTOMER", "RESIDENT", "CARAVAN", "CARGOBIKE"]
+                  "type": ["string", "null"],
+                  "enum": ["DISABLED", "WOMEN", "FAMILY", "CARSHARING", "CHARGING", "TAXI", "DELIVERY", "TRUCK", "BUS", "CUSTOMER", "RESIDENT", "CARAVAN", "CARGOBIKE", null]
                 },
                 "capacity": {
-                  "type": "integer",
+                  "type": ["integer", "null"],
                   "minimum": 0
                 },
                 "max_stay": {
-                  "type": "string",
+                  "type": ["string", "null"],
                   "format": "duration"
                 }
               },
@@ -98,32 +108,33 @@
             }
           },
           "opening_hours": {
-            "type": "string"
+            "type": ["string", "null"]
           },
           "has_fee": {
-            "type": "boolean"
+            "type": ["boolean", "null"]
           },
           "fee_description": {
-            "type": "string"
+            "type": ["string", "null"]
           },
           "external_identifiers": {
-            "type": "array",
+            "type": ["array", "null"],
             "items": {
               "type": "object",
               "properties": {
                 "type": {
+                  "type": "string",
                   "enum": ["DHID", "OSM"]
                 },
                 "value": {
                   "type": "string"
                 }
               },
-              "required": [ "type", "value" ],
+              "required": ["type", "value"],
               "additionalProperties": false
             }
           }
         },
-        "required": [ "uid" ],
+        "required": ["uid"],
         "dependentRequired": {
           "lat": ["lon"]
         },

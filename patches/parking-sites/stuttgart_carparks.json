@@ -1,211 +1,823 @@
 {
   "items": [
     {
-      "uid": "12717426",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/sophienstrasse"
-    },
-    {
-      "uid": "12717372",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/koenigsbau-passagen"
-    },
-    {
-      "uid": "79151418",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-stadtmitte"
-    },
-    {
-      "uid": "12717432",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.klinikum-stuttgart.de/patienten-besucher/ihr-aufenthalt/vor-dem-aufenthalt/anfahrt/katharinenhospital"
-    },
-    {
-      "uid": "12717435",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/stephangarage/"
-    },
-    {
-      "uid": "12717450",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/tuebinger-carre/"
-    },
-    {
       "uid": "79151317",
       "name": "Rathausgarage",
-      "type": "UNDERGROUND"
-    },
-    {
-      "uid": "12717229",
       "type": "UNDERGROUND",
-      "public_url": "https://www.e-breuninger.de/de/medienportal/start-fuer-innovativen-mobilitaets-hub-1/"
-    },
-    {
-      "uid": "79151717",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=70563#!",
-      "park_and_ride_type": [
-        "TRAM"
-      ],
-      "external_identifiers": [
+      "address": "Nadlerstraße 19, 70173 Stuttgart",
+      "max_height": 200,
+      "fee_description": "1 Std.: 3,20€, 24 Std.: 24€, Nachtpauschale: 6,60€",
+      "capacity": 133,
+      "restrictions": [
         {
-          "type": "DHID",
-          "value": "de:08111:6027:1:1"
+          "type": "CHARGING",
+          "capacity": 14
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 1
         }
       ]
     },
     {
-      "uid": "79151656",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.dorotheen-quartier.de/anfahrt-parken"
-    },
-    {
-      "uid": "79151353",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/neue-bruecke-/-koenigstrasse"
-    },
-    {
       "uid": "12717441",
       "type": "UNDERGROUND",
-      "public_url": "https://www.mein-contipark.de/de/parken/stuttgart/tiefgarage-hauptbahnhof-lbbw-p1/"
+      "address": "Am Hauptbahnhof 2",
+      "max_height": 200,
+      "max_width": 330,
+      "fee_description": "30 Min.: 2,00 €; 1 Std.: 3,80 €; 1 Tag (Pcard): 22,00 €; 1 Tag: 25,00 €",
+      "capacity": 1290,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 37
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 37
+        }
+      ],
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/1431036177"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08111:6115"
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.mein-contipark.de/de/parken/stuttgart/tiefgarage-hauptbahnhof-lbbw-p1/",
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6115/c1b6c584-4a1c-4ac9-a2af-d7ab54309c56.jpg"
     },
     {
-      "uid": "12717363",
+      "uid": "12717417",
       "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/liederhalle-bosch-areal"
+      "max_height": 200,
+      "fee_description": "1 Std.: 4,00 €; 24 Std.: max. 25,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "FAMILY",
+          "capacity": 1
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/schwabenzentrum/"
     },
     {
-      "uid": "12717384",
+      "uid": "79151418",
       "type": "UNDERGROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*243%2070173%20Stuttgart%20Parkgarage%20Landtag&anchor=results"
+      "opening_hours": "Mo-Su 06:00-24:00",
+      "max_height": 200,
+      "description": "Leistungen: Frauenparkplatz, Behindertenparkplatz, Familienparkplatz, E-Ladestation, Aufzug; Darüber hinaus finden Sie: Shell E-Ladestationen mit 11kw Anschluss im Parkhaus vorhanden",
+      "fee_description": "30 Min.: ab 2,00 €; ab 3. Std.: 4,00 €; 24 Std.: max. 25,00 €; Verlust Ticket: 25,00 €",
+      "capacity": 266,
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 74
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-stadtmitte"
     },
+    
     {
-      "uid": "79151598",
-      "type": "OFF_STREET_PARKING_GROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*266%2070174%20Stuttgart%20Parkplatz%20Keplerstra%C3%9Fe%20P1"
-    },
-    {
-      "uid": "79151480",
-      "public_url": "https://www.marquardt-garage.de/"
-    },
-    {
-      "uid": "12717315",
-      "public_url": "https://www.ps-huefner.de/standort.php?ort=Stuttgart&id=151"
-    },
-    {
-      "uid": "12717414",
+      "uid": "12717435",
       "type": "UNDERGROUND",
-      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/schlossgarten/"
+      "address": "Kronenstraße 7",
+      "max_height": 200,
+      "fee_description": "1 Std.: 4,00 €; 24 Std.: max. 25,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "FAMILY",
+          "capacity": 1
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/stephangarage/"
     },
     {
-      "uid": "12717253",
-      "public_url": "https://www.q-park.de/de-de/staedte/stuttgart/poi/k%C3%B6nigsstra%C3%9Fe/"
+      "uid": "12717432",
+       "type": "UNDERGROUND",
+      "address": "Kriegsbergstraße 60",
+      "opening_hours": "24/7",
+      "max_height": 190,
+      "description": "Aufgrund von Sanierungsmaßnahmen steht die Tiefgarage Katharinenhospital (fr.  Stadtgarten) ab dem 03.11.2025 bis voraussichtlich Ende 2027 für Patienten: innen, Besucher: innen und Kurzzeitparker: innen nicht zur Verfügung.\n\nBitte weichen Sie auf die umliegenden Parkhäuser aus oder nutzen Sie, sofern dies Ihnen möglich ist, öffentliche Verkehrsmittel.",
+      "has_lighting": true,
+      "is_covered": true,
+      "public_url": "https://www.klinikum-stuttgart.de/patienten-besucher/ihr-aufenthalt/vor-dem-aufenthalt/anfahrt/katharinenhospital"
     },
     {
-      "uid": "12717447",
+      "uid": "12717229",
       "type": "UNDERGROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*247%2070174%20Stuttgart%20Parkgarage%20Tivoli&anchor=results"
-    },
-    {
-      "uid": "12717366",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/holzgartenstrasse"
-    },
-    {
-      "uid": "12717375",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-kronprinzstrasse"
-    },
-    {
-      "uid": "79151538",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/buelow-carre/"
-    },
-    {
-      "uid": "12717429",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*245%2070173%20Stuttgart%20Parkgarage%20Staatsgalerie&anchor=results"
-    },
-    {
-      "uid": "12717262",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/city-garage"
-    },
-    {
-      "uid": "12718779",
-      "type": "OFF_STREET_PARKING_GROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*284%2070178%20Stuttgart%20Parkplatz%20Roteb%C3%BChlhof&anchor=results"
-    },
-    {
-      "uid": "12717250",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*233%2070174%20Stuttgart%20Parkhaus%20Hofdiener&anchor=results"
-    },
-    {
-      "uid": "79151509",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/parken-im-abo/standorte/stuttgart/am-schlossplatz"
-    },
-    {
-      "uid": "12717256",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/schlossstrasse"
-    },
-    {
-      "uid": "79151390",
-      "type": "UNDERGROUND",
-      "public_url": "https://pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*244%2070173%20Stuttgart%20Parkgarage%20Landesbibliothek#!"
-    },
-    {
-      "uid": "12717345",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*288%2070174%20Stuttgart%20Parkgarage%20B%C3%B6rsenplatz&anchor=results"
+      "has_lighting": true,
+      "is_covered": true,
+      "public_url": "https://www.e-breuninger.de/de/medienportal/start-fuer-innovativen-mobilitaets-hub-1/"
     },
     {
       "uid": "12717223",
       "type": "UNDERGROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*246%2070173%20Stuttgart%20Parkgarage%20Haus%20der%20Geschichte&anchor=results"
+      "address": "Konrad-Adenauer-Straße 16",
+      "max_height": 200,
+      "fee_description": "1 Std.: 3,00 €; Abend (Mo–Sa 18:00–06:00): max. 8,00 €; So/Feiertage (06:00–06:00): max. 8,00 €; 24 Std.: max. 20,00 €",
+      "capacity": 55,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 3
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/246"
     },
     {
-      "uid": "12718764",
-      "public_url": "https://www.ps-huefner.de/standort.php?ort=Stuttgart&id=153"
+      "uid": "12717384",
+      "type": "UNDERGROUND",
+      "address": "Konrad-Adenauer-Straße 3",
+      "max_height": 204,
+      "fee_description": "je angefangene 60 Minuten 3,00 €\n\nTageshöchstsatz 20,00 €\n\nAbendtarif (Mo. - Sa.: 18 - 6 Uhr) max. 8,00 €\nSonn- und Feiertagstarif (6 - 6 Uhr) max. 8,00 €",
+      "capacity": 155,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 10
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 12
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 6
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/243"
+    },
+    {
+      "uid": "12717414",
+      "type": "UNDERGROUND",
+      "address": "Schillerstraße 23",
+      "max_height": 180,
+      "fee_description": "1 Std.: 3,80 €; 24 Std.: max. 24,00 €; Nacht (18:00–06:00): pauschal 14,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "FAMILY",
+          "capacity": 1
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/schlossgarten/"
+    },
+    {
+      "uid": "12717447",
+      "type": "UNDERGROUND",
+      "address": "Seidenstraße 23",
+      "max_height": 190,
+      "fee_description": "1 Std.: 3,00 €; Abend (Mo–Sa 18:00–06:00): max. 3,00 €; So/Feiertage (06:00–06:00): max. 3,00 €; 24 Std.: max. 18,00 €; Zeitkarte 1 Tag: 12,00 €; 2 Tage: 20,00 €; 3 Tage: 29,00 €; 7 Tage: 39,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 6
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/247"
+    },
+    {
+      "uid": "12717411",
+      "type": "UNDERGROUND",
+      "max_height": 200,
+      "fee_description": "1 Std.: ab 3,80 €; 24 Std.: max. 20,00 €; Verlust Ticket: 25,00 €",
+      "capacity": 190,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 19
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 6
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/schillerplatz",
+      "photo_url": "https://apcoatx.blob.core.windows.net/mdm/7fdbb882-53f9-43bb-81ab-de330046cb75"
     },
     {
       "uid": "12717226",
       "name": "Parkhaus Bohnenviertel"
     },
     {
-      "uid": "12717417",
+      "uid": "12718752",
       "type": "UNDERGROUND",
-      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/schwabenzentrum/"
+      "address": "Kronprinzstraße 26",
+      "max_height": 200,
+      "fee_description": "30 Min.: ab 2,50 €; 1 Std.: ab 4,00 €; ab 3. Std.: 4,00 €; 24 Std.: max. 25,00 €",
+      "capacity": 561,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "FAMILY",
+          "capacity": 1
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-kronprinzstrasse"
     },
     {
-      "uid": "12717312",
+      "uid": "12717375",
       "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/zeppelin-carre"
+      "max_height": 200,
+      "fee_description": "30 Min.: ab 2,50 €; 1 Std.: ab 4,00 €; ab 3. Std.: 4,00 €; 24 Std.: max. 25,00 €",
+      "capacity": 561,
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 80
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-kronprinzstrasse"
     },
     {
-      "uid": "12717411",
+      "uid": "12717250",
+      "address": "Schellingstraße 25 B",
+      "max_height": 180,
+      "fee_description": "1 Std.: 3,50 €; 24 Std.: max. 20,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 33
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 7
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 10
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/233"
+    },
+    {
+      "uid": "79151538",
       "type": "UNDERGROUND",
-      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/schillerplatz"
+      "address": "Thouretstraße 8",
+      "max_height": 205,
+      "fee_description": "1 Std.: 4,00 €; 24 Std.: max. 20,00 €",
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/buelow-carre/"
+    },
+    {
+      "uid": "12717253",
+      "public_url": "https://www.q-park.de/de-de/staedte/stuttgart/poi/k%C3%B6nigsstra%C3%9Fe/"
+    },
+    {
+      "uid": "79151509",
+      "type": "UNDERGROUND",
+      "address": "Stauffenbergstrasse 5-1",
+      "max_height": 210,
+      "fee_description": "Monat: ab 210,00 €",
+      "capacity": 90,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 7
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/parken-im-abo/standorte/stuttgart/am-schlossplatz"
     },
     {
       "uid": "79151746",
       "type": "UNDERGROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*476%2070174%20Stuttgart%20Parkgarage%20Kriegsberg&anchor=results"
+      "address": "Kriegsbergstr. 32",
+      "max_height": 204,
+      "fee_description": "1 Std.: 2,80 €; 24 Std.: max. 16,00 €",
+      "capacity": 255,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/476"
+    },
+    {
+      "uid": "12717429",
+      "type": "UNDERGROUND",
+      "address": "Konrad-Adenauer-Straße 32",
+      "max_height": 195,
+      "fee_description": "1 Std.: 3,00 €; Abend (Mo–Sa 18:00–06:00): max. 8,00 €; So/Feiertage (06:00–06:00): max. 8,00 €; 24 Std.: max. 20,00 €",
+      "capacity": 123,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 6
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 4
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/245"
     },
     {
       "uid": "79151627",
       "type": "OFF_STREET_PARKING_GROUND",
-      "public_url": "https://www.pbw.de/?menu=parkplatz-finder&profile=kurz-dauer&search=*277%2070174%20Stuttgart%20Parkplatz%20Haus%20der%20Wirtschaft&anchor=results"
+      "address": "Theodor-Heuss-Straße 4",
+      "max_height": 400,
+      "fee_description": "1 Std.: 3,70 €; Abend (Mo–Sa 18:00–06:00): max. 8,00 €; So/Feiertage (06:00–06:00): max. 8,00 €; 24 Std.: max. 20,00 €",
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/277"
+    },
+    {
+      "uid": "12717315",
+      "address": "Lazarettstraße 5",
+      "max_height": 200,
+      "fee_description": "1 Std.: ab 3,80 €; 24 Std.: max. 38,00 €",
+      "capacity": 597,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "FAMILY",
+          "capacity": 1
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 11
+        }
+        ,
+        {
+          "type": "CHARGING",
+          "capacity": 63
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.ps-huefner.de/standort.php?ort=Stuttgart&id=175"
+    },
+    {
+      "uid": "12717312",
+      "type": "UNDERGROUND",
+      "address": "Kronenstraße 20",
+      "max_height": 200,
+      "fee_description": "1 Std.: ab 3,90 €; Abend (20:30–06:00): max. 8,00 €; 24 Std.: max. 20,00 €; Verlust Ticket: 25,00 €",
+      "capacity": 365,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 15
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 5
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/71713486"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08111:6118"
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6118/9b7424bf-7639-4264-9ad6-03b1ebec9882.jpg",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/zeppelin-carre"
+    },
+    {
+      "uid": "79151717",
+      "type": "UNDERGROUND",
+      "address": "Zusestraße 30",
+      "max_height": 190,
+      "description": "Parkpreis incl. 24h incl. Fahrschein für Zone 1 VVS 11,40€, nur Parken 2€ für 24h, Ticket für nur Parken ist nur mit Polygo-Karte mit gebuchter Zone 1 VVS erhältlich",
+      "fee_description": "Kombiticket (Parken+VVS): 1 Pers. 24 Std.: 9,00 €; 2–5 Pers. 24 Std.: 12,50 €; Zeitkarte polygoCard: 1 Tag: 2,20 €; 30 Tage: 31,00 €",
+      "capacity": 514,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 13
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 8
+        }
+      ],
+      "park_and_ride_type": [
+        "TRAM"
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/9243212"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08111:6027:1:1"
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/323",
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08111:6027/f49bc4c0-c717-4059-8260-b477052bddf6.jpg"
+    },
+    {
+      "uid": "12717366",
+      "type": "UNDERGROUND",
+      "max_height": 210,
+      "fee_description": "1 Std.: 3,30 €; 24 Std.: max. 21,00 €; Veranstaltung: max. 9,00 €; Verlust Ticket: 25,00 €",
+      "capacity": 195,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 16
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 3
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/holzgartenstrasse",
+      "photo_url": "https://apcoatx.blob.core.windows.net/mdm/9c79a7b1-4b2e-4fee-b7d6-e4510b107e52"
+    },
+    {
+      "uid": "12718779",
+      "type": "OFF_STREET_PARKING_GROUND",
+      "address": "Rotebühlplatz 30",
+      "max_height": 500,
+      "fee_description": "30 Min.: 1,80 €; 60 Min.: 3,60 €; weitere Std.: 3,20 €; 24 Std.: max. 20,00 €",
+      "capacity": 243,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 8
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": false,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/284"
+    },
+    {
+      "uid": "12717372",
+      "type": "UNDERGROUND",
+      "address": "Bolzstraße 5",
+      "max_height": 200,
+      "fee_description": "1 Std.: ab 3,00 €; weitere Std.: 3,80 €; 24 Std.: max. 20,00 €; Nacht (20:00–06:00): max. 7,00 €; Verlust Ticket: 25,00 €",
+      "capacity": 412,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 11
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 63
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/koenigsbau-passagen"
+    },
+    {
+      "uid": "79151390",
+      "type": "UNDERGROUND",
+      "address": "Konrad-Adenauer-Straße 10",
+      "max_height": 200,
+      "fee_description": "30 Min.: 1,60 €; 60 Min.: 3,20 €; weitere Std.: 3,20 €; Abend (Mo–Sa 18:00–06:00): max. 8,00 €; So/Feiertage: max. 8,00 €; 24 Std.: max. 20,00 €",
+      "capacity": 266,
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/244"
+    },
+    {
+      "uid": "79151598",
+      "type": "OFF_STREET_PARKING_GROUND",
+      "max_height": 500,
+      "fee_description": "30 Min.: 1,70 €; 60 Min.: 3,40 €; weitere Std.: 3,50 €; Abend (Mo–Sa 18:00–06:00): max. 8,00 €; So/Feiertage: max. 8,00 €; 24 Std.: max. 20,00 €",
+      "capacity": 177,
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 12
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": false,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/266"
+    },
+    {
+      "uid": "12717256",
+      "type": "UNDERGROUND",
+      "address": "Schlossstrasse 49",
+      "max_height": 200,
+      "fee_description": "1 Std.: 2,70 €; 24 Std.: max. 18,00 €; Veranstaltung (18:00–06:00): max. 7,00 €; Verlust Ticket: 25,00 €",
+      "capacity": 295,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 22
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 11
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/schlossstrasse",
+      "photo_url": "https://apcoatx.blob.core.windows.net/mdm/d62a3535-b060-44c0-b8ca-0de72ebdfb03"
+    },
+    {
+      "uid": "12717262",
+      "type": "UNDERGROUND",
+      "max_height": 200,
+      "fee_description": "1 Std.: ab 3,80 €; Abend (19:00–06:00): max. 8,00 €; 24 Std.: max. 10,00 €; Verlust Ticket: 25,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 9
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/city-garage",
+      "photo_url": "https://apcoatx.blob.core.windows.net/mdm/4d9c4518-3527-46b8-9fba-67b001c3a23d"
+    },
+    {
+      "uid": "79151656",
+      "type": "UNDERGROUND",
+      "address": "Holzstraße 21",
+      "opening_hours": "Mo-Sa 06:00-01:00; Su,PH 10:00-01:00",
+      "max_height": 200,
+      "fee_description": "30 Min.: 2,00 €; Abend (21:00–06:00): pauschal 7,00 €; 24 Std.: max. 29,00 €; Verlust Ticket: 29,00 €",
+      "capacity": 250,
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 9
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.dorotheen-quartier.de/anfahrt-parken"
+    },
+    {
+      "uid": "12717426",
+      "type": "UNDERGROUND",
+      "address": "Sophienstraße 40",
+      "max_height": 200,
+      "fee_description": "1 Std.: ab 3,20 €; Abend (19:00–06:00): max. 8,00 €; 24 Std.: max. 20,00 €; Verlust Ticket: 25,00 €",
+      "capacity": 281,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/sophienstrasse",
+      "photo_url": "https://apcoatx.blob.core.windows.net/mdm/3aafc09d-b8ea-40ca-b18a-b2b5ca64a115"
+    },
+    {
+      "uid": "79151353",
+      "type": "UNDERGROUND",
+      "address": "Königstraße 27",
+      "max_height": 180,
+      "fee_description": "1 Std.: ab 3,70 €; 24 Std.: max. 13,00 €; Verlust Ticket: 25,00 €",
+      "capacity": 180,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 15
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/neue-bruecke-/-koenigstrasse",
+      "photo_url": "https://apcoatx.blob.core.windows.net/mdm/f71ec5c6-093c-478b-9107-cfadf0fe59a4"
+    },
+    {
+      "uid": "79151480",
+      "public_url": "https://www.marquardt-garage.de/",
+      "max_height": 200,
+      "fee_description": "1 Std.: 2,40 €; weitere Std.: 2,90 €; Abend (19:00–Schließung): max. 5,00 €; 24 Std.: max. 20,00 €; Verlust Parkschein: 25,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 6
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true
+    },
+    {
+      "uid": "12717450",
+      "type": "UNDERGROUND",
+      "address": "Christophstraße 7",
+      "max_height": 200,
+      "fee_description": "1 Std.: 3,80 €; 24 Std.: max. 25,00 €",
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.stuttgarter-heimschutz.de/standorte/tuebinger-carre/"
+    },
+    {
+      "uid": "12718764",
+      "description": "24h parken für Hotelgäste im bereich A und B Hellblau",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 31
+        },
+        {
+          "type": "WOMEN",
+          "capacity": 65
+        }
+      ],
+      "public_url": "https://www.ps-huefner.de/standort.php?ort=Stuttgart&id=153"
+    },
+    {
+      "uid": "12717363",
+      "type": "UNDERGROUND",
+      "max_height": 200,
+      "fee_description": "1 Std.: 3,30 €; 24 Std.: max. 21,00 €; Veranstaltung (18:00–06:00): max. 9,00 €; So: max. 9,00 €; Verlust Ticket: 25,00 €",
+      "capacity": 632,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 10
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 37
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 8
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/stuttgart/liederhalle-bosch-areal",
+      "photo_url": "https://apcoatx.blob.core.windows.net/mdm/de4a949c-7cbb-4cf4-b6fb-adc7851460e9"
+    },
+    {
+      "uid": "12717345",
+      "type": "UNDERGROUND",
+      "address": "Huberstraße 2",
+      "max_height": 210,
+      "fee_description": "1 Std.: 3,50 €; Abend (Mo–Sa 18:00–06:00): 7,00 €; So/Feiertage: max. 5,00 €; 24 Std.: max. 19,00 €",
+      "capacity": 176,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 2
+        }
+      ],
+      "has_lighting": true,
+      "is_covered": true,
+      "has_fee": true,
+      "public_url": "https://www.pbw.de/parken/detail/288"
     },
     {
       "uid": "12717408",
       "public_url": "https://www.ps-huefner.de/standort.php?ort=Stuttgart&id=130"
-    },
-    {
-      "uid": "12718752",
-      "type": "UNDERGROUND",
-      "public_url": "https://www.bb-parkhaus.de/staedte/stuttgart/tiefgarage-kronprinzstrasse"
     }
   ]
 }

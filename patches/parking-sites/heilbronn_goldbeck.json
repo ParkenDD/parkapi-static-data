@@ -1,0 +1,75 @@
+{
+  "items": [
+    {
+      "uid": "2068",
+      "type": "OFF_STREET_PARKING_GROUND",
+      "capacity": 637,
+      "opening_hours": "24/7",
+      "fee_description": "Standardtarif: Bis 20 Minuten kostenlos; Bis 1 Stunde 1,40 €; Jede weitere Stunde 1,40 €; Tageshöchstsatz 8,00 €; Wochenhöchstsatz 28,00 €; Verlorener Parkschein 8,00 €; 7-Tages Ticket (Besucherticket Vorverkauf) 41,00 €",
+      "is_covered": false,
+      "public_url": "https://www.goldbeck-parking.de/parkplatzsuche#/p/7210/Klinik%20Plattenwald"
+    },
+    {
+      "uid": "2076",
+      "type": "OFF_STREET_PARKING_GROUND",
+      "opening_hours": "24/7",
+      "fee_description": "1 Std.: 3,00 €; 24 Std.: max. 16,00 €",
+      "is_covered": false,
+      "max_height": 200,
+      "public_url": "https://www.goldbeck-parking.de/parkplatzsuche#/p/7225/Parkplatz%20Lohtorstra%C3%9Fe"
+    },
+    {
+      "uid": "2409",
+      "capacity": 429,
+      "opening_hours": "24/7",
+      "fee_description": "1 Std.: 2,50 €; 24 Std.: max. 16,00 €; Business-Ticket (5 Tage): 25,00 €",
+      "max_height": 200,
+      "public_url": "https://www.goldbeck-parking.de/parkplatzsuche#/p/7269/Parkhaus%20Wohlgelegen"
+    },
+    {
+      "uid": "2141",
+      "capacity": 304,
+      "opening_hours": "24/7",
+      "fee_description": "Standardtarif: pro Stunde 2,00 €; Tageshöchstsatz 12,00 €; Abendpauschale (18:00 - 06:00 Uhr) 4,00 €; Badegäste Soleo für die Dauer des Badebesuches + 2 Stunden Parken im Anschluss 2,00 €; Verlorener Parkschein 25,00 €; Dauerstellplatz: Dauerstellplatz pro Monat 115,00€; Job-Tarif Werktags (Mo.-Fr.): 06:00 - 17:00 Uhr 80,00€",
+      "max_height": 200,
+      "public_url": "https://www.goldbeck-parking.de/parkplatzsuche#/p/7259/Cityparkhaus%20am%20Bollwerksturm"
+    },
+    {
+      "uid": "2483",
+      "address": "Paula-Fuchs-Allee 12, 74076 Heilbronn",
+      "opening_hours": "24/7",
+      "fee_description": "1 Std.: 2,50 €; 24 Std.: max. 16,00 €",
+      "public_url": "https://www.goldbeck-parking.de/parkplatzsuche#/p/7292/Quartiersgarage%20Neckarbogen"
+    },
+    {
+      "uid": "2607",
+      "opening_hours": "Mo-Fr 00:00-24:00; Sa off; Su off; PH off",
+      "has_fee": true,
+      "fee_description": "bis 20 Min.: kostenfrei; 1 Std.: 1,50 €; weitere Std.: 1,50 €; 24 Std.: max. 9,00 €; Woche: max. 33,50 €; 7-Tage-Ticket: 50,00 €",
+      "public_url": "https://www.goldbeck-parking.de/parkplatzsuche#/p/7211/Klinik%20am%20Gesundbrunnen"
+    },
+    {
+      "uid": "2608",
+      "lat": "49.15506",
+      "lon": "9.191471",
+      "opening_hours": "Mo-Fr 00:00-24:00; Sa off; Su off; PH off",
+      "has_fee": true,
+      "fee_description": "bis 20 Min.: kostenfrei; 1 Std.: 1,50 €; weitere Std.: 1,50 €; 24 Std.: max. 9,00 €; Woche: max. 33,50 €; 7-Tage-Ticket: 50,00 €",
+      "public_url": "https://www.goldbeck-parking.de/parkplatzsuche#/p/7211/Klinik%20am%20Gesundbrunnen"
+    },
+    {
+      "uid": "2609",
+      "opening_hours": "Mo-Fr 00:00-24:00; Sa off; Su off; PH off",
+      "has_fee": true,
+      "fee_description": "bis 20 Min.: kostenfrei; 1 Std.: 1,50 €; weitere Std.: 1,50 €; 24 Std.: max. 9,00 €; Woche: max. 33,50 €; 7-Tage-Ticket: 50,00 €",
+      "public_url": "https://www.goldbeck-parking.de/parkplatzsuche#/p/7211/Klinik%20am%20Gesundbrunnen"
+    },
+    {
+      "uid": "2610",
+      "opening_hours": "Mo-Fr 00:00-24:00; Sa off; Su off; PH off",
+      "has_fee": true,
+      "fee_description": "bis 20 Min.: kostenfrei; 1 Std.: 1,50 €; weitere Std.: 1,50 €; 24 Std.: max. 9,00 €; Woche: max. 33,50 €; 7-Tage-Ticket: 50,00 €",
+      "public_url": "https://www.goldbeck-parking.de/parkplatzsuche#/p/7211/Klinik%20am%20Gesundbrunnen"
+    }
+  ]
+}

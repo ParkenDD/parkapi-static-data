@@ -1,0 +1,334 @@
+{
+  "items": [
+    {
+      "uid": "Hauptbahnhof_P1",
+      "address": "Willy-Brandt-Platz 5, 68161 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 190,
+      "capacity": 327,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/3031899778"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08222:2417"
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/hauptbahnhof-p1/",
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08222:2417/6b03064c-6bcd-4ea9-aa29-434159baab18.jpg"
+    },
+    {
+      "uid": "Hauptbahnhof_P2",
+      "address": "Heinrich-von-Stephan-Str. 6, 68161 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 200,
+      "capacity": 326,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 4
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1425821234"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08222:2417"
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/hauptbahnhof-p2-parkhaus-busbahnhof-zob/",
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08222:2417/15689974-9091-465d-b117-163a10abf8d8.jpg"
+    },
+    {
+      "uid": "N6_Standardhaus",
+      "address": "N6,3 68161 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 195,
+      "capacity": 298,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 12
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 3
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/n6-standard-parkhaus/"
+    },
+    {
+      "uid": "H6",
+      "address": "H6 (Swanseaplatz), 68159 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 190,
+      "capacity": 248,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 16
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/h6/"
+    },
+    {
+      "uid": "Parkhotel",
+      "address": "Friedrichsplatz 2, 68165 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 190,
+      "capacity": 167,
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/tiefgarage-parkhotel/"
+    },
+    {
+      "uid": "N6_Komforthaus",
+      "address": "N6,3 68161 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 190,
+      "capacity": 201,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 53
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://parken-mannheim.de/parking/n6-komfort-parkhaus/"
+    },
+    {
+      "uid": "PH22",
+      "address": "N2,14 68161 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 180,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 22
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/n1-n2-stadthaus-parkhaus/"
+    },
+    {
+      "uid": "Cineplex",
+      "address": "N7, 17 68161 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 190,
+      "capacity": 152,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 4
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/n7-cinemaxx/"
+    },
+    {
+      "uid": "D5_Reiß-Museum",
+      "opening_hours": "24/7",
+      "max_height": 200,
+      "capacity": 365,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 54
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/d5-reiss-engelhorn-museen/"
+    },
+    {
+      "uid": "M4a",
+      "opening_hours": "24/7",
+      "max_height": 300,
+      "capacity": 66,
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/m4a-parkplatz/"
+    },
+    {
+      "uid": "Marktplatz_G1",
+      "opening_hours": "24/7",
+      "max_height": 200,
+      "capacity": 337,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 13
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/g1-marktplatz/"
+    },
+    {
+      "uid": "Hauptbahnhof_P4",
+      "address": "Kepler-Str. 21-25, 68165 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 300,
+      "capacity": 42,
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/hauptbahnhof-p4-parkhaus/"
+    },
+    {
+      "uid": "U2",
+      "address": "U2 (Herschelplatz), 68161 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 200,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 15
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/u2-tiefgarage/"
+    },
+    {
+      "uid": "D3",
+      "address": "D3, 5, 68159 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 200,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/d3/"
+    },
+    {
+      "uid": "Hauptbahnhof_P3",
+      "address": "Kepler-Str. 21-25, 68165 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 200,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/hauptbahnhof-p3/"
+    },
+    {
+      "uid": "Hauptbahnhof_P5",
+      "address": "Glücksteinallee 9, 68163 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 200,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 62
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 6
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/hauptbahnhof-p5/"
+    },
+    {
+      "uid": "Kunsthalle",
+      "address": "Friedrichsplatz 5a, 68161 Mannheim",
+      "opening_hours": "24/7",
+      "max_height": 190,
+      "capacity": 406,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 50
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 5
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/kunsthalle-tiefgarage/"
+    },
+    {
+      "uid": "PH20",
+      "max_height": 400,
+      "description": "Öffnungszeiten: Nur bei Veranstaltungen",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://parken-mannheim.de/parking/messe-grossparkplatz-p20/"
+    }
+  ]
+}

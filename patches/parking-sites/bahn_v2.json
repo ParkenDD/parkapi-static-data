@@ -1,0 +1,261 @@
+{
+  "items": [
+    {
+      "uid": "100290-parking",
+      "opening_hours": "24/7",
+      "fee_description": "30 Min.: 1,50 €; 1 Std.: 3,00 €; 1 Tag: 25,00 €",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/12050805632"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08421:1008"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08421:1008/eadea581-b926-427c-aaa5-1c85a6a5fca2.jpg"
+    },
+    {
+      "uid": "100160-parking",
+      "description": "mit Parkschein, inkl. 40 Fahrradstellplätze",
+      "opening_hours": "24/7",
+      "max_width": 500,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        }
+      ],
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/32550266"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1256389406"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08212:90"
+        }
+      ],
+      "has_fee": true,
+      "fee_description": "30 Min.: 1,50 €; 1 Std.: 3,00 €; 1 Tag: 16,00 €; 1 Woche: 80,00 €",
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08212:90/0fafd5bb-f286-4f41-ad45-9c24e4fe3529.jpg"
+    },
+    {
+      "uid": "100031-parking",
+      "fee_description": "1 Std.: 1,00 €; 1 Tag: 3,50 €; 1 Woche: 17,50 €; Monat Dauerparken: 45,00 €",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 4
+        },
+        {
+          "type": "CARSHARING",
+          "capacity": 10
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/159154379"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:1400"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1400/5d141fdf-a9ec-4d06-a9c3-45bf218df839.jpg"
+    },
+    {
+      "uid": "100132-parking",
+      "address": "Lessingstraße, 69115 Heidelberg",
+      "max_width": 300,
+      "lat": "49.402186",
+      "lon": "8.678953",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/111114205"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08221:1160"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08221:1160/4e4a697a-fe86-4934-923f-59bffcfc97d8.jpg"
+    },
+    {
+      "uid": "103132-parking",
+      "address": "Bahnhofsplatz, 69412 Eberbach",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/118297742"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08226:534"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08226:534/7aa691d7-741c-46fa-b8b7-6fa167bc5acc.jpg"
+    },
+    {
+      "uid": "100052-parking",
+      "max_width": 450,
+      "description": "mit Parkschein",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        },
+        {
+          "type": "CARSHARING",
+          "capacity": 1
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/195218691"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/195218682"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/195218686"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/195218689"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1413252365"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08127:21001"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08127:21001/e5824362-afd2-4e51-9346-eb448a6cc4e5.jpg"
+    },
+    {
+      "uid": "100162-parking",
+      "max_width": 500,
+      "description": "Nur mit Parkschein",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/90051807"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08212:90"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08212:90/f5e9f992-8599-4650-9b4b-968661a4c2dc.jpg"
+    },
+    {
+      "uid": "100164-parking",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/409051606"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08212:801"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08212:801/dbe26f6e-e63d-4079-a76f-3546a8591cf1.jpg"
+    },
+    {
+      "uid": "103001-parking",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 4
+        }
+      ],
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1412972426"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/86845552"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/905470121"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:7503"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:7503/1779e28c-4f3b-41d1-8625-f735d2ede225.jpg"
+     },
+    {
+      "uid": "102999-parking",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/22929945"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1421556401"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7701"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7701/8fcb2ae4-bf0d-496a-81c3-ff7e1499760f.jpg"
+    },
+    {
+      "uid": "100104-parking",
+      "max_width": 600,
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/38608680"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08117:161"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08117:161/19eb445c-ca86-41e8-9286-c85a239df45a.jpg"
+    }
+  ]
+}

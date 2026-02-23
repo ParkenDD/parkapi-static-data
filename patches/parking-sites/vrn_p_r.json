@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "uid": "2-2-2-153768-678",
+      "fee_description": "Customers Only: Kostenlos",
+      "lat": "49.341851",
+      "lon": "8.668504",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/184905496"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08226:1892"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08226:1892/6ae3135b-f9a5-47ed-9f33-1ff742b19469.jpg"
+    },
+    {
+      "uid": "2-2-2-178654-679",
+      "address": "Bahnhofstraße 62, 69181 Leimen",
+      "description": "nur mit Parkschein",
+      "fee_description": "Customers Only: Kostenlos",
+      "lat": "49.341874",
+      "lon": "8.669424",
+      "capacity": 56,
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/184046496"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08226:1892"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08226:1892/bc5d6982-16f2-4124-a087-413a4cf6d3c0.jpg"
+    },
+    {
+      "uid": "2-2-2-182421-721",
+      "address": "Eisenbahnstraße 2, 68766 Hockenheim",
+      "fee_description": "Kostenlos",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/36712562"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08226:1620"
+        }
+      ],
+      "has_fee": false,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08226:1620/df30a005-12f2-4326-8835-6d0d1a641497.jpg"
+    },
+    {
+      "uid": "2-2-2-153768-664",
+      "description": "mit PARKSCHEIN",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/561107574"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08226:1892"
+        }
+      ]
+    }
+  ]
+}

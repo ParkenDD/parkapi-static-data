@@ -1,0 +1,808 @@
+{
+  "items": [
+    {
+      "uid": "1337",
+      "fee_description": "1 Std.: 0,50 €; 1 Tag: 3,00 €",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/13014923587"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:1400"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1400/6ade376b-8c10-46cc-8476-d3c3221d4e05.jpg"
+    },
+    {
+      "uid": "1337",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/13014923587"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:1400"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1400/6ade376b-8c10-46cc-8476-d3c3221d4e05.jpg"
+    },
+    {
+      "uid": "1230",
+      "description": "nur ÖPNV",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/24885022"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/704339648"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:5879"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5879/4c75b88b-4106-4aee-ab46-440890ad50a6.jpg"
+    },
+    {
+      "uid": "1302",
+      "fee_description": "1 Tag: 1,00 €; 3 Tage: 2,00 €; 1 Woche: 6,00 €; 1 Monat: 15,00 €",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/197447158"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:1500"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1500/43a9ea37-2bf6-40b6-a4aa-68caf35d9211.jpg"
+    },
+    {
+      "uid": "1072",
+      "address": "Kalkofenstraße 49, 71083 Herrenberg",
+      "description": "nur mit Parkschein - 10 Gehminuten bis zum Marktplatz - Ab dem 04.02.2026 wird Ebene für Ebene geöffnet.",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/360990675"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08115:4512"
+        }
+      ],
+      "public_url": "https://www.herrenberg.de/de/Stadtleben/Erlebnis-Herrenberg/Service/Parkplaetze/Parkplatz?view=publish&item=parkingLocation&id=1024",
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08115:4512/fa2de89f-b063-4ae5-900b-f11389044a7c.jpg"
+    },
+    {
+      "uid": "1214",
+      "address": "Eisenbahnstraße 45, 73207 Plochingen",
+      "description": "nur mit Parkschein",
+      "fee_description": "1 Std.: 1,50 €; 1 Tag: 6,00 €; 1 Woche: 24,00 €; 1 Monat: 47,00 €",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 3
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 12
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/116522243"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08116:7802"
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://www.dbbahnpark.de/standorte/karte?space=Parkhaus+Bahnhof+Plochingen&id=100242&lat=48.713849&lng=9.411712",
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08116:7802/27489ac0-09e0-4c46-8009-5d66b2ac58f7.jpg"
+    },
+    {
+      "uid": "6010",
+      "address": "Bahnhofstraße 43, 70806 Kornwestheim",
+      "fee_description": "Tag 08:00–19:00: 1 Std. frei, weitere Std. 1,00 €, max. 6,00 €; Nacht: 1 Std. 0,50 €, max. 1,00 €; So/Feiertage: 1 Std. 0,50 €",
+      "capacity": 165,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/95397099"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:1402"
+        }
+      ],
+      "is_covered": true,
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1402/755ad740-00d5-4415-9288-4c115907800d.jpg"
+    },
+    {
+      "uid": "2039",
+      "type": "OFF_STREET_PARKING_GROUND",
+      "opening_hours": "Mo-Fr 06:00-16:00",
+      "description": "nur mit Parkkarte der DB",
+      "capacity": 50,
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/235170044"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7605"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7605/db5f0bdd-21dc-4230-9d39-5d9f25621e52.jpg"
+    },
+    {
+      "uid": "1093",
+      "address": "Parkplatz, Karl-Krämer-Straße 10, 71364 Winnenden",
+      "description": "nur mit DB Parkkarte",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/83015637"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7605"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7605/2f682c65-c2c8-4690-a9ce-5c352b214898.jpg"
+    },
+    {
+      "uid": "11603",
+      "type": "OFF_STREET_PARKING_GROUND",
+      "description": "mit Parkscheibe 30min, 2 davon für Elektroautos 3h, rechts davon Carsharing (nicht gezählt)",
+      "fee_description": "1 Std.: 1,00 €; weitere Std.: 0,50 €; Tagesticket: 5,00 €",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 8
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        },
+        {
+          "type": "CARSHARING",
+          "capacity": 2
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "DHID",
+          "value": "de:08118:1400"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/464909144"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/13014988071"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/13015003622"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1400/8dbc75a8-8551-46c6-8301-0d84fba3f6a0.jpg"
+    },
+    {
+      "uid": "1007",
+      "opening_hours": "Mo-Fr 06:00-16:00",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/4305758"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7600"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7600/d6c0ad45-c29b-4a37-8e85-cf520f8394b3.jpg"
+    },
+    {
+      "uid": "1232",
+      "address": "Neue Bahnhofstraße, 71665 Vaihingen an der Enz",
+      "description": "nur ÖPNV Nutzer",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/24866280"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:5879"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5879/1b480763-8301-48c1-a8e8-79d8078ea15f.jpg"
+    },
+    {
+      "uid": "1229",
+      "description": "26 Parkplätze nur Mitarbeiter",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1254619815"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/318497728"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:5879"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5879/e868908e-f2ce-4fc8-ba9c-4dccb6420f69.jpg"
+    },
+    {
+      "uid": "1332",
+      "address": "Oberriexinger Str. 2, 74372 Sersheim",
+      "description": "P+R",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/13008531344"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:5782"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5782/b8b7b99f-1413-4b8d-ad52-c754817dabb5.jpg"
+    },
+    {
+      "uid": "1296",
+      "address": "Bahnhofstraße, 71691 Freiberg am Neckar",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/135410563"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1423407343"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:1503"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1503/a885796b-47c9-467b-8786-8755c727ce3e.jpg"
+    },
+    {
+      "uid": "1299",
+      "address": "Harteneckstraße, 71691 Freiberg am Neckar",
+      "opening_hours": "Mo-Fr 06:00-16:00",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/223742125"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:1503"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1503/90ec7f95-c52b-4925-92a0-eb73c71fc1c1.jpg"
+    },
+    {
+      "uid": "1300",
+      "address": "Harteneckstraße 14, 71691 Freiberg am Neckar",
+      "opening_hours": "Mo-Fr 06:00-16:00",
+      "description": "Anwohner frei",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/223742120"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1423407344"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:1503"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1503/4aad632c-4a92-4dc8-85ac-0ecff4dc13a9.jpg"
+    },
+    {
+      "uid": "1307",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/833505526"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1412972427"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:7503"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:7503/4d529053-4f9b-45fe-9ccd-facc31b25117.jpg"
+    },
+    {
+      "uid": "1311",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1415669772"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:3514"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:3514/445a835d-a9d5-4507-8e17-82fc61d7263d.jpg"
+    },
+    {
+      "uid": "1452",
+      "description": "P+R nur PKW",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/507385006"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7502"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7502/fd5c1279-d914-470a-916e-67bc73f230f9.jpg"
+    },
+    {
+      "uid": "1104",
+      "address": "Maubach 21, 71522 Backnang",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/149147504"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7601"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7601/0964025f-1074-43d6-a828-f68607b6f08a.jpg"
+    },
+    {
+      "uid": "1107",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/975314288"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/975314290"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1414689007"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7601"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7601/e8ab6d88-8e83-4122-8da9-e48a70dffc47.jpg"
+    },
+    {
+      "uid": "1452",
+      "description": "P+R nur PKW",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/507385006"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7502"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7502/fd5c1279-d914-470a-916e-67bc73f230f9.jpg"
+    },
+    {
+      "uid": "1010",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/942308183"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7600"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7600/e2bb61e7-cd8e-417f-9064-393375708e14.jpg"
+    },
+    {
+      "uid": "1099",
+      "address": "Hans-Paul-Kaysser-Straße 1, 71397 Leutenbach",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1254289764"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1601"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1601/b94a2a64-1ada-4954-aa57-de55659bc0fa.jpg"
+    },
+    {
+      "uid": "1102",
+      "lat": "48.903806",
+      "lon": "9.41538",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/149174003"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1601"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1601/6e8d1991-b872-4d30-bce5-0d634d97245d.jpg"
+    },
+    {
+      "uid": "1103",
+      "address": "Nellmersbach, 71397 Leutenbach",
+      "lat": "48.90288",
+      "lon": "9.414634",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/905474919"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1601"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1601/9e5e2a2a-7e5c-426e-bc1e-9eb81de4244e.jpg"
+    },
+    {
+      "uid": "1079",
+      "address": "Bahnhof, 71332 Waiblingen",
+      "description": "nur mit Parkschein",
+      "lat": "48.826779",
+      "lon": "9.301596",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/173130719"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7604"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7604/56268b32-3106-41da-9d90-2bc2de349291.jpg"
+    },
+    {
+      "uid": "1080",
+      "address": "Devizesstraße, 71332 Waiblingen",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1149928183"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7604"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7604/2ac4ca38-de18-4edf-89cc-68f3dba20d2c.jpg"
+    },
+    {
+      "uid": "2033",
+      "description": "mit Parkschein",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1238364610"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/604483084"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7604"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7604/ac6496a3-c819-4bcb-b629-b03e03a744e5.jpg"
+    },
+    {
+      "uid": "1117",
+      "address": "Mercedesstraße 31, 71384 Weinstadt",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/34063434"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1701"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1701/10f8a993-873c-416a-9a39-69129349bc6a.jpg"
+    },
+    {
+      "uid": "1136",
+      "address": "Badstraße, 73630 Remshalden",
+      "description": "nur für DB Reisende",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/172984969"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1702"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1702/036df036-4b0b-4d0f-8d58-5faca07731e1.jpg"
+    },
+    {
+      "uid": "1120",
+      "address": "Bahnhofstraße 27, 71384 Weinstadt",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1420009093"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1420009090"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:7704"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:7704/5d3ef5d1-c417-4938-8e51-dd741c34341b.jpg"
+    },
+    {
+      "uid": "1126",
+      "address": "Cannonstraße 3, 71384 Weinstadt",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/172912353"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1254380069"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:3711"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:3711/c8f32f03-0918-41ac-a34e-70cea9e418d6.jpg"
+    },
+    {
+      "uid": "1127",
+      "address": "Bahnhofstraße 76, 73630 Remshalden",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1415399952"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1703"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1703/00e692d4-3338-4566-a3e7-c3d81c391f05.jpg"
+    },
+    {
+      "uid": "1128",
+      "address": "Bahnhofstraße 73, 73630 Remshalden",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1415386844"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1703"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1703/5d78a0d6-928f-4e14-8c33-b28fc5c66c89.jpg"
+    },
+    {
+      "uid": "1130",
+      "address": "Bahnhofstraße 69, 73630 Remshalden",
+      "description": "für DB Reisende",
+      "restrictions": [
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/4921155"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1703"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1703/04749e0f-641b-4a0b-87f9-c6ef611c1598.jpg"
+    },
+    {
+      "uid": "1144",
+      "address": "Bahnhofstraße 19, 73614 Schorndorf",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        },
+        {
+          "type": "CARSHARING",
+          "capacity": 1
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/4892332"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1704"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1704/db3fd63e-319a-4e37-8e05-63f3f2a95450.jpg"
+    },
+    {
+      "uid": "1389",
+      "address": "Poststraße 11, 73547 Lorch",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1238546398"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08136:7005"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08136:7005/bb70b0bb-b2c5-4413-841b-492875a52640.jpg"
+    },
+    {
+      "uid": "1392",
+      "address": "73547 Lorch",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1238546394"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08136:7005"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08136:7005/85703023-1b9a-487a-b2a1-73a131639aa2.jpg"
+    },
+    {
+      "uid": "1397",
+      "address": "Ahornstraße, 73655 Plüderhausen",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/364766557"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:5761"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:5761/f07b0259-df94-4c15-b8fb-823a1351665a.jpg"
+    },
+    {
+      "uid": "1401",
+      "address": "Postweg 10, 73655 Plüderhausen",
+      "description": "nur für DB Reisende",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/364766289"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:5761"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:5761/dc68a2db-fc71-44e1-ae9b-ce0c36737c04.jpg"
+    },
+    {
+      "uid": "1407",
+      "address": "Steinbeisstraße, 73660 Urbach",
+      "description": "Mo-Fr 6-18 Uhr parken nur mit gultigem Parkausweis",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/23056557"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:5789"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:5789/c8c94ab3-c4c8-4ea8-91dc-a9085225ce1b.jpg"
+    },
+    {
+      "uid": "6007",
+      "address": "Heinkelstraße 35, 73614 Schorndorf",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        }
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/257621922"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:5804"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:5804/ee5b5cd4-7861-40ad-b10f-8228e9f13b8e.jpg"
+    }
+  ]
+}

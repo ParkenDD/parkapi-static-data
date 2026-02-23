@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "uid": "1091",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/22701914"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1602"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1602/8a60d8b4-9561-4a2f-8700-1892e6081d93.jpg"
+    },
+    {
+      "uid": "1089",
+      "address": "Bahnhofspl. 21, 71336 Waiblingen",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/22701915"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08119:1602"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08119:1602/ea51a0ef-c2d2-41b8-8940-c5054e619007.jpg"
+    }
+  ]
+}

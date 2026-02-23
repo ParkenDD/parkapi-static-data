@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "uid": "73",
+      "type": "UNDERGROUND",
+      "address": "Amalienstrasse 16, 76133 Karlsruhe",
+      "opening_hours": "24/7",
+      "max_height": 200,
+      "fee_description": "45 Min.: 2,30 €; weitere 45 Min.: 2,30 €; Abend (20:00–07:00): max. 6,00 €; 24 Std.: max. 20,00 €; Verlust Ticket: 20,00 €",
+      "capacity": 322,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 13
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 10
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/karlsruhe/postgalerie"
+    },
+    {
+      "uid": "75",
+      "type": "UNDERGROUND",
+      "opening_hours": "Mo-Su 06:00-01:00",
+      "description": "Zugang von 1 - 6 Uhr mit Parkticket am Türleser.",
+      "fee_description": "45 Min.: 2,10 €; 24 Std.: max. 18,00 €; Theatertarif (ab 18:00, max. 4 Std.): 6,00 €; Verlust Ticket: 18,00 €",
+      "capacity": 300,
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 6
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/karlsruhe/magdeburger-haus"
+    },
+    {
+      "uid": "61",
+      "type": "UNDERGROUND",
+      "opening_hours": "24/7",
+      "fee_description": "1 Std.: 2,00 €; Abend (Mo–Sa 17:00–06:00): max. 5,00 €; So/Feiertage (06:00–06:00): max. 5,00 €; 24 Std.: max. 10,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 28
+        }
+      ],
+      "public_url": "https://www.pbw.de/parken/detail/104"
+    }
+  ]
+}

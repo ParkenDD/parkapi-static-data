@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "uid": "1",
+      "address": "Marktplatz, 73479 Ellwangen",      
+      "capacity": 59,
+      "has_fee": true,
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 3
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 2
+        },
+        {
+          "type": "WOMEN",
+          "capacity": 0
+        },
+        {
+          "type": "CARSHARING",
+          "capacity": 0
+        }
+      ]
+    }
+  ]
+}

@@ -3,6 +3,8 @@
     {
       "uid": "1",
       "address": "Marktplatz, 73479 Ellwangen",      
+      "lat": 48.961564,
+      "lon": 10.13271,
       "capacity": 59,
       "has_fee": true,
       "restrictions": [

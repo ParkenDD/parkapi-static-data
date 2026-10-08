@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "uid": "2",
+      "description": "Kostenfrei fur Nutzer öffentlicher Verkehrsmittel",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/418587312"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5639/859b1adc-c4aa-4dff-8ad1-8b9421d4c1a2.jpg"
+    },
+    {
+      "uid": "3",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/4516997595"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5639/c2f3a8ef-609c-4b6e-9b44-f4d4a08d38d0.jpg"
+    },
+    {
+      "uid": "54",
+      "description": "Mo-Fr 7-18 und Sa 7-12 2h mit Parkscheibe",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1288474977"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5639/e742981a-682f-4498-a720-c1a82bb5c3ff.jpg"
+    },
+    {
+      "uid": "57",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/451699758"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5639/0ea711db-0745-48a7-924f-9bf7cb9dca85.jpg"
+    },
+    {
+      "uid": "15",
+      "description": "30min mit Parkscheibe",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1288474979"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5639/c4972c6f-fe36-4258-9b80-94014eb745a5.jpg"
+    },
+    {
+      "uid": "46",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/425361049"
+        }
+      ],
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:5639/d5ecb220-5782-46ef-aafe-c47b3c418acc.jpg"
+    }
+  ]
+}

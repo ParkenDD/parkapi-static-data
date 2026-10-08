@@ -1,0 +1,74 @@
+{
+  "items": [
+    {
+      "uid": "31",
+      "address": "Universitätsstraße 10, 78464 Konstanz",
+      "fee_description": "Tagesticket: 1,50 €; Tageskarte (Ein-/Ausfahrt frei): 2,00 €; Dauerparken/Monat: 35,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "FAMILY",
+          "capacity": 1
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 1
+        },
+        {
+          "type": "CHARGING",
+          "capacity": 1
+        }
+      ]
+    },
+    {
+      "uid": "30",
+      "address": "Universitätsstraße / Eggerhaldestraße\n78464 Konstanz",
+      "max_height": 500,
+      "fee_description": "Tagesticket: 1,50 €; Tageskarte (Ein-/Ausfahrt frei): 2,00 €"
+    },
+    {
+      "uid": "5",
+      "description": "Aufzug vorhanden",
+      "fee_description": "1 Std.: 3,00 €; 24 Std.: max. 30,00 €; Verlust Ticket: 30,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 9
+        },
+        {
+          "type": "FAMILY",
+          "capacity": 1
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        }
+      ],
+      "is_covered": true
+    },
+    {
+      "uid": "1",
+      "opening_hours": "Mo-Sa 07:00-01:30; Su 08:00-01:30",
+      "description": "Aufzug - Vor-Ort-Service - Ausfahrt 24 Stunden möglich ",
+      "fee_description": "30 Min.: 1,00 €; ab 3. Std.: 2,00 €; 24 Std.: max. 24,00 €; Verlust Ticket: 24,00 €",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 1
+        },
+        {
+          "type": "FAMILY",
+          "capacity": 1
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 6
+        }
+      ],
+      "is_covered": true
+    }
+  ]
+}

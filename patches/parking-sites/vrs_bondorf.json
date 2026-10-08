@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "uid": "1035",
+      "address": "Bahnhofstraße 36, 71149 Bondorf",
+      "description": "nur für Umstieg zu öffentlichen Verkehrsmitteln",
+      "park_and_ride_type": [
+        "TRAIN"
+      ],
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1386128520"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08115:4510"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08115:4510/1c287b14-c41b-4e18-ad04-5a99e2b425c8.jpg"
+    }
+  ]
+}

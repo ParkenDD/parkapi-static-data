@@ -1,0 +1,26 @@
+{
+  "items": [
+    {
+      "uid": "23",
+      "address": "Bahnhofstraße 7, 73479 Ellwangen (Jagst)",
+      "opening_hours": "24/7",
+      "capacity": 58,
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1385141415"
+        },
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/1385141416"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08136:2007"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08136:2007/54b59e7a-25b6-49c1-a6ed-ac8cb93a9556.jpg"
+    }
+  ]
+}

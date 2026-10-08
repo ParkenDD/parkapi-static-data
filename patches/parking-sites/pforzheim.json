@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "uid": "13",
+      "type": "UNDERGROUND",
+      "address": "Theaterstraße 10, 75175 Pforzheim",
+      "opening_hours": "Mo-Su 07:00-22:00",
+      "max_height": 200,
+      "description": "Videoüberwachung - Barrierefreie Zugänge",
+      "fee_description": "Tag (06:00–19:00): 30 Min.: 0,90 €; 1 Std.: 1,80 €; weitere Std.: 1,80 €; So/Feiertage: max. 3,00 €; Nacht (19:00–06:00): max. 1,50 €; 24 Std.: max. 10,00 €",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 2
+        }
+      ],
+      "has_lighting": true,
+      "has_fee": true,
+      "public_url": "https://www.ps-huefner.de/standort.php?ort=Pforzheim&id=74"
+    },
+    {
+      "uid": "8",
+      "address": "Lindenstraße 1, 75175 Pforzheim",
+      "max_height": 210,
+      "description": "Videoüberwachung",
+      "fee_description": "Tag (06:00–19:00): 30 Min.: 0,90 €; 1 Std.: 1,80 €; weitere Std.: 1,80 €; So/Feiertage: max. 1,50 €; Nacht (19:00–06:00): max. 1,50 €; 24 Std.: max. 10,00 €",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/way/28471781"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08231:50"
+        }
+      ],
+      "public_url": "https://www.ps-huefner.de/standort.php?ort=Pforzheim&id=73",
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08231:50/8c0f0128-cfd8-476b-aa7d-1f3ee36c20b3.jpg"
+    }
+  ]
+}

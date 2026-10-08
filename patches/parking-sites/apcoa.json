@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "uid": "6872",
+      "max_height": 200,
+      "fee_description": "Spieltag: PKW/Motorrad 15,00 €; Bus 25,00 €; Kleinbus 20,00 €; Wohnmobil 20,00 €; Spielfrei: PKW/Motorrad 5,00 € (45 Min. frei); Bus/Wohnmobil 20,00 €; Wohnmobil Übernachtung: 20,00 €",
+      "lat": "48.214808",
+      "lon": "11.624268",
+      "restrictions": [
+        {
+          "type": "DISABLED",
+          "capacity": 150
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/muenchen/allianz-arena"
+    },
+    {
+      "uid": "6876",
+      "max_height": 210,
+      "fee_description": "P+R Tarifinformationen erhalten Sie unter: https://www.parkundride.de",
+      "lat": "48.210538",
+      "lon": "11.619463",
+      "restrictions": [
+        {
+          "type": "WOMEN",
+          "capacity": 53
+        },
+        {
+          "type": "DISABLED",
+          "capacity": 10
+        }
+      ],
+      "has_fee": true,
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/muenchen/p-r-froettmaning"
+    },
+    {
+      "uid": "6515",
+      "opening_hours": "Mo-Su 06:00-22:00",
+      "fee_description": "1 Std.: 1,30 €; Nacht (19:00–06:00): 1,00 €; 24 Std.: max. 10,00 €",
+      "external_identifiers": [
+        {
+          "type": "OSM",
+          "value": "https://www.openstreetmap.org/node/4200614977"
+        },
+        {
+          "type": "DHID",
+          "value": "de:08118:1402"
+        }
+      ],
+      "has_fee": true,
+      "photo_url": "https://mobidata-bw.de/bfrk/haltestelle/bilder/de:08118:1402/d3c76577-37cd-40f2-8394-7476ae08fef5.jpg"
+    },
+    {
+      "uid": "9007",
+      "type": "CAR_PARK",
+      "max_height": 210,
+      "fee_description": "1 Std.: 4,50 €; 24 Std.: max. 35,00 €",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/muenchen/parkplatz-moc-veranstaltungscenter-muenchen"
+    },
+    {
+      "uid": "6875",
+      "max_height": 220,
+      "fee_description": "1 Std.: 3,00 €; 24 Std.: max. 16,00 €; Verlust Ticket: 16,00 €",
+      "public_url": "https://www.apcoa.de/einmal-parken/standorte/muenchen/tiefgarage-moc-veranstaltungscenter-muenchen"
+    }
+  ]
+}
